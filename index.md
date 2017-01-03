@@ -2,7 +2,7 @@
 
 ## About Me
 
-[about.me](http://philipchu.com/)
+[philipchu.com](http://philipchu.com/)
 
 ## Open Source
 
