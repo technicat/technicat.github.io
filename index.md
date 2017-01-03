@@ -4,10 +4,6 @@
 
 [philipchu.com](http://philipchu.com/)
 
-## Open Source
-
-[GitHub](https://github.com/technicat)
-
 ## Blog
 
 - [Medium](http://medium.com/technicat)
