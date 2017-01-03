@@ -9,6 +9,11 @@
 - [Medium](http://medium.com/technicat)
 - [Tumblr](http://tumblr.com/fugugames)
 
+## Social
+
+- [Twitter](http://twitter.com/fugugames)
+- [Instagram](http://instagram.com/fugugames)
+
 ## Games
 
 - [HyperBowl](http://hyperbowl.io/)
