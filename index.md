@@ -9,7 +9,8 @@
 
 ## Games
 
-[HyperBowl](https://hyperbowl.com/itch.io)
+- [HyperBowl](https://itch.io/hyperbowl)
+- [Fugu Games](https://fugugames.com/)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
