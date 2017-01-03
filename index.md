@@ -1,8 +1,10 @@
 ## Open Source
 
-[GitHub](https://github.com/technicat/technicat)
+[GitHub](https://github.com/technicat)
 
-### Markdown
+## Blog
+
+[Medium](https://medium.com/technicat)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
