@@ -7,6 +7,11 @@
 - [Medium](https://medium.com/technicat)
 - [Tumblr](https://tumblr.com/fugugames)
 
+## Games
+
+[HyperBowl](https://hyperbowl.com/itch.io)
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
