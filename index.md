@@ -4,7 +4,8 @@
 
 ## Blog
 
-[Medium](https://medium.com/technicat)
+- [Medium](https://medium.com/technicat)
+- [Tumblr](https://tumblr.com/fugugames)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
