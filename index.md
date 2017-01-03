@@ -12,7 +12,7 @@
 ## Social
 
 - [Twitter](http://twitter.com/fugugames)
-- [Instagram](https://www.instagram.com/fugugames)
+- [Instagram](https://www.instagram.com/fugugames/)
 
 ## Games
 
