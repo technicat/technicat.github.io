@@ -9,5 +9,5 @@
 
 ## Games
 
-- [HyperBowl](http://itch.io/hyperbowl)
+- [HyperBowl](http://hyperbowl.io/)
 - [Fugu Games](http://fugugames.com/)
