@@ -2,7 +2,8 @@
 
 ## About Me
 
-[philipchu.com](http://philipchu.com/)
+- [philipchu.com](http://philipchu.com/)
+- [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b)
 
 ## Blog
 
