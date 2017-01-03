@@ -8,7 +8,7 @@
 ## Blog
 
 - [Medium](http://medium.com/@technicat)
-- [Tumblr](http://tumblr.com/fugugames)
+- [Tumblr](http://fugugames.tumblr.com/)
 
 ## Social
 
