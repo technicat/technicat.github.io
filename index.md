@@ -1,3 +1,7 @@
+## About Me
+
+[about.me](http://philipchu.com/)
+
 ## Open Source
 
 [GitHub](https://github.com/technicat)
