@@ -2,8 +2,12 @@
 
 The GitHub page for Technicat LLC.
 
-Copyright (c) Technicat LLC.
+Uses the Jekyll Minimal theme with some modifications.
 
-Technicat logo design by Dakota Snow.
+Logo design by Dakota Snow.
+
+Copyright (c) 2017 Technicat LLC.
+
+
 
 
