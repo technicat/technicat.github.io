@@ -6,7 +6,7 @@
 
 ### Social
 
-[Facebook](http://facebook.com/technicatllc), [Instagram](https://www.instagram.com/fugugames/), [Pinterest](https://www.pinterest.com/technicat/), [Twitter](http://twitter.com/fugugames)
+[Facebook](http://facebook.com/technicatllc), [Instagram](https://www.instagram.com/fugugames/), [Pinterest](https://www.pinterest.com/technicat/), [Goodreads](https://www.goodreads.com/author/show/5448182.Philip_Chu), [Twitter](http://twitter.com/fugugames)
 
 ### Games
 
