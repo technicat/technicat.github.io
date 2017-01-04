@@ -4,7 +4,7 @@
 
 ### Blog
 
-[Medium](http://medium.com/@technicat), [Tumblr](http://fugugames.tumblr.com/)
+[Medium](http://medium.com/@technicat), [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
 
 ### Social
 
