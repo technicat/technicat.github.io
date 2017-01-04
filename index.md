@@ -8,7 +8,7 @@
 
 ### Social
 
-[Twitter](http://twitter.com/fugugames), [Instagram](https://www.instagram.com/fugugames/), [Pinterest](https://www.pinterest.com/technicat/)
+[Facebook](http://facebook.com/technicatllc), [Instagram](https://www.instagram.com/fugugames/), [Pinterest](https://www.pinterest.com/technicat/), [Twitter](http://twitter.com/fugugames)
 
 ### Games
 
