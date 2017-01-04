@@ -1,8 +1,6 @@
 # Technicat LLC
 
-### About Me
-
-[philipchu.com](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
+[about me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
 
 ### Blog
 
