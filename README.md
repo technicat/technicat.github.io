@@ -1,6 +1,6 @@
 # technicat.github.io
 
-The GitHub user page for Technicat LLC.
+The GitHub page for Technicat LLC.
 
 Copyright (c) Technicat LLC.
 
