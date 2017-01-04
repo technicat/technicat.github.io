@@ -269,3 +269,9 @@ footer {
     color:#444;
   }
 }
+
+/* technicat changes */
+
+ul {
+    list-style-image: url('images/dakotasnow/CatGraphic300x300.jpg');
+}

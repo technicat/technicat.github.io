@@ -1,3 +1,9 @@
 # technicat.github.io
 
-GitHub Page for technicat
+The GitHub user page for Technicat LLC.
+
+Copyright (c) Technicat LLC.
+
+Technicat logo design by Dakota Snow.
+
+
