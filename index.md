@@ -10,7 +10,7 @@
 
 ### Social
 
-[Twitter](http://twitter.com/fugugames), [Instagram](https://www.instagram.com/fugugames/)
+[Twitter](http://twitter.com/fugugames), [Instagram](https://www.instagram.com/fugugames/), [Pinterest](https://www.pinterest.com/technicat/)
 
 ### Games
 
