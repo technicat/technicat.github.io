@@ -24,4 +24,4 @@
 
 ### Interviews
 
-[gamkedo.community](http://po.st/rrNbD5), [Appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
+[gamkedo.community](http://po.st/rrNbD5), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
