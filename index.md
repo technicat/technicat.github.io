@@ -14,7 +14,7 @@
 
 ### Games
 
-[HyperBowl](http://hyperbowl.io/), [Fugu Games](http://fugugames.com/)
+[HyperBowl](http://hyperbowl.io/), [Fugu Games](http://fugugames.com/), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
 ### Apps
 
