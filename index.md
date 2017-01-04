@@ -21,3 +21,7 @@
 ### Books
 
 [Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
+
+### Interviews
+
+[gamkedo.community](http://po.st/rrNbD5), [Appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
