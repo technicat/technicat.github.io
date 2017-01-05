@@ -10,11 +10,11 @@
 
 ### Games
 
-[HyperBowl](http://hyperbowl.io/), [Fugu Games](http://fugugames.com/), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
+[itch.io](http://hyperbowl.io/), [Game Jolt](http://gamejolt.com/games/hyperbowl/1342), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
 ### Apps
 
-[Talk Dim Sum](http://talkdimsum.com/)
+[App Store](https://itunes.apple.com/us/developer/technicat-llc/id295241742), [Google Play](https://play.google.com/store/apps/developer?id=Technicat+LLC), [Amazon Appstore](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011)
 
 ### Books
 
