@@ -4,15 +4,6 @@
 
 [Medium](http://medium.com/@technicat), [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
 
-### Social
-
- <a href="{{ site.github.owner_url }}"><img src="/images/ionicons/social-github.png" width="25"></a>
-        <a href="http://facebook.com/technicatllc"><img src="/images/ionicons/social-facebook.png" width="25"></a>
-        <a href="http://twitter.com/fugugames"><img src="/images/ionicons/social-twitter.png" width="25"></a>
-        <a href="http://instagram.com/fugugames"><img src="/images/ionicons/social-instagram.png" width="25"></a>
-         <a href="http://pinterest.com/technicat"><img src="/images/ionicons/social-pinterest.png" width="25"></a>
-        <a href="http://youtube.com/fugugames"><img src="/images/ionicons/social-youtube.png" width="25"></a>
-
 ### Games
 
 [itch.io](http://hyperbowl.io/), [Game Jolt](http://gamejolt.com/games/hyperbowl/1342), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
