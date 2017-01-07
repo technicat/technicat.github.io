@@ -24,6 +24,7 @@
   <img alt="Download on the Mac App Store"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
+
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
@@ -32,6 +33,7 @@
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
 </a>
+
 <a href="https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011">
   <img alt="Amazon Appstore"
        src="images/badges/amazon-underground-app-us-black.png" height="40" />
