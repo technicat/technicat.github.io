@@ -1,4 +1,4 @@
-[about.me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
+[about.me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
 ### Blogs
 
@@ -10,7 +10,7 @@
 
 ### Interviews
 
-[gamkedo.community](http://po.st/rrNbD5), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
+[gamkedo podcast](http://po.st/rrNbD5), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 ### Apps and Games
 
