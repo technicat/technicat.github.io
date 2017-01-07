@@ -24,10 +24,10 @@
 
 <a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
   <img alt="Download on the Mac App Store"
-       src="ownload_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
+       src="Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
 </a>
 
 <a href="https://play.google.com/store/search?q=pub:Technicat LLC">
   <img alt="Get it on Google Play"
-       src="images/badges/en_web_badge_generic.png" />
+       src="images/badges/en_badge_web_generic.png" />
 </a>
