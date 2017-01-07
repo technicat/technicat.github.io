@@ -22,7 +22,7 @@
 
 <a href="http://hyperbowl.io/">
   <img alt="Download on the Mac App Store"
-       src="images/badges/itchio/logo_transparent.png" />
+       src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
