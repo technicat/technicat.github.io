@@ -12,21 +12,17 @@
 
 [gamkedo.community](http://po.st/rrNbD5), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
-### Games
+### Apps and Games
 
 [itch.io](http://hyperbowl.io/), [Game Jolt](http://gamejolt.com/games/hyperbowl/1342), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
-### Apps
 <!--
+### Apps
 [App Store](https://itunes.apple.com/us/developer/technicat-llc/id295241742), [Google Play](https://play.google.com/store/apps/developer?id=Technicat+LLC), [Amazon Appstore](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011), [Mac App Store](https://itunes.apple.com/us/app/hyperbowl/id420366516) -->
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
-</a>
-<a href="https://play.google.com/store/search?q=pub:Technicat LLC">
-  <img alt="Get it on Google Play"
-       src="images/badges/en_badge_web_generic.png" height="40" />
 </a>
 <a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
   <img alt="Download on the Mac App Store"
@@ -35,4 +31,8 @@
 <a href="https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011">
   <img alt="Amazon Appstore"
        src="images/badges/amazon-underground-app-us-black.png" height="40" />
+</a>
+<a href="https://play.google.com/store/search?q=pub:Technicat LLC">
+  <img alt="Get it on Google Play"
+       src="images/badges/en_badge_web_generic.png" height="40" />
 </a>
