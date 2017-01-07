@@ -23,3 +23,7 @@
 <a href="https://itunes.apple.com/us/app/hyperbowl/id344209253?mt=8&at=10l6Xd&ct=ixn1fod84600xkod01g9a" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 <a href="https://geo.itunes.apple.com/us/app/hyperbowl/id420366516?mt=12&at=10l6Xd&ct=ixn1fod84600xkod01g9a" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-sm.svg) no-repeat;width:80px;height:15px;background-size:contain;"></a>
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC"><img src="images/badges/en_badge_web_generic.png" height="40"></a>
+<a href="https://play.google.com/store/search?q=pub:Technicat LLC">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
