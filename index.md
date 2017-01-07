@@ -20,4 +20,5 @@
 
 [App Store](https://itunes.apple.com/us/developer/technicat-llc/id295241742), [Google Play](https://play.google.com/store/apps/developer?id=Technicat+LLC), [Amazon Appstore](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011), [Mac App Store](https://itunes.apple.com/us/app/hyperbowl/id420366516)
 
+<a href="https://itunes.apple.com/us/app/hyperbowl/id344209253?mt=8&at=10l6Xd&ct=ixn1fod84600xkod01g9a" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC"><img src="images/badges/en_badge_web_generic.png" height="40"></a>
