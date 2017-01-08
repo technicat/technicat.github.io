@@ -10,7 +10,7 @@
 
 ### Interviews
 
-[gamkedo podcast](http://po.st/rrNbD5), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
+[gamkedo podcast](http://po.st/rrNbD5) ([iTunes])(https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 ### Apps and Games
 
