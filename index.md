@@ -8,7 +8,7 @@
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/17063557._SX120.jpg"/>
+       src="images/books/17063557._SX120_.jpg"/>
 </a>
 
 [Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
