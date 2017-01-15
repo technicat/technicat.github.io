@@ -7,7 +7,7 @@
 gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 
-### Books, Apps, and Games
+### Books, Games, and Apps
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
