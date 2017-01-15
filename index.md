@@ -1,8 +1,11 @@
 [about.me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
-### Blogs
+### Blogs and Interviews
 
 [Medium](http://medium.com/@technicat), [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
+
+gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
+
 
 ### Books
 
@@ -18,10 +21,6 @@
 <!--
 [Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
 -->
-
-### Interviews
-
-gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 ### Apps and Games
 
