@@ -7,7 +7,7 @@
 gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 
-### Books
+### Books, Apps, and Games
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
@@ -21,8 +21,6 @@ gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podc
 <!--
 [Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
 -->
-
-### Apps and Games
 
 <!-- [itch.io](http://hyperbowl.io/), [Game Jolt](http://gamejolt.com/games/hyperbowl/1342), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739) -->
 
