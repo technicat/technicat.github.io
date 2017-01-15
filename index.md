@@ -10,6 +10,10 @@
   <img alt="Learn Unity 4 for iOS Game Development"
        src="images/books/17063557._SX120_.jpg"/>
 </a>
+<a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
+  <img alt="Technicat on Software"
+       src="images/books/13417642._SY180_.jpg"/>
+</a>
 
 [Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
 
