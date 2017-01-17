@@ -4,7 +4,7 @@
 
 <a href="http://medium.com/@technicat">
   <img alt="Medium"
-       src="images/medium/lockup/medium-lockup-dark.png" height="35"/>
+       src="images/medium/lockup/medium-lockup-dark.png" height="30"/>
 </a>
 <!--
 [Medium](http://medium.com/@technicat),
