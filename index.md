@@ -1,6 +1,6 @@
 [about.me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
-### Blogs and Interviews
+<!-- ### Blogs and Interviews  -->
 
 <a href="http://medium.com/@technicat">
   <img alt="Medium"
@@ -14,7 +14,7 @@
 gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 
-### Books, Games, and Apps
+<!-- ### Books, Games, and Apps -->
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
