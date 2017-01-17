@@ -4,7 +4,7 @@
 
 <a href="http://medium.com/@technicat">
   <img alt="Medium"
-       src="images/medium/medium-lockup-dark.png" height="25"/>
+       src="images/medium/lockup/medium-lockup-dark.png" height="25"/>
 </a>
 [Medium](http://medium.com/@technicat),
 [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
