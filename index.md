@@ -18,11 +18,11 @@ gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podc
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/17063557._SX120_.jpg" height="120"/>
+       src="images/books/17063557._SX120_.jpg" height="100"/>
 </a>
 <a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
   <img alt="Technicat on Software"
-       src="images/books/13417642._SY180_.jpg" height="120"/>
+       src="images/books/13417642._SY180_.jpg" height="100"/>
 </a>
 
 <!--
