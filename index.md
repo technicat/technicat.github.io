@@ -54,7 +54,7 @@ gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podc
        src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
 </a>
 
-<a href="https://play.google.com/store/search?q=pub:Technicat LLC">
+<a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" height="40" />
 </a>
