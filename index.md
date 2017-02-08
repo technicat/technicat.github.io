@@ -62,3 +62,4 @@ gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podc
   <img alt="Amazon Appstore"
        src="images/badges/amazon-underground-app-us-black.png" height="40" />
 </a>
+<a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" /></a>
