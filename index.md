@@ -2,10 +2,10 @@
 
 <!-- ### Blogs and Interviews  -->
 
-<a href="http://medium.com/@technicat">
+<!-- a href="http://medium.com/@technicat">
   <img alt="Medium"
        src="images/medium/lockup/medium-lockup-dark.png" height="30"/>
-</a>
+</a -->
 <!--
 [Medium](http://medium.com/@technicat),
 [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
