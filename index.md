@@ -1,4 +1,5 @@
-[about.me](http://philipchu.com/), [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
+<a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a>
+[résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
 <!-- ### Blogs and Interviews  -->
 
