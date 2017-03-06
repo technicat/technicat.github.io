@@ -11,7 +11,7 @@
 [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
 -->
 
-gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2), [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
+interviews with gamkedo [podcast](http://po.st/rrNbD5)/[iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460&mt=2) and [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
 
 
 <!-- ### Books, Games, and Apps -->
