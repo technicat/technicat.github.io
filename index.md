@@ -3,7 +3,7 @@
        src="images/medium/lockup/medium-lockup-dark.png" height="30"/></a>
 <a href="http://facebook.com/technicatllc"><img src="/images/ionicons/social-facebook-outline.png" width="25"></a>
 <a href="http://twitter.com/fugugames"><img src="/images/ionicons/social-twitter-outline.png" width="25"></a>
-<a href="http://instagram.com/fugugames"><img src="/images/ionicons/social-instagram-outline.png" width="25"></a>
+<a href="http://instagram.com/fugugames"><img src="/images/ionicons/social-instagram.png" width="25"></a>
 <!-- a href="http://pinterest.com/technicat"><img src="/images/ionicons/social-pinterest-outline.png" width="25"></a -->
 <!-- a href="http://youtube.com/fugugames"><img src="/images/ionicons/social-youtube-outline.png" width="25"></a -->
 
