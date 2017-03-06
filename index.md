@@ -1,6 +1,9 @@
 <a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a>
 <a href="http://medium.com/@technicat"><img alt="Medium"
        src="images/medium/lockup/medium-lockup-dark.png" height="30"/></a>
+<a href="{{ site.github.owner_url }}"><img src="/images/ionicons/social-github-outline.png" width="25"></a>
+<a href="http://facebook.com/technicatllc"><img src="/images/ionicons/social-facebook-outline.png" width="25"></a>
+<a href="http://twitter.com/fugugames"><img src="/images/ionicons/social-twitter-outline.png" width="25"></a>
 
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739)
 
