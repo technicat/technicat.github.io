@@ -53,9 +53,9 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="itch.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
-<a href="https://hyperbowl.io">
+<a href="http://hyperbowl.io">
   <img alt="hyperbowl.io"
-       src="images/hyperbowl/hyperbowl-logo-render-a.png" height="60"/>
+       src="images/hyperbowl/hyperbowl-logo-render-a.png" height="50"/>
 </a>
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
