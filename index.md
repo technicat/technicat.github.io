@@ -49,7 +49,7 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
 </a>
 
-<a href="https://technicat.io">
+<a href="http://technicat.io">
   <img alt="technicat.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
