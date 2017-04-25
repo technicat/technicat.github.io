@@ -59,14 +59,16 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
        src="images/hyperbowl/hyperbowl-logo-render-a.png" height="50"/>
 </a>
 
-<a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
-  <img alt="Download on the Mac App Store"
-       src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
-</a>
 <a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
 </a>
+<a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
+  <img alt="Download on the Mac App Store"
+       src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
+</a>
+Also see Cinefex and WordsEye on the App Store.
+
 
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
