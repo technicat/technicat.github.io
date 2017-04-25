@@ -59,13 +59,13 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
        src="images/hyperbowl/hyperbowl-logo-render-a.png" height="50"/>
 </a>
 
-<a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
-  <img alt="Download on the Mac App Store"
-       src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
-</a>
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
+</a>
+<a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
+  <img alt="Download on the Mac App Store"
+       src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
 </a>
 
 
@@ -79,3 +79,5 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 <!--a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" alt="Get it on Windows 10" height="40"/></a -->
+
+Also see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store.
