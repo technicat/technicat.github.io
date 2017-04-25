@@ -67,7 +67,6 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
 </a>
-Also see Cinefex and WordsEye on the App Store.
 
 
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
