@@ -45,11 +45,6 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 ### Apps
 [App Store](https://itunes.apple.com/us/developer/technicat-llc/id295241742), [Google Play](https://play.google.com/store/apps/developer?id=Technicat+LLC), [Amazon Appstore](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011), [Mac App Store](https://itunes.apple.com/us/app/hyperbowl/id420366516) -->
 
-<a href="https://madewith.unity.com/en/profiles/technicat-llc">
-  <img alt="Made with Unity"
-       src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
-</a>
-
 <a href="http://technicat.io">
   <img alt="technicat.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
@@ -58,17 +53,19 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="hyperbowl.io"
        src="images/hyperbowl/hyperbowl-logo-render-a.png" height="50"/>
 </a>
+<a href="https://madewith.unity.com/en/profiles/technicat-llc">
+  <img alt="Made with Unity"
+       src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
+</a>
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
 </a>
-<a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
+<!-- a href="https://itunes.apple.com/us/app/hyperbowl/id420366516">
   <img alt="Download on the Mac App Store"
        src="images/badges/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg" />
-</a>
-
-
+</a -->
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" height="40" />
