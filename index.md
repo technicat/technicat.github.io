@@ -50,7 +50,6 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="Unity Connect"
        src="images/badges/unityconnect.png" height="40"/>
 </a>
-
 <a href="https://madewith.unity.com/en/profiles/technicat-llc">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
