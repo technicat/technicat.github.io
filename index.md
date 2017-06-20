@@ -48,11 +48,11 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 
 <a href="https://connect.unity.com/u/581cd652090915002eeb8739">
   <img alt="Unity Connect"
-       src="images/badges/unityconnect.png" height="40"/>
+       src="images/badges/unityconnect.png" height="30"/>
 </a>
 <a href="https://madewith.unity.com/en/profiles/technicat-llc">
   <img alt="Made with Unity"
-       src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
+       src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
 
 <a href="http://technicat.io">
