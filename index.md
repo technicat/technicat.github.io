@@ -9,10 +9,6 @@
 <a href="http://fugugames.tumblr.com/"><img src="/images/ionicons/social-tumblr-outline.png" width="25"></a>
 
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
-<a href="https://connect.unity.com/u/581cd652090915002eeb8739">
-  <img alt="Unity Connect"
-       src="images/badges/unityconnect.png" height="40"/>
-</a>
 <!-- [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739) -->
 
 <!-- ### Blogs and Interviews  -->
@@ -53,6 +49,10 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 <a href="https://madewith.unity.com/en/profiles/technicat-llc">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="40"/>
+</a>
+<a href="https://connect.unity.com/u/581cd652090915002eeb8739">
+  <img alt="Unity Connect"
+       src="images/badges/unityconnect.png" height="40"/>
 </a>
 
 <a href="http://technicat.io">
