@@ -11,10 +11,14 @@
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
 -->
 
-<a href="https://connect.unity.com/u/581cd652090915002eeb8739">
+<-- a href="https://connect.unity.com/u/581cd652090915002eeb8739">
   <img alt="Unity Connect"
        src="images/badges/unityconnect.png" height="30"/>
-</a>
+</a -->
+<a href="http://fugugames.com/">
+  <img alt="fugugames.com"
+       src="images/fugugames/fugusidebanner.jpg" height="40"/>
+       </a>
 
 <!-- [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739) -->
 
@@ -58,13 +62,9 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
 
-<!-- a href="http://technicat.io">
+<a href="http://technicat.io">
   <img alt="technicat.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
-</a -->
-<a href="http://fugugames.com/">
-  <img alt="fugugames.com"
-       src="images/fugugames/fugusidebanner.jpg" height="40"/>
 </a>
 <a href="http://hyperbowl.io">
   <img alt="hyperbowl.io"
