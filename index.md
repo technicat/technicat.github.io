@@ -17,7 +17,7 @@
 </a -->
 <a href="http://fugugames.com/">
   <img alt="fugugames.com"
-       src="images/fugugames/fugusidebanner.jpg" height="40"/>
+       src="images/fugugames/logos/FUGUlogo_Side.jpg" height="40"/>
        </a>
 
 <!-- [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739) -->
