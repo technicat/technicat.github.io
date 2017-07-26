@@ -11,7 +11,7 @@
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
 -->
 
-<-- a href="https://connect.unity.com/u/581cd652090915002eeb8739">
+<!-- a href="https://connect.unity.com/u/581cd652090915002eeb8739">
   <img alt="Unity Connect"
        src="images/badges/unityconnect.png" height="30"/>
 </a -->
