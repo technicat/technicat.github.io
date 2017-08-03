@@ -57,7 +57,7 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 ### Apps
 [App Store](https://itunes.apple.com/us/developer/technicat-llc/id295241742), [Google Play](https://play.google.com/store/apps/developer?id=Technicat+LLC), [Amazon Appstore](https://www.amazon.com/s/ref=bl_sr_mobile-apps?_encoding=UTF8&field-brandtextbin=Technicat%2C%20LLC&node=2350149011), [Mac App Store](https://itunes.apple.com/us/app/hyperbowl/id420366516) -->
 
-<a href="https://madewith.unity.com/en/profiles/technicat-llc">
+<a href="https://madewith.unity.com/profiles/technicat-llc">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
