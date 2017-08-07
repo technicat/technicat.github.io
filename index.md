@@ -13,7 +13,7 @@
 
 <a href="http://facebook.com/technicatllc">
   <img alt="fugugames.com"
-       src="images/technicat/TechnicatLogo480x320.jpg" height="60"/>
+       src="images/technicat/TechnicatLogo480x320.png" height="60"/>
        </a>
 <a href="http://fugugames.com/">
   <img alt="fugugames.com"
