@@ -11,6 +11,10 @@
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
 -->
 
+<a href="http://facebook.com/technicatllc">
+  <img alt="fugugames.com"
+       src="images/technicat/TechnicatLogo480x320.jpg" height="60"/>
+       </a>
 <a href="http://fugugames.com/">
   <img alt="fugugames.com"
        src="images/fugugames/logos/FUGUlogo_Side.jpg" height="60"/>
