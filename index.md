@@ -12,11 +12,11 @@
 -->
 
 <a href="http://facebook.com/technicatllc">
-  <img alt="fugugames.com"
-       src="images/technicat/TechnicatLogo480x320.png" height="60"/>
+  <img alt="Technicat"
+       src="images/technicat/TechnicatLogo480x320.png" height="70"/>
        </a>
 <a href="http://fugugames.com/">
-  <img alt="fugugames.com"
+  <img alt="Fugu Games"
        src="images/fugugames/logos/FUGUlogo_Side.jpg" height="60"/>
        </a>
 
