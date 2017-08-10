@@ -12,13 +12,23 @@
 -->
 
 <a href="http://facebook.com/technicatllc">
-  <img alt="Technicat"
+  <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" height="70"/>
        </a>
-<a href="http://fugugames.com/">
-  <img alt="Fugu Games"
+<a href="http://facebook.com/fugugames">
+  <img alt="Fugu Games on Facebook"
        src="images/fugugames/logos/FUGUlogo_Side.jpg" height="60"/>
        </a>
+ <!--      
+       <a href="http://facebook.com/hyperbowl">
+  <img alt="HyperBowl on Facebook"
+       src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
+</a>
+ <a href="http://facebook.com/talkdimsum">
+  <img alt="Talk Dim Sum on Facebook"
+       src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
+</a>
+-->
 
 <!-- ### Blogs and Interviews  -->
 
@@ -44,10 +54,6 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="Technicat on Software"
        src="images/books/13417642._SY180_.jpg" height="100"/>
 </a>
-
-<!--
-[Learn Unity 4 for iOS Game Development](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750), [Technicat on Software](https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC)
--->
 
 <!-- [itch.io](http://hyperbowl.io/), [Game Jolt](http://gamejolt.com/games/hyperbowl/1342), [Unity Connect](https://connect.unity.com/u/581cd652090915002eeb8739) -->
 
@@ -94,4 +100,4 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 <!--a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" alt="Get it on Windows 10" height="40"/></a -->
 
-Also see client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a>
+Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> are on the App Store.
