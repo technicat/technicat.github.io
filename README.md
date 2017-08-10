@@ -8,7 +8,7 @@ Uses the Jekyll Minimal theme with some modifications.
 
 Social media icons from [ionicons](http://ionicons.com).
 
-Badges are official badges from their respective sites.
+App store badges are official badges from their respective sites.
 
 Technicat cat-facing-a-monitor logo by [Dakota Snow](http://espressyourself.coffee/).
 
