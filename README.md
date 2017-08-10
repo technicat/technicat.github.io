@@ -10,7 +10,9 @@ Social media icons from [ionicons](http://ionicons.com).
 
 Badges are official badges from their respective sites.
 
-Logo design by [Dakota Snow](espressyourself.coffee).
+Technicat cat-facing-a-monitor logo design by [Dakota Snow](http://espressyourself.coffee/).
+
+Technicat cat-as-game-controller logo design by [Shane Nakamura](http://shanenakamuradesign.com).
 
 
 
