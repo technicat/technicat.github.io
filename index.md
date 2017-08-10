@@ -39,8 +39,6 @@
 [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
 -->
 
-interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460)) and [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
-
 
 <!-- ### Books, Games, and Apps -->
 
@@ -103,3 +101,5 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
 <!--a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/f2f77ec7-9ba9-4850-9ebe-77e366d08adc/English_Get_it_Win_10_InvariantCulture_Default.png" alt="Get it on Windows 10" height="40"/></a -->
 
 Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> are on the App Store.
+
+Interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460)) and [appboy](https://www.appboy.com/blog/interview-philip-chu-they-dont-make-em-like-they-used-to/)
