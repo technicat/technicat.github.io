@@ -66,4 +66,4 @@
 
 Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
-Interview with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
+Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
