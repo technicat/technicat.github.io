@@ -19,25 +19,21 @@
   <img alt="Fugu Games on Facebook"
        src="images/fugugames/logos/FUGUlogo_Side.jpg" height="60"/>
 </a --> 
-<a href="http://facebook.com/fugugames">
+<a href="http://fugugames.com/">
   <img alt="Fugu Games on Facebook"
        src="images/fugugames/FUGUlogo_Front_mark.jpg" height="60"/>
 </a>   
-<a href="http://facebook.com/hyperbowl">
+<a href="http://hyperbowl.rocks/">
   <img alt="HyperBowl on Facebook"
        src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
 </a>
- <a href="http://facebook.com/talkdimsum">
+ <a href="http://talkdimsum.com/">
   <img alt="Talk Dim Sum on Facebook"
        src="images/talkdimsum/if_dim_sum_353267_512.png" height="50"/>
 </a>
 
 <!-- ### Blogs and Interviews  -->
 
-<!-- a href="http://medium.com/@technicat">
-  <img alt="Medium"
-       src="images/medium/lockup/medium-lockup-dark.png" height="30"/>
-</a -->
 <!--
 [Medium](http://medium.com/@technicat),
 [Tumblr](http://fugugames.tumblr.com/), [Gamasutra](http://www.gamasutra.com/blogs/author/PhilChu/924713/)
