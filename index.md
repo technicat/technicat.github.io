@@ -23,7 +23,7 @@
   <img alt="HyperBowl on Facebook"
        src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
 </a>
- < a href="http://facebook.com/talkdimsum">
+ <a href="http://facebook.com/talkdimsum">
   <img alt="Talk Dim Sum on Facebook"
        src="images/talkdimsum/if_dim_sum_353267_512.png" height="50"/>
 </a>
