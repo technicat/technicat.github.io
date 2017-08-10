@@ -25,7 +25,7 @@
 </a>
  < a href="http://facebook.com/talkdimsum">
   <img alt="Talk Dim Sum on Facebook"
-       src="if_dim_sum_353267_512" height="50"/>
+       src="images/talkdimsum/if_dim_sum_353267_512.png" height="50"/>
 </a>
 
 <!-- ### Blogs and Interviews  -->
