@@ -14,17 +14,16 @@
 <a href="http://facebook.com/technicatllc">
   <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" height="70"/>
-       </a>
+</a>
 <a href="http://facebook.com/fugugames">
   <img alt="Fugu Games on Facebook"
        src="images/fugugames/logos/FUGUlogo_Side.jpg" height="60"/>
-       </a>
- <!--      
-       <a href="http://facebook.com/hyperbowl">
+</a>    
+<a href="http://facebook.com/hyperbowl">
   <img alt="HyperBowl on Facebook"
        src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
 </a>
- <a href="http://facebook.com/talkdimsum">
+ <!-- a href="http://facebook.com/talkdimsum">
   <img alt="Talk Dim Sum on Facebook"
        src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
 </a>
