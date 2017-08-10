@@ -4,7 +4,7 @@ Copyright (c) 2017 Technicat LLC.
 
 The GitHub page for Technicat LLC. Used as the main company web site.
 
-Uses the Jekyll Minimal theme with some modifications.
+Uses the [Jekyll Minimal](https://github.com/orderedlist) theme with some modifications.
 
 Social media icons from [ionicons](http://ionicons.com).
 
