@@ -18,7 +18,7 @@ Technicat cat-as-game-controller logo by [Shane Nakamura](http://shanenakamurade
 
 Fugu Games logo by [Shane Nakamura](http://shanenakamuradesigns.com).
 
-Dim sum icon from [Iconfinder](https://www.iconfinder.com/icons/353267/dim_sum_icon#size=512)
+Dim sum icon from [Iconfinder](https://www.iconfinder.com/icons/353267/dim_sum_icon)
 
 
 
