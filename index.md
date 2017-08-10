@@ -11,7 +11,7 @@
 [résumé](https://medium.com/technicat-on-software/my-medium-resume-39ff22301f5b), [demo reel](https://medium.com/technicat-on-software/my-demo-reel-704a3cf87d5e#.rwsxm88tr)
 -->
 
-<a href="http://facebook.com/technicatllc">
+<a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" height="70"/>
 </a>
