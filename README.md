@@ -10,9 +10,11 @@ Social media icons from [ionicons](http://ionicons.com).
 
 Badges are official badges from their respective sites.
 
-Technicat cat-facing-a-monitor logo design by [Dakota Snow](http://espressyourself.coffee/).
+Technicat cat-facing-a-monitor logo by [Dakota Snow](http://espressyourself.coffee/).
 
-Technicat cat-as-game-controller logo design by [Shane Nakamura](http://shanenakamuradesign.com).
+Technicat cat-as-game-controller logo by [Shane Nakamura](http://shanenakamuradesigns.com).
+
+Fugu Games logo by [Shane Nakamura](http://shanenakamuradesigns.com).
 
 
 
