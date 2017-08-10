@@ -71,6 +71,7 @@ interviews with [gamkedo](http://po.st/rrNbD5) ([iTunes](https://itunes.apple.co
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
+
 <a href="http://technicat.io">
   <img alt="technicat.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
