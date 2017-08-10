@@ -1,6 +1,6 @@
 # technicat.github.io
 
-Copyright (c) 2017 Technicat LLC. All Rights Reserved.
+Copyright (c) 2017 Technicat LLC. All Rights Reserved. (This is not open source)
 
 The GitHub page for Technicat LLC. Used as the main company web site.
 
