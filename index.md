@@ -1,4 +1,4 @@
-<!-- a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a -->
+<a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a>
 <!-- a href="http://facebook.com/technicatllc"><img src="/images/ionicons/social-facebook-outline.png" width="25"></a -->
 <a href="http://twitter.com/fugugames"><img src="/images/ionicons/social-twitter-outline.png" width="25"></a>
 <a href="http://instagram.com/fugugames"><img src="/images/ionicons/social-instagram.png" width="25"></a>
