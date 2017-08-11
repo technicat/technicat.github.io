@@ -8,7 +8,7 @@
 <!-- a href="http://medium.com/@technicat"><img alt="Medium"
        src="images/medium/lockup/medium-lockup-dark.png" height="30"/></a -->
 <a href="http://medium.com/@technicat"><img alt="Medium"
-       src="images/medium/logo/medium-m-color-100px.png" height="30"/></a>
+       src="images/medium/logo/medium-m-color-100px.png" height="30" valign="bottom"/></a>
 
 <!-- Facebook pages -->
 
