@@ -1,4 +1,4 @@
-<a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a>
+<!-- <a href="http://about.me/philchu"><img src="/images/aboutme_assets/me-badge-64.png" width="25"></a>
 <!-- a href="http://facebook.com/technicatllc"><img src="/images/ionicons/social-facebook-outline.png" width="25"></a -->
 <a href="http://twitter.com/fugugames"><img src="/images/ionicons/social-twitter-outline.png" width="25"></a>
 <a href="http://instagram.com/fugugames"><img src="/images/ionicons/social-instagram.png" width="25"></a>
@@ -9,6 +9,7 @@
        src="images/medium/lockup/medium-lockup-dark.png" height="30"/></a -->
 <a href="http://medium.com/@technicat"><img alt="Medium"
        src="images/medium/logo/medium-m-color-100px.png" height="35" valign="bottom"/></a>
+       -->
 
 <!-- Facebook pages -->
 
