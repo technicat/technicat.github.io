@@ -24,8 +24,12 @@
        src="images/books/17063557._SX120_.jpg" height="100"/>
 </a>
 <a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
-  <img alt="Technicat on Software"
+  <img alt="Technicat on Software on Amazon.com"
        src="images/books/13417642._SY180_.jpg" height="100"/>
+</a>
+<a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
+  <img alt="Technicat on Software on BN.com"
+       src="images/books/bn.jpg" height="100"/>
 </a>
 
 <a href="https://connect.unity.com/u/581cd652090915002eeb8739">
