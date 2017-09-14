@@ -33,9 +33,9 @@
 </a>
 <a href="https://leanpub.com/technicatonsoftware">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/LeanpubIcon.png" height="50"/>
+       src="images/books/LeanpubIcon.png" height="50" valign="top"/>
 </a>
-<~-- a href="https://leanpub.com/technicatonsoftware">
+<!-- a href="https://leanpub.com/technicatonsoftware">
   <img alt="Technicat on Software on BN.com"
        src="images/books/LeanpubLogo.png" height="100"/>
 </a -->
