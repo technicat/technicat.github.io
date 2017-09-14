@@ -33,7 +33,7 @@
 </a>
 <a href="https://leanpub.com/technicatonsoftware">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/LeanpubLogo.png" height="100"/>
+       src="images/books/LeanpubIcon.png" height="100"/>
 </a>
 
 <a href="http://slowgamer.com/">
