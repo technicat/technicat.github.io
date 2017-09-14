@@ -32,7 +32,7 @@
        src="images/books/bn.jpg" height="100"/>
 </a>
 
-<a href="https://connect.unity.com/u/581cd652090915002eeb8739">
+<a href="http://slowgamer.com/">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
