@@ -40,7 +40,7 @@
        src="images/books/LeanpubLogo.png" height="100"/>
 </a -->
 
-<a href="http://slowgamer.com/">
+<a href="http://omoapps.com/">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
