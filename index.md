@@ -70,4 +70,4 @@ Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefe
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
-<iframe width="552" frameborder="0" height="167" src="https://itch.io/embed/20386"></iframe>
+<iframe width="452" frameborder="0" height="167" src="https://itch.io/embed/20386"></iframe>
