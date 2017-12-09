@@ -27,7 +27,6 @@
   <img alt="Learn Unity 2017 for iOS Game Development"
        src="images/books/learnunity2017.jpg" height="100"/>
 </a>
-
 <a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
   <img alt="Technicat on Software on Amazon.com"
        src="images/books/techsoft.jpg" height="100"/>
