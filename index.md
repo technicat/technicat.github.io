@@ -49,8 +49,8 @@
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
 </a>
 
-<a href="http://technicat.io">
-  <img alt="technicat.io"
+<a href="http://technicat.itch.io">
+  <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
 
