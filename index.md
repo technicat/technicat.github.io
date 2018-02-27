@@ -73,6 +73,4 @@ Client work: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">C
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
-Technicat does not work with third-party recruiters.
-
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fugugames" data-widget-id="347186558539026432">Tweets by @fugugames</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
