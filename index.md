@@ -69,7 +69,7 @@
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 
-Client work: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
+Client projects: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
