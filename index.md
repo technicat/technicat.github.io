@@ -17,7 +17,7 @@
        src="images/talkdimsum/if_dim_sum_353267_512.png" height="50"/>
 </a>
 
-<!-- ### Books, Games, and Apps -->
+<!-- 
 
 <a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
   <img alt="Learn Unity 4 for iOS Game Development"
@@ -34,7 +34,7 @@
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="100"/>
-</a>
+</a> -->
 <!-- a href="https://leanpub.com/technicatonsoftware">
   <img alt="Technicat on Software on BN.com"
        src="images/books/LeanpubIcon.png" height="50" valign="top"/>
@@ -68,6 +68,8 @@
        src="images/badges/amazon-underground-app-us-black.png" height="40" />
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
+
+Books published on [amazon.com](https://amazon.com/author/philchu") and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
 
 Client projects: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
