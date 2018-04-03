@@ -42,12 +42,12 @@
 <!-- a href="https://leanpub.com/technicatonsoftware">
   <img alt="Technicat on Software on BN.com"
        src="images/books/LeanpubLogo.png" height="100"/>
-</a -->
+</a>
 
 <a href="http://omoapps.com/">
   <img alt="Made with Unity"
        src="images/badges/made-with-unity-logo-png/mwu-logo-rgb.png" height="30"/>
-</a>
+</a -->
 
 <a href="http://technicat.itch.io">
   <img alt="technicat on itch.io"
@@ -71,7 +71,7 @@
 
 Books published on [amazon.com](https://amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
 
-Client projects: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
+Client projects: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store, and the [portfolio](http://omoapps.com) on Unity Connect
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
