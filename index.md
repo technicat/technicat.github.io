@@ -69,9 +69,9 @@
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 
-Books published on [amazon.com](https://amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
-
 Client projects: see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store and the [Unity Connect portfolio](http://omoapps.com)
+
+Books published on [amazon.com](https://amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
