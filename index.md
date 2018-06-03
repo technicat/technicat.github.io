@@ -69,6 +69,8 @@
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge"><img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 
+Games built with Unity are subject to the <a href="https://unity3d.com/legal/privacy-policy">Unity privacy policy</a>.
+
 Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> are currently on the App Store. Also see the [Unity Connect portfolio](http://omoapps.com)
 
 Books published on [amazon.com](https://amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
