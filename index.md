@@ -41,6 +41,10 @@
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" height="40"/>
 </a>
+<a href="https://store.steampowered.com/app/847530/HyperBowl/">
+  <img alt="Steam"
+       src="images/badges/steam.png" height="40" />
+</a>
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
@@ -57,10 +61,7 @@
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge">
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
-  <a href="https://store.steampowered.com/app/847530/HyperBowl/">
-  <img alt="Steam"
-       src="images/badges/steam.png" height="40" />
-</a>
+
 
 
 Also see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
