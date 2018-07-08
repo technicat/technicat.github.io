@@ -43,7 +43,7 @@
 </a>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
-       src="images/badges/steam.png" height="50" />
+       src="images/badges/steam.png" height="40" />
 </a>
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
