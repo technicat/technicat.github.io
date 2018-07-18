@@ -68,7 +68,7 @@ Also see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</
 
 Other projects listed on [Unity Connect](http://omoapps.com)
 
-Books published on [amazon.com](https://amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
+Books published on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
 
 Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
 
