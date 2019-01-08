@@ -46,15 +46,6 @@
        src="images/badges/steam.png" height="40" />
 </a>
 
-<a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
-  <img alt="Download on the Mac App Store"
-       src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
-</a>
-<a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
-  <img alt="Get it on Google Play"
-       src="images/badges/en_badge_web_generic.png" height="40" />
-</a>
-
 <a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
        src="images/badges/amazon-underground-app-us-black.png" height="40" />
@@ -63,6 +54,15 @@
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 
 
+
+<a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
+  <img alt="Download on the Mac App Store"
+       src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
+</a>
+<a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
+  <img alt="Get it on Google Play"
+       src="images/badges/en_badge_web_generic.png" height="40" />
+</a>
 
 Also see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
