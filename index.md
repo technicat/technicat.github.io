@@ -66,7 +66,7 @@
 
 Also see <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
-Other projects listed on [Unity Connect](http://omoapps.com)
+Portfolio on [Unity Connect](http://omoapps.com)
 
 Books on [amazon.com](https://smile.amazon.com/author/philchu)
 
