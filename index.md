@@ -72,7 +72,8 @@ Books on [amazon.com](https://smile.amazon.com/author/philchu)
 
 <!-- and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 
-Interview with [gamkedo](http://po.st/rrNbD5) (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460))
+Interview with [gamkedo](http://po.st/rrNbD5)
+<!-- (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460)) -->
 
 <!-- a href="https://www.buymeacoffee.com/technicat" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a -->
 
