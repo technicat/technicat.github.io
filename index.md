@@ -67,12 +67,13 @@
   <img alt="Download on the Apple Book Store"
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
 </a>
+Books also on [amazon.com](https://smile.amazon.com/author/philchu)
 
 Also <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
 Portfolio on [Unity Connect](http://omoapps.com)
 
-Books on [amazon.com](https://smile.amazon.com/author/philchu)
+
 
 <!-- and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 
