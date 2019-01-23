@@ -62,6 +62,11 @@
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge">
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40"/></a>
 
+  <a href="https://itunes.apple.com/us/book/technicat-on-software/id1281141151?ls=1&mt=11">
+  <img alt="Download on the Apple Book Store"
+       src="images/badges/apple/Apple_Books_Small_Badge_RGB_081018.svg" />
+</a>
+
 Also <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
 
 Portfolio on [Unity Connect](http://omoapps.com)
