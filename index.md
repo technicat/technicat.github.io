@@ -65,7 +65,7 @@
 
 <a href="https://itunes.apple.com/us/book/technicat-on-software/id1281141151?ls=1&mt=11">
   <img alt="Download on the Apple Book Store"
-       src="images/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
+       src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
 </a>
 
 Also <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
