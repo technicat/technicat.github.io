@@ -63,7 +63,7 @@
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40" />
 </a>
 
-<a href="https://itunes.apple.com/us/book/technicat-on-software/id1281141151?ls=1&mt=11">
+<a href="https://itunes.apple.com/us/artist/philip-chu/210832223">
   <img alt="Download on the Apple Book Store"
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
 </a>
