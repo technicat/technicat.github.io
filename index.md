@@ -52,18 +52,18 @@
 </a>
 <a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
-       src="images/badges/amazon-underground-app-us-black.png" height="40" />
+       src="images/badges/amazon/amazon-underground-app-us-black.png" height="40" />
 </a>
 
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the Mac App Store"
-       src="images/badges/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
+       src="images/badges/apple/Download_on_the_App_Store_Badge_US-UK_135x40.svg" />
 </a>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge">
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" height="40" />
 </a>
 
-<a href="https://itunes.apple.com/us/artist/philip-chu/210832223">
+<a href="https://itunes.apple.com/us/book/technicat-on-software/id1281141151?mt=11">
   <img alt="Download on the Apple Book Store"
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
 </a>
