@@ -7,7 +7,7 @@
 <a href="http://fugugames.com/">
   <img alt="Fugu Games on Facebook"
        src="images/fugugames/FUGUlogo_Front_mark.jpg" height="60"/>
-</a-->   
+</a>   
 <a href="http://hyperbowl.rocks/">
   <img alt="HyperBowl on Facebook"
        src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="50"/>
@@ -15,7 +15,7 @@
  <a href="http://talkdimsum.com/">
   <img alt="Talk Dim Sum on Facebook"
        src="images/talkdimsum/if_dim_sum_353267_512.png" height="50"/>
-</a>
+</a -->
 
 <!-- 
 
