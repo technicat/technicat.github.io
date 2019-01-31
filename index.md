@@ -27,13 +27,7 @@
   <img alt="Learn Unity 2017 for iOS Game Development"
        src="images/books/learnunity2017.jpg" height="100"/>
 </a>
-<a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
-  <img alt="Technicat on Software on Amazon.com"
-       src="images/books/techsoft.jpg" height="100"/>
-</a>
-<a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
-  <img alt="Technicat on Software on BN.com"
-       src="images/books/bn.jpg" height="100"/>
+
 </a> -->
 
 
@@ -67,6 +61,13 @@
   <img alt="Download on the Apple Book Store"
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" />
 </a>
+<a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
+  <img alt="Technicat on Software on Amazon.com"
+       src="images/books/techsoft.jpg" height="40"/>
+</a>
+<a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
+  <img alt="Technicat on Software on BN.com"
+       src="images/books/bn.jpg" height="40"/>
 
 Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
 
