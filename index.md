@@ -2,7 +2,7 @@
 
 <a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
-       src="images/technicat/TechnicatLogo480x320.png" height="width 200"/>
+       src="images/technicat/TechnicatLogo480x320.png" width="200"/>
 </a>
 <!-- a href="http://fugugames.com/">
   <img alt="Fugu Games on Facebook"
