@@ -27,7 +27,7 @@
   <img alt="Steam"
        src="images/badges/steam.png" width="135" />
 </a>
-<br/>
+<p/>
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
@@ -68,8 +68,8 @@
 <!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
 <p/>
 Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
-  <br/>
-Interview with [gamkedo](http://po.st/rrNbD5)
+<br/>
+Interview with <a href="http://po.st/rrNbD5">Gamkedo</a>
 
 <!-- and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 <!-- (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460)) -->
