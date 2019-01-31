@@ -63,7 +63,7 @@
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="50"/>
-
+</a>
 <!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 <!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
 <p/>
