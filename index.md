@@ -64,8 +64,8 @@
 </a>
 <!-- a href="https://www.amazon.com/Learn-Unity-2017-Game-Development/dp/1484231732">
   <img alt="Learn Unity 2017 for iOS Game Development"
-       src="images/books/learnunity2017.jpg" height="40"/ -->
-</a>
+       src="images/books/learnunity2017.jpg" height="40"/>
+</a -->
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="40"/>
