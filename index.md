@@ -1,10 +1,10 @@
 <!-- Facebook pages -->
 
-<!-- a href="http://technicat.cafe/">
+<a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
-       src="images/technicat/TechnicatLogo480x320.png" height="70"/>
+       src="images/technicat/TechnicatLogo480x320.png" height="150"/>
 </a>
-<a href="http://fugugames.com/">
+<!-- a href="http://fugugames.com/">
   <img alt="Fugu Games on Facebook"
        src="images/fugugames/FUGUlogo_Front_mark.jpg" height="60"/>
 </a>   
