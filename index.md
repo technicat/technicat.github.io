@@ -19,14 +19,7 @@
 
 <!-- 
 
-<a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
-  <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/learnunity.jpg" height="100"/>
-</a>
-<a href="https://www.amazon.com/Learn-Unity-2017-Game-Development/dp/1484231732">
-  <img alt="Learn Unity 2017 for iOS Game Development"
-       src="images/books/learnunity2017.jpg" height="100"/>
-</a>
+
 
 </a> -->
 
@@ -64,6 +57,14 @@
 <a href="https://www.amazon.com/Technicat-Software-Philip-Chu-ebook/dp/B00703SOLC">
   <img alt="Technicat on Software on Amazon.com"
        src="images/books/techsoft.jpg" height="40"/>
+</a>
+<a href="https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750">
+  <img alt="Learn Unity 4 for iOS Game Development"
+       src="images/books/learnunity.jpg" height="40"/>
+</a>
+<a href="https://www.amazon.com/Learn-Unity-2017-Game-Development/dp/1484231732">
+  <img alt="Learn Unity 2017 for iOS Game Development"
+       src="images/books/learnunity2017.jpg" height="40"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
