@@ -71,11 +71,6 @@
        src="images/books/bn.jpg" height="40"/>
 
 <!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
-
-<a href="http://technicat.cafe/">
-  <img alt="Technicat on Facebook"
-       src="images/technicat/TechnicatLogo480x320.png" height="70"/>
-</a>
 <!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
 
 Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
