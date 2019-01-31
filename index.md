@@ -62,15 +62,15 @@
   <img alt="Learn Unity 4 for iOS Game Development"
        src="images/books/learnunity.jpg" height="40"/>
 </a>
-<a href="https://www.amazon.com/Learn-Unity-2017-Game-Development/dp/1484231732">
+<!-- a href="https://www.amazon.com/Learn-Unity-2017-Game-Development/dp/1484231732">
   <img alt="Learn Unity 2017 for iOS Game Development"
-       src="images/books/learnunity2017.jpg" height="40"/>
+       src="images/books/learnunity2017.jpg" height="40"/ -->
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="40"/>
 
-Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall)
+<!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 
 
 Portfolio on [Unity Connect](http://technicat.cafe)
