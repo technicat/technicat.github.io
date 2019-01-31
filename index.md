@@ -25,7 +25,7 @@
 
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
-       src="images/badges/steam.png" width="200" />
+       src="images/badges/steam.png" width="135" />
 </a>
 
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
