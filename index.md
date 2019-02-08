@@ -16,7 +16,7 @@
 </a -->
 
 
-<a href="http://technicat.itch.io">
+<a href="http://wholebraingames.com/">
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" width="135"/>
 </a>
