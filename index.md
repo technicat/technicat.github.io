@@ -1,4 +1,4 @@
-<a href="http://omoapps.com/">
+<a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" width="135"/>
 </a><br/>
