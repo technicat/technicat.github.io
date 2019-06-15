@@ -79,7 +79,7 @@ Interview with <a href="http://po.st/rrNbD5">Gamkedo</a>
 
 
   {% for post in site.posts %}
-   </br>
+   <br/>
       <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
 
