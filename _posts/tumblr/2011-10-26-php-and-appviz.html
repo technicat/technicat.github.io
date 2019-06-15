@@ -1,0 +1,56 @@
+---
+layout: post
+title: PHP and AppViz
+date: '2011-10-26T13:22:56-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515785921/php-and-appviz
+---
+<p>With my latest revision of the <a href="http://fugugames.com/">Fugu Games</a> site, I use PHP to read the sales totals and reviews export files from AppViz. If you want to do something similar, here&rsquo;s some of my code to get you started.</p>
+
+<p>First, to read the sales totals (we skip over the Mac App Store entries)</p>
+
+<p><code><br/>
+$sales = file("Total Sales by Product.txt");<br/>
+array_shift($sales); // get rid of column headers<br/>
+$salestotal = array();<br/>
+$saleslabel = array();<br/>
+$maxlength = 0;<br/>
+while (list ($index, $val) = each($sales)) {<br/>
+$val = trim($val);<br/>
+$valarray = explode("t",$val);<br/>
+$num = array_pop($valarray);<br/>
+$type = array_pop($valarray);</code></p>
+
+<p>if ($type != &ldquo;Mac&rdquo;) {<br/>
+$name = array_pop($valarray);</p>
+
+<p>$realnum = str_replace(&ldquo;,&rdquo;, &ldquo;&rdquo;, $num);<br/>
+if ($realnum&gt;$maxlength) $maxlength = $realnum;</p>
+
+<p>$salestotal[$name]=$realnum;<br/>
+$saleslabel[$name]=$num;<br/>
+}</p>
+
+<p>}</p>
+
+<p>arsort($salestotal,SORT_NUMERIC);<br/></p>
+
+<p>and the code for reading the reviews export.</p>
+
+<p><code><br/>
+$reviews = file("Reviews.txt");<br/>
+$fivestars = array();<br/>
+array_reverse($reviews);<br/>
+while (list ($index, $val) = each($reviews)) {<br/>
+$val = trim($val);<br/>
+$valarray = explode("t",$val);<br/>
+$review = array_pop($valarray);<br/>
+$author = array_pop($valarray);<br/>
+$rating = array_pop($valarray);<br/>
+$title = array_pop($valarray);<br/>
+$country = array_pop($valarray);<br/>
+$version = array_pop($valarray);<br/>
+$date = array_pop($valarray);<br/>
+$type = array_pop($valarray);<br/>
+$name = array_pop($valarray);<br/>
+}<br/></code></p>

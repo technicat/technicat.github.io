@@ -1,0 +1,25 @@
+---
+layout: post
+title: Cleaning out a Unity Build with an Editor Script
+date: '2013-04-06T04:51:34-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612473706/cleaning-out-a-unity-build-with-an-editor-script
+---
+<p>I got tired of rooting around in the Mac Finder every time I wanted to remove that last Unity build, so I made simple Editor window that displays the build path and a button to delete it.</p>
+
+<p><code><br/>
+public class Build : EditorWindow {</code></p>
+
+<p>       [MenuItem (&ldquo;FuguGames/Build&rdquo;)]<br/>
+       static void Init() {<br/>
+       	      	 EditorWindow win = EditorWindow.GetWindow(typeof(Build));<br/>
+	}</p>
+
+<p>	public void OnGUI() {<br/>
+	       string path = EditorUserBuildSettings.GetBuildLocation(EditorUserBuildSettings.activeBuildTarget);<br/>
+	       EditorGUILayout.LabelField(path);  <br/>
+	       if (GUILayout.Button(&ldquo;Delete Build&rdquo;)) {<br/>
+	       	  FileUtil.DeleteFileOrDirectory(path);<br/>
+	       }<br/>
+	}<br/>
+}<br/></p>

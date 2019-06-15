@@ -1,0 +1,16 @@
+---
+layout: post
+title: Custom Script Execution Order
+date: '2012-04-11T13:43:02-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515846546/custom-script-execution-order
+---
+<p>Game scripting systems usually provide Update callbacks that execute once per frame. But sometimes you want to execute some code after one or more objects have been updated, e.g. I want to update the ball-following camera in <a href="http://hyperbowl3d.com/">HyperBowl</a> after the ball&rsquo;s position has been updated. So Unity has a typical hack, a LateUpdate callback that runs after all Update&rsquo;s have been run, and I use LateUpdate instead of Update in the camera code.</p>
+
+<p>But now I have another camera script that ensures the camera doesn&rsquo;t dip below the ground, and that needs to run after the follow code. I don&rsquo;t expect Unity to supply a LaterUpdate callback or LateLateUpdate, but they have something better. If you select a script in the Project pane, the Inspector will present an option to customize script order:</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2012/04/Screen-shot-2012-04-10-at-11.19.19-AM.png"><img class="alignnone size-full wp-image-5439" title="Screen shot 2012-04-10 at 11.19.19 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2012/04/Screen-shot-2012-04-10-at-11.19.19-AM.png" alt="" width="334" height="76"/></a></p>
+
+<p>Once you click on that, you select and order scripts before and after the default. For example, I specify that my follow camera script runs after other scripts, and then I specify the ground hugging script executes after the follow script. And I just use Update, no more LateUpdate&rsquo;s.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2012/04/Screen-shot-2012-04-10-at-12.19.48-AM.png"><img class="alignnone size-full wp-image-5440" title="Screen shot 2012-04-10 at 12.19.48 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2012/04/Screen-shot-2012-04-10-at-12.19.48-AM.png" alt="" width="339" height="285"/></a></p>

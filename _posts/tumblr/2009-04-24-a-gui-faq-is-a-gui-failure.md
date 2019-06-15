@@ -1,0 +1,13 @@
+---
+layout: post
+title: A GUI FAQ is a GUI Failure
+date: '2009-04-24T13:52:25-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110318348866/a-gui-faq-is-a-gui-failure
+---
+Every year I switch from TurboTax to TaxCut or vica versa, depending on what I didn’t like about the other product last year. This time around, I chose TaxCut and was peeved that I couldn’t enter individual items in my business expense fields. I tried double-clicking the fields, which I seemed to remember would bring up the tabular itemized entry in previous versions (or maybe that was TurboTax), to no avail. So I had to add up each category separately with my calculator and every time I took a pass through my taxes, I couldn’t tell if that lump sum was finished, or not. Eventually, I turned in my taxes like a bad software release ( whether or not you’re happy with it, it’s time to go, and I’m sick of working on it anyway). Afterwards, I&nbsp; opened up the program again to check on something I might have forgotten and saw, on the business expense screen, on the bottom right hand corner at the end of the “FAQ” column, an item mentioning that to itemize entries you need to select the option under the Edit menu. Argh.
+
+- TaxCut for the most part does not require use of the menu bar menus. There are bug huge icons for opening and continuing returns, and buttons for navigating through the tax preparation and submitting the tax form. I went through the whole program from beginning to end without using the menu bar. So to decide, “hey, let’s put this feature only in the menu bar” is like saying “hey, let’s hide this feature”
+- FAQ’s are generally useful, but if you have an item about the GUI in the FAQ (particularly in the nature of “where can I find this button?”), there’s something wrong with the GUI. A FAQ does not make a good GUI.
+- This particular FAQ item is in the wrong place at the wrong time. I don’t know why I didn’t see it earlier - perhaps it showed up in one of the updates (after customers frequently asked about it), in which case I wouldn’t see it unless I went back to that page. Or maybe I just missed it. But that’s one of those things that should be right at the beginning of that section or even at the beginning of the whole form, not at the bottom of a bunch of “Did you know you could deduct” and “What’s a form xxxx?” questions.
+It’s not easy to make a good GUI (although it should be easy to spot a bad one). However, tax programs have the luxury of being the same every year, year after year. If any program should be polished by now, it’s a tax program. No need to innovate - just put everything where we can find it (and please, no Microsoft ribbon interface!)

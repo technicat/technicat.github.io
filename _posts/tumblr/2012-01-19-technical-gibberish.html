@@ -1,0 +1,21 @@
+---
+layout: post
+title: Technical Gibberish
+date: '2012-01-19T09:29:53-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515816696/technical-gibberish
+---
+<p>For a while, I had some system info displayed in some of my Unity apps, partly for my own benefit and partly to assist customers in reporting useful device information (wishful thinking, perhaps). I ended up removing some of it after Amazon rejected HyperBowl initially for displaying &ldquo;technical gibberish&rdquo;, but it remains alive in <a href="https://market.android.com/details?id=com.technicat.fugusystem">Fugu System</a> on Android (not on the App Store - Apple rejected it as having not enough entertainment value), which I envisioned as some hybrid between a 3D benchmarking app and one of those system info apps showing device ID&rsquo;s, memory usage, etc. (never mind Unity doesn&rsquo;t have all those functions). In any case, the info display code serves as an example usage of the various Unity system info functions:</p>
+
+<p><code><br/>
+function Start() {<br/>
+guiText.text = "Device ID: "+SystemInfo.deviceUniqueIdentifier+"n"+<br/>
+SystemInfo.deviceModel+"n"+<br/>
+SystemInfo.operatingSystem+" "+SystemInfo.systemMemorySize + "MBn"+<br/>
+SystemInfo.processorCount+" "+SystemInfo.processorType+"n"+<br/>
+SystemInfo.graphicsDeviceName+" "+SystemInfo.graphicsMemorySize+"MBn"+<br/>
+Screen.width+"x"+Screen.height+" pixelsn"+<br/>
+"Multitouch "+(Input.multiTouchEnabled ? "yes" : "no")+<br/>
+" Gyroscope "+(Input.isGyroAvailable ? "yes" : "no")+"n"+<br/>
+Application.systemLanguage.ToString();<br/>
+}</code></p>

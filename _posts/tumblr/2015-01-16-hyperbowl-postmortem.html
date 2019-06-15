@@ -1,0 +1,119 @@
+---
+layout: post
+title: HyperBowl Postmortem
+date: '2015-01-16T18:20:19-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110698092606/hyperbowl-postmortem
+---
+<p><strong>Game Data</strong>
+</p><ul><li>Publisher: Technicat, LLC (Fugu Games)</li>
+	<li>Release Date: July 2009 (App Store) and May 2011 (Google Play)</li>
+	<li>Number of Developers: 1 (not counting all the original HyperBowl developers)</li>
+	<li>Number of Contractors: 0</li>
+	<li>Length of Project: 6 years (and counting)</li>
+	<li>Development Hardware: A succession of MacBook Pros and iOS devices, Android devices, 1 PC.</li>
+	<li>Development Software: Unity Android and iOS Pro. SVN, git, mercurial. GIMP. Visual Studio. FBX SDK. GarageBand, iMovie. Aquamacs.</li>
+	<li>Project Size: Approximately 70,000 lines of C# and Javascript (some from plugins)</li>
+</ul><strong>Introduction</strong>
+
+After looking at the Game Developer/Gamasutra-style <a href="http://gamasutra.com/blogs/PhilChu/20121207/183083/Classic_Postmortem_Taking_a_Whirl_Tour_on_the_Nintendo_GameCube.php#comments">postmortem</a> of a GameCube title I worked on back in 2002, it occurred to me it&rsquo;s about time I wrote another one. I&rsquo;ve been holding off on a postmortem for my Unity version of <a href="http://hyperbowl3d.com/">HyperBowl</a>, a 3D bowling game in which you bowl through various fantasy worlds (ancient Rome, the deck of a rocking ship, the streets of San Francisco&hellip;), until I achieved Flappy Bird success, but maybe I shouldn&rsquo;t hold my breath. So here it is:
+
+<strong>What Went Right</strong>
+
+<b>Keeping Bridges Unburnt</b>
+
+This version of HyperBowl came about because I worked on the original HyperBowl, developed by Hyper Entertainment and first deployed as an attraction game at the Sony Metreon in San Francisco. I only worked at Hyper Entertainment for the first few months of 2001 but kept in touch with the Director of Development there, Aaron Pulkka (now running his own show at <a href="http://rabbx.com/">Rabbx</a>).
+
+Around the time Unity announced their upcoming iPhone support, I mentioned to Aaron  that I thought that would be a good way to get HyperBowl running on the iPhone. He agreed and suggested I just ask the owners of Hyper, and whaddya know, they said sure, they&rsquo;re not actively developing it anymore, so why not. And thus they granted me a license to develop it for the web, Mac/PC, mobile and the Wii (basically everything that Unity supported at the time).
+
+<strong>Using Unity</strong>
+
+Unity was the right choice for the game engine. In a way, Unity chose HyperBowl, as I started using Unity in 2007 because it ran on a Mac and had a webplayer and I happened to meet Joachim Ante at WWDC.  I only thought of porting HyperBowl to the iPhone a couple of years later when I heard the plans for Unity iPhone support and immediately thought how the screen aspect ratio of the iPhone was a good match for the tall projection screen of the original attraction game (nowadays, you can still find some of the attraction HyperBowls still running in venues like Dave and Busters with upended flat screen TVs replacing the original screens).
+
+So using Unity was the expedient choice and default choice, but it turned out to be a good choice. I didn&rsquo;t realize at the time it would be as popular as it is today (I believe this was before they made the Indie version free) and before Unity Android. The multi-platform support is a huge advantage. Even though my focus is mobile, I&rsquo;ve also made Mac, Windows, webplayer, Flash, and Mac widget versions of HyperBowl, and the only major code difference is the between the touchscreen and mouse-driven control code.
+
+I could have eschewed middleware altogether, but I had enough trouble just resuscitating the code enough for the asset conversion, much less port it to multiple new platforms. And I would have had to implement or do without a lot of goodies that we take for granted in modern game engines, like bump map shaders and dynamic shadows.
+
+<strong>Getting the Source Code</strong>
+
+In addition to the license, Hyper Entertainment provided the original source assets, including the audio, textures, models and also the source code for both the arcade and Windows versions of the game. And not just the files, but the original development PCs, one with the arcade version and one with the Windows version, so I was able to compare them and choose one as a starting point.
+
+The first thing I did after booting up the PCs, even before connecting to the Internet, was copy everything I could find onto DVDs and my own computers, then committing everything to version control. This was fortuitous, as I next made the mistake of connecting one PC to the Internet, and instead of something momentous like the Forbin Project, it bogged down downloading a gazillion Windows Updates and ultimately suffered a hard disk crash. The other PC eventually just crashed on its own.
+
+<strong>Exporting to FBX</strong>
+
+After a few unsuccessful attempts at running the original assets to Unity&rsquo;s accepted file formats through various converters (and enduring one vendor&rsquo;s &ldquo;I am the super guru of 3D conversion software&rdquo;), I decided I might as well export the data directly from the game and that Unity&rsquo;s preferred model format really was FBX. When I tried converting the game assets to OBJ format, for example, those files wouldn&rsquo;t import successfully into Unity, and then when I tried the OBJ converter included in the FBX SDK and got the same result, I figured Unity is just using those same converters to FBX under the hood, so might as well just skip the middleman.
+
+So I got the old code to build just well enough, with a few generations newer Visual Studio and stubbed out calls to old middleware, to the point where I could launch the game and load the lanes (equivalent to levels). That&rsquo;s was good enough to integrate the FBX SDK and and have the game immediately write FBX files for each lane (level) on startup (and startup was about the only thing it could do).
+
+In retrospect, this was by far the better approach, and not just because the other approach wasn&rsquo;t working. If I had been able to convert all the original model files, I would have had to manually import them into Unity and then manually reconstruct the scene hierarchy for each lane, or write some Unity Editor scripts to perform the reconstruction. With each lane as a single FBX file exported from the game, I just had a handful of FBX files to import and no piecing together with Unity was necessary.
+
+<strong>Prototyping an App</strong>
+
+While I was trying to figure out how to convert the original HyperBowl assets, in order to test my idea for the bowling controls, I created a no frills bowling app, called Fugu Bowl (in the mode of Ford cars, I preface my other app names with Fugu, under the Fugu Games label. It&rsquo;s a long story that involves watching the Food Network late at night).
+
+The control I had in mind, swiping the screen to roll the ball (although with Unity&rsquo;s game engine, PhysX, it works better to push the ball rather than apply a torque), is intended to emulate the trackball-like operation of the original bowling ball controller. In fact, the arcade version essentially had a trackball, whereas the original attraction game featured a real bowling ball that required you to put some weight into it.
+
+I thought the result worked pretty well, and the app was surprisingly popular, despite consisting only of a monochromatic ball, capsules for pins, a plane for the bowling lane, and no bowling game rules beyond playing kids boos and cheers for gutters, spares and strikes. This was probably largely due to introducing the app in the early days of the App Store. It was my first app (another reason to release a simple app, first - figure out all those App Store submission intricacies), but it does pain me a little bit that my first app is still my most downloaded app.
+
+<strong>Fans on Facebook</strong>
+
+Of course I did the social media thing: twitter, google+, youtube&hellip;but the most successful platform has been the HyperBowl Facebook group. Currently it has a big over 800 &ldquo;fans&rdquo;, but more important than the quantity, some of them are loyal, supportive, enthusiastic fans who provide suggestions, requests, bug reports, and even localization (got some help on Chinese and French). Showing the benefit of a licensed title, many of the Facebook fans enjoyed the original attraction or Windows version of the game.
+
+Quick tip: you can set up your Facebook page to automatically share posts to a twitter feed. This hopefully will new users to both your game and the Facebook page and saves you the trouble of manually posting the same news on two different social platforms.
+
+<strong>Indie Is In</strong>
+
+The first reviews, among all my apps, included a lot of negative reviews. And by negative, I mean snarky, condescending and amazingly prone to affront by a cheap or free app. That&rsquo;s pretty rare, now, and I don&rsquo;t think it&rsquo;s because my apps improved. The biggest difference, I believe, is that indie is in. People sympathize with the single developer or small studio and recognize there are limited resources, and even if they don&rsquo;t like the product, they appreciate the effort. Even now, a harsh criticism can turn into a supportive message if I respond, hey, I&rsquo;m the only one working on this.
+
+That&rsquo;s from the peanut gallery. The other source of snobbery is from the I&rsquo;m-a-gamedev-pro-and-this-isn&rsquo;t-AAA crowd. I&rsquo;ve seen comments like this in gamedev forums, too, but when that game designer who&rsquo;s used to working in a studio has to come crawling back for simple help in scripting, the attitude changes. By now, enough game developers have gone from salaried work to budding iPhone game developers (and then often back to salaried work - there really should be a rotational system where we can swap places), AAA elitism seems to have dissipated.
+
+<strong>What Went Wrong</strong>
+
+<strong>Exporting to FBX</strong>
+
+Converting the original game assets to FBX was definitely the way to go, but it wasn&rsquo;t fun. When people say they dream of becoming game programmers (people do say that, right?) I&rsquo;m sure they&rsquo;re not talking about becoming toolchain programmers.
+
+Amazingly, I could not recognize a single line of HyperBowl code I wrote that long ago, even though there are portions I&rsquo;m sure I must have written (I was not one of the original HyperBowl programmers, but I put in some optimizations and updates to work with newer graphics hardware). But whoever wrote it, that code was generally clean - it&rsquo;s not hard to traverse the scene and gather all the model and texture info.
+
+The part I didn&rsquo;t like was working with the FBX SDK. Contrary to popular belief, FBX is not a file format. Sure, it has a file format, but it&rsquo;s deliberately undocumented - they tell you not to mess with trying to read/write the file yourself, but instead do everything through the SDK, which changes whenever (when FBX is called an &ldquo;industry standard&rdquo;, that just means Autodesk, kind of like the Borg was industry standard). So I had to make sure I was writing a version of the FBX mystery meat that Unity could read, since it was running on the previous version of the SDK, and that involved some weird string matching in the writer initialization (as I recall, there&rsquo;s no way to say &ldquo;I just want that one&rdquo;).
+
+The irony is that the game files I was converting to FBX were actually in a proprietary, but obsolete, format that had the same model as FBX - undocumented format, always use the SDK. Because the vendor will always be around, right?
+
+<strong>Losing the Source Code</strong>
+
+Not to fear, I didn&rsquo;t lose the source code! At least, not the original source code. And I&rsquo;ve got all the Unity projects also hosted offset in version control. No, the stuff I lost was the jury-rigged FBX export I wedged into the original game. I probably wasn&rsquo;t careful about saving it because I figured I&rsquo;d never need to run it again. In fact, I was so sick of repeatedly exporting to FBX, importing into Unity, realizing something was off then tweaking and repeating the export, that I left some details up to manual fixes inside Unity.
+
+For example, the texture coordinates were coming out flipped from the way Unity was interpreting them so all the textures were displayed upside down. That&rsquo;s something I should have fixed in the exporter, but I had reached the point where I couldn&rsquo;t stand it anymore and just manually adjusted them within the Unity Editor. But that means I&rsquo;d have to do it every time I reexported. However, one PC crash and a few years later, when I thought about adding some optimizations to the export (e.g. the camera is always facing one direction as you bowl, so every static backfacing poly in the scene could be removed) I was faced with the prospect of reimplementing the whole thing. So that&rsquo;s it, as long as Unity can read FBX files from 2007, the pipeline is closed.
+
+<strong>Too Little Marketing</strong>
+
+I think the HyperBowl Facebook page looks good and has a decent number of followers, and I&rsquo;m doing OK in general on twitter (though that&rsquo;s not HyperBowl-specific). But my other attempts at marketing have been at best sporadic. Theoretically, I&rsquo;m willing to put spend on marketing when I have the time and income, but that&rsquo;s like saying I&rsquo;ll do it when I&rsquo;m unemployed yet making money.
+
+When I&rsquo;m between paying gigs, I do at least put more effort into marketing, and I think it does make a difference in sales. Putting out promo codes, frequent updates (which is a way of getting more promo codes), Facebook posts, localization (China sales are up), contacting reviewers and bloggers, that all seems to help, although with the market getting more and more crowded, everything makes less and less of a difference. To be honest, my all-time revenue graph  is more or less bell shaped, with the peak occurring a couple of Christmases ago.
+
+A note about piracy. For a while, someone was cracking my iOS app within hours of every update. I find that obnoxious, and contrary to what some piracy defenders say, it didn&rsquo;t seem to help sales. But it didn&rsquo;t seem to hurt sales, either. On the other hand, in the past few months the number of cracked Android APKs have proliferated (not just download sites but also activations, dutifully tracked by Unity Analytics), and during the same period my Google Play sales have dropped dramatically. Probably unrelated, but hmm&hellip;
+
+<strong>Too Little Monetization</strong>
+
+When I started making apps, I didn&rsquo;t really consider incorporating ads, partly because there wasn&rsquo;t a convenient way to try out an ad service without writing your own Unity plugin, and partly because I don&rsquo;t like seeing ads, myself. So for every app, I charged or left it free. But one day I saw that prime31 had introduced an iAd plugin, so I tried it out on my trustworthy testbed app, Fugu Bowl, just so I would know how to set up iAds. Several months later, I checked my ad revenue and realized I was making some money. &ldquo;Ads for everyone!&rdquo; I proclaimed.
+
+Unity now includes API access to iAds, so the prime31 plugin is not necessary (I keep it around as a fallback just in case - for a while, the early Unity iAd implementation was not as polished as the prime31 plugin). The generalized Unity ad API doesn&rsquo;t include AdMob or anything else on Android, so there I&rsquo;m still using a prime31 plugin. I might try Unity Ads at some point, or Chartboost (I&rsquo;ve received some developer recommendations), or maybe I&rsquo;ll drag myself onto the freemium bandwagon and implement in-app purchases. (&ldquo;IAP for everyone&rdquo; I will proclaim)
+
+<strong>Too Much Monetization</strong>
+
+By too much monetization, I don&rsquo;t mean too much money. I wish. Rather, one of my few real regrets is wasting time trying out various mobile ad networks just because someone emailed me. First of all, it&rsquo;s just annoying that the account rep always want you to set up a skype chat instead of just providing a documented SDK. And then it&rsquo;s laborious explaining to the rep later, slowly, that the reason you&rsquo;re no longer using it is that it earns a pittance or it doesn&rsquo;t work the way you want (or at all).
+
+I realize I may not be getting the best revenue from my current ad networks (iAd and AdMob) but my current setup is convenient and reliable, and the time spent switching back and forth between other ad networks and plugins is better spent trying to attain Flappy Bird numbers.
+
+<b>Too Little</b>
+
+This may seem like just a technical detail, but after importing all the lanes, I discovered all of the geometry was smaller than expected by a factor of 100, assuming one distance unit in Unity should represent one meter (and it does, if you go by the default physics settings, lighting distances, camera scripts and so on). At first I went with my usual theory, that the artists screwed up the original source assets, and I went about adjusting the physics parameters, lighting and culling distances, camera scripts and so on. After all, theoretically it&rsquo;s unitless and arbitrary, so this should work. What could go wrong?
+
+Well, physics went wrong. The game was playable and looked right, the pins fell at more or less the right speed, but they didn&rsquo;t always fall - sometimes they just kind of tilted. There was other weird stuff, all probably due to numerical precision issues. Or maybe I just did something wrong. But finally, I realized that Unity has an import scale factor that defaults to 0.01 so that it just works with the conventional use of centimeters in Maya, and when I reimported everything with no scaling and set all the other values back the way they were, Earth physics was back (I always wanted to add a moon gravity lane, though).
+
+<strong>Lessons Learned</strong>
+
+This just goes to show that you can learn a lot about a game engine with small projects, and that&rsquo;s probably the best way to start, but to really learn a game engine (and game development, for that matter), you need to create a large project that exercises a lot of features all together. In fact, I was invited by Apress a couple of years ago to write a Unity iOS book, and my first inclination was to make a whole bunch of small examples that demonstrated different features (touch input, accelerometer&hellip;) But trying to plan out the structure of the book, I ended up making another simple bowling game (sort of a Fugu Bowl with HyperBowl aspirations) so you can see how it all comes together.
+
+And the cross-platform support of Unity is still paying off (and I&rsquo;m still paying for it - those Pro licenses for each platform does add up&hellip;). I didn&rsquo;t get sidetracked into Blackberry or Windows Phone, but a Wii U version may be on the horizon this year&hellip;

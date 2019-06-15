@@ -1,0 +1,22 @@
+---
+layout: post
+title: A Really Small Unity Web Player
+date: '2010-02-27T15:02:46-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110318426466/a-really-small-unity-web-player
+---
+<p>How small can you make a Unity web player? Well, I haven&rsquo;t bothered to try building an empty scene to see its size, but it must be less than 20K, because my menu scene on <a href="http://fugugames.com/">Fugu Games </a>is 19,534 bytes. I wouldn&rsquo;t say it&rsquo;s imperative to make it that small, but it is the first scene that automatically loads on the site&rsquo;s home page, so it should load reasonably quickly for anyone, anywhere (as long as they&rsquo;re on a platform that supports the Unity web plugin). And if some Flash developer starts acting superior about file sizes, you can retort &ldquo;can you do 3D in  20k?&rdquo;.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-19.png"><img class="alignnone size-full wp-image-3219" title="Picture 19" src="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-19.png" alt="" width="447" height="355"/></a></p>
+
+<p>There isn&rsquo;t much to this scene - just some textured spheres scripted to constantly look at the mouse position (just in case you didn&rsquo;t realize this is 3D), a single directional light (again, 3D), and some mouseover and mouseclick behavior, the latter which loads the bigger players (some of which could use a Biggest Loser treatment).</p>
+
+<p>Even with this simple example, it took a little effort to squeeze it down. One standard technique - scale down the textures size. The original size of the texture is overkill for small spheres. Setting the max texture size to 256 didn&rsquo;t noticeably degrade the graphics (although 128x128 started to look coarse).</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-16.png"><img class="alignnone size-full wp-image-3218" title="Picture 16" src="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-16.png" alt="" width="416" height="680"/></a></p>
+
+<p>A less obvious source of unnecessary texture size is the font. There&rsquo;s just one font here, but we&rsquo;re certainly not using the whole Unicode character set. And I decided I didn&rsquo;t really need mixed-case text.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-18.png"><img class="alignnone size-full wp-image-3220" title="Picture 18" src="http://itshardtofondlepenguins.com/wp-content/uploads/2010/02/Picture-18.png" alt="" width="423" height="249"/></a></p>
+
+<p>Finally, I removed the Pro and Standard Assets from the project, primarily to remove the scripts I&rsquo;m not using. Even unused scripts are built into the web player.</p>

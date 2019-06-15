@@ -1,0 +1,129 @@
+---
+layout: post
+title: GameCenter with Prime31 Option
+date: '2014-01-16T09:49:19-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612517256/gamecenter-with-prime31-option
+---
+I started using Game Center with the Prime31 plugin and later switched to the Unity Social class, figuring the fewer plugins the better. But now I&rsquo;m swinging back the other way, figuring hey, I paid for all those plugins, and besides, I want to start using features not available in Social - on the fancy pants end, there&rsquo;s GameKit multiplayer, and there are some little features not exposed in Social, e.g., you can retrieve the images of your Game Center friends, but not the player? I assume that&rsquo;s an oversight, but in the meantime, I augmented my Game Center wrapper script with a Prime31 option.
+
+<pre>
+using UnityEngine;
+
+using UnityEngine.SocialPlatforms.GameCenter;
+
+namespace Fugu {
+	
+	sealed public class GameCenter : MonoBehaviour {
+
+		public bool showAchievementBanners = true;
+		// Use this for initialization
+		void Start () {
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+		Social.localUser.Authenticate ( success =&gt; {
+      	  if (success &amp;&amp; showAchievementBanners) {
+				GameCenterPlatform.ShowDefaultAchievementCompletionBanner(showAchievementBanners);
+				Debug.Log ("Authenticated "+Social.localUser.userName);
+        	}
+			else {
+				Debug.Log ("Failed to authenticate "+Social.localUser.userName);
+			}
+		}
+    	);
+#endif
+#if UNITY_IPHONE &amp;&amp; P31_GC
+			GameCenterBinding.authenticateLocalPlayer();
+			if (showAchievementBanners) {
+				GameCenterBinding.showCompletionBannerForAchievements();
+			}
+#endif
+	}
+		
+	static public void Achievement(string name) {
+			Achievement(name,100.0f);
+		}
+		
+	static public void Achievement(string name, float progress) {
+		if (IsAuthenticated ()) {
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+			Social.ReportProgress(name,progress, success =&gt; {
+#if FUGU_DEBUG
+			if (success) {
+				Debug.Log("Achievement "+name+" reported successfully");
+			} else {
+				Debug.Log("Failed to report achievement "+name);
+			}
+#endif
+		});
+#endif
+#if UNITY_IPHONE &amp;&amp; P31_GC
+			GameCenterBinding.reportAchievement(name,progress);
+#endif
+		}
+}
+
+	static public void Score(string name,long score) {
+			if (IsAuthenticated ()) {
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+			  Social.ReportScore (score, name, success =&gt; {
+#if FUGU_DEBUG
+			if (success) {
+				Debug.Log("Posted "+score+" on leaderboard "+name);
+			} else {
+				Debug.Log("Failed to post "+score+" on leaderboard "+name);
+			}
+#endif
+		});
+#endif
+#if UNITY_IPHONE &amp;&amp; P31_GC
+				GameCenterBinding.reportScore(score, name);
+#endif
+			}
+}
+
+	static public bool IsAuthenticated() {
+#if !UNITY_IPHONE
+			return false;
+#endif
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+			return Social.localUser.authenticated;
+#endif
+#if UNITY_IPHONE &amp;&amp; P31_GC
+			return GameCenterBinding.isPlayerAuthenticated();
+#endif
+		}
+
+			static public string GetName() {
+			if (!IsAuthenticated ()) {
+				return "Player";
+			} else {
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+				return Social.localUser.userName;
+#endif
+				#if UNITY_IPHONE &amp;&amp; P31_GC
+				return GameCenterBinding.playerAlias();
+				#endif
+			}
+		}
+
+		static public void ShowLeaderboard() {
+#if UNITY_IPHONE &amp;&amp; !P31_GC
+			Social.ShowLeaderboardUI ();
+#endif
+#if UNITY_IPHONE &amp;&amp; P31_GC
+			GameCenterBinding.showLeaderboardWithTimeScope (GameCenterLeaderboardTimeScope.AllTime);
+#endif
+		}
+
+		static public void ShowAchievements() {
+			#if UNITY_IPHONE &amp;&amp; !P31_GC
+			Social.ShowAchievementsUI ();
+			#endif
+			#if UNITY_IPHONE &amp;&amp; P31_GC
+			GameCenterBinding.showAchievements ();
+			#endif
+		}
+	
+}
+}
+</pre>

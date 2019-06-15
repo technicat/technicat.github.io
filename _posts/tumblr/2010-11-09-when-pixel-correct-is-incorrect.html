@@ -1,0 +1,14 @@
+---
+layout: post
+title: When Pixel Correct Is Incorrect
+date: '2010-11-09T03:08:12-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110411982091/when-pixel-correct-is-incorrect
+---
+<p>The nice thing about 3D is that it&rsquo;s resolution-independent. So it is with some smugness that I&rsquo;ve seen my Unity 3D apps scale nicely with the iPad and the 4th-generation iPhone and iPod touch while 2D developers have to scramble to convert their assets (never mind they can just sell them as &ldquo;HD&rdquo; apps and charge more). But I do have some 2D elements, e.g. on-screen help text using GUIText. Fortunately, there&rsquo;s a quick fix. By default, GUIText has its pixel-correct checkbox on, which specifies the text will be displayed at the imported font resolution.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2010/11/Screen-shot-2010-11-08-at-11.54.52-PM.png"><img class="alignnone size-full wp-image-4010" title="Screen shot 2010-11-08 at 11.54.52 PM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2010/11/Screen-shot-2010-11-08-at-11.54.52-PM.png" alt="" width="453" height="350"/></a></p>
+
+<p>Uncheck the box, and you can scale it. Also, more important for my purposes here, the text will scale (implicitly, with the GUI coordinate system) with the screen resolution. The text isn&rsquo;t as crisp as before, but then again, I don&rsquo;t have to write code that swaps fonts.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2010/11/IMG_0235.png"><img class="alignnone size-full wp-image-4009" title="IMG_0235" src="http://itshardtofondlepenguins.com/wp-content/uploads/2010/11/IMG_0235.png" alt="" width="576" height="384"/></a></p>

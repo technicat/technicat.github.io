@@ -1,0 +1,18 @@
+---
+layout: post
+title: Bit by the Unity Bee
+date: '2011-06-28T13:46:34-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515727816/bit-by-the-unity-bee
+---
+<p>I never quite understood Walter Brennan&rsquo;s question in <a href="http://en.wikipedia.org/wiki/To_Have_and_Have_Not_(film)">To Have and Have Not</a> &ldquo;Have you ever been bit by a dead bee?&rdquo;, but it seems to convey the feeling I get when I&rsquo;ve been bitten by something not quite a bug. I just ran into one in Unity (meaning I just discovered it after letting it mess me up for a while), so here&rsquo;s a list of &ldquo;best practices&rdquo;, or rather, bad practices to avoid:</p>
+
+<p><em>Overriding predefined MonoBehaviour functions. </em>Know your callbacks! I was wondering why some of my scene objects kept mysteriously changing position in the Editor. It&rsquo;s like a form of gaslighting. Turns out I had defined some Reset functions that I call successfully at runtime to position the objects before starting an animation, but <a href="http://unity3d.com/support/documentation/ScriptReference/MonoBehaviour.Reset.html">Reset</a> is a callback invoked by the Editor. Read the <a href="http://unity3d.com/support/documentation/ScriptReference/index.html">Unity Scripting Reference</a>!</p>
+
+<p><em>Overriding Mono classes. </em>I think Unity warns you about this now, but at one time I implemented a class named <a href="http://docs.go-mono.com/System.Collections.Generic.Dictionary%602">Dictionary</a> for a typing game (Fugu Type). That would crash the game, eventually. Since then, in lieu of namespaces, I try to ensure I pick unique names for my scripts (e.g. in HyperBowl, my classes are named HyperCamera, HyperBall, HyperTextureAnimation, etc.)</p>
+
+<p><em>Importing FBX at the default scale. </em>The default scale is 0.01, which is perfect if your model is in centimeters. When I first imported the <a href="http://hyperbowl3d.com/">HyperBowl</a> assets, which were in meters, instead of reimporting with a scale of 1, I tried to adjust all the other unit-dependent parameters in the game correspondingly - near/far planes, light distances, physics settings&hellip;The result was really wonky physics. Eventually, I had to reimport everything and redo a lot of work.</p>
+
+<p><em>Play on Awake sounds. </em>When you create a new sound clip, the Play on Awake option defaults to on. That is almost never what you want, and then later when you try to figure out where that odd sound effect is coming from when you start the scene, it&rsquo;s really hard to find. Save yourself some grief and turn that option off immediately.</p>
+
+<p><em>Don&rsquo;t move with SVN. </em>Unity added<a href="http://unity3d.com/support/documentation/Manual/ExternalVersionControlSystemSupport.html"> support for source control systems</a> like <a href="http://subversion.tigris.org/">subversion</a>, but that just means the Unity files are (optionally) compatible with the systems. It&rsquo;s not really integrated, so if you commit your project to subversion and then move or delete some files, it&rsquo;s a mess - you have to separately inform subversion that you moved/deleted them. So do your reorg first, or wait for <a href="http://blogs.unity3d.com/2011/06/16/unity-roadmap-2011/">Unity 3.5</a>.</p>

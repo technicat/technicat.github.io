@@ -1,0 +1,28 @@
+---
+layout: post
+title: Bad Variable Name
+date: '2012-02-05T00:28:09-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515821606/bad-variable-name
+---
+<p>The latest update of <a href="http://hyperbowl3d.com/">HyperBowl</a> fixes one of those embarrassing bugs that you can&rsquo;t believe has been there all this time. It might not have been there from the beginning - in the function below, which calculates the score for a frame that rolled a strike, the parameter was named &ldquo;frame&rdquo;, but then I think at some point I got paranoid that I was actually referencing a static variable named &ldquo;frame&rdquo; which represents the current frame. But somehow I still used &ldquo;frame&rdquo; instead of &ldquo;f&rdquo; to check if we&rsquo;ve reached the ninth frame, and since we may be calculating strike scores two frames behind the current one, I&rsquo;m really treating the seventh and eighth frames specially, thus depriving players of perfect 300 scores.</p>
+
+<p>This may look like a case of don&rsquo;t-use-global-variables, but &ldquo;frame&rdquo; could easily be non-static and not change the problem. It&rsquo;s really a case of bad variable naming - we&rsquo;re not talking Hungarian notation here, just a more precise name like &ldquo;currentFrame&rdquo; would have avoided this confusion (and then &ldquo;frame&rdquo; would be a much improved parameter name over &ldquo;f&rdquo;). So I&rsquo;ll fix that&hellip;yeah, one of these days&hellip;</p>
+
+<p><code><br/>
+// calculate and set the strike score for the given frame<br/>
+// not called for the final frame<br/>
+function SetStrikeScore(f:int) {<br/>
+var scores:FrameScore[] = GetCurrentPlayer().scores;<br/>
+var framescore:FrameScore = scores[f];<br/>
+framescore.total = framescore.ball1;<br/>
+// always add the score from first roll of the next frame<br/>
+framescore.total+=scores[f+1].ball1;<br/>
+// if not the ninth or tenth frame, and the next frame is a strike, then add the the ball1 score from the frame after that<br/>
+if (f &lt; 8 &amp;&amp; IsStrike(f+1)) {<br/>
+framescore.total+=scores[f+2].ball1;<br/>
+} else {<br/>
+// for the ninth frame (frame 8) add the second ball from the next (final) frame (there always is one)<br/>
+framescore.total+=scores[f+1].ball2;<br/>
+}<br/>
+}<br/></code></p>

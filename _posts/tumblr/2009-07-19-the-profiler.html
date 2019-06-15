@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Profiler
+date: '2009-07-19T04:13:49-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110318365916/the-profiler
+---
+<p>I&rsquo;m an old-fashioned programmer - just give me a compiler and some variant of Emacs and I&rsquo;m all set. Those newfangled IDE&rsquo;s, wizards and assistants just try to turn programming into programming-for-dummies, which is fine until you really have to figure out what&rsquo;s going on. I&rsquo;ve never even used debuggers much - a few print statements and actually reading and thinking about your code can unravel most mysteries.</p>
+
+<p>But I love profilers. Especially in Lisp and Java, call chain profilers that display a directed graph of the calls. In games that&rsquo;s somewhat problematic, as a lot of time goes into &ldquo;other&rdquo;, but on the other hand, you have a hard target - a desired frame rate. On the first game I professionally worked on, one of the first things I did was add an fps counter. After all, how can you improve the frame rate if you can&rsquo;t measure it? That&rsquo;s pretty much standard now - in <a href="http://unity3d.com/">Unity</a>, it&rsquo;s easy to add your own in a script, and the Unity Editor displays frame rate and other stats that help you discern what&rsquo;s bogging down the frame rate. And I belatedly discovered the profiler on Unity iPhone that runs while you&rsquo;re testing on the device (how long has that been there?)</p>
+
+<p>For example this profile on an app I recently submitted to the App Store indicates I shouldn&rsquo;t waste effort on optimizing my scripts - I really need to reduce the rendering burden.</p>
+
+<p><img class="alignnone size-full wp-image-2252" title="profiler" src="http://itshardtofondlepenguins.com/wp-content/uploads/2009/07/profiler.png" alt="profiler" width="595" height="176"/></p>
+
+<p>Remember that TV show The Profiler? What if it was about a programmer optimizing code. Sixty minutes of a programmer peering at&hellip;never mind. Worst..show&hellip;ever.</p>
+
+<p>But profiling is one of those programming &ldquo;best practices&rdquo; that can be applied universally (like in business, management and politics). Optimizing this and that might make you feel good, but in the big picture it&rsquo;s useless if you don&rsquo;t figure out the bottleneck and tackle that.</p>

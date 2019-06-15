@@ -1,0 +1,106 @@
+---
+layout: post
+title: Inspecting the Android Manifest (again)
+date: '2012-01-17T18:01:49-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515814746/inspecting-the-android-manifest-again
+---
+<p>A while ago I blogged a tip on how to see what&rsquo;s in your Unity-generated Android manifest file, by inspecting file in your project&rsquo;s temp/stage directory right after you perform a build. However, that directory disappears when you change projects or exit Unity. What to do after that? Use the aapt tool in your Android SDK (under the platform-tools directory), like this:</p>
+
+<p><code><br/>
+aapt dump xmltree HyperBowl.apk AndroidManifest.xml<br/></code></p>
+
+<p>which will print out the contents:</p>
+
+<p><code><br/>
+N: android=http://schemas.android.com/apk/res/android<br/>
+  E: manifest (line=2)<br/>
+    A: android:versionCode(0x0101021b)=(type 0x10)0x20<br/>
+    A: android:versionName(0x0101021c)="3.15" (Raw: "3.15")<br/>
+    A: android:installLocation(0x010102b7)=(type 0x10)0x2<br/>
+    A: package="com.technicat.HyperBowl" (Raw: "com.technicat.HyperBowl")<br/>
+    E: supports-screens (line=3)<br/>
+      A: android:anyDensity(0x0101026c)=(type 0x12)0xffffffff<br/>
+      A: android:smallScreens(0x01010284)=(type 0x12)0xffffffff<br/>
+      A: android:normalScreens(0x01010285)=(type 0x12)0xffffffff<br/>
+      A: android:largeScreens(0x01010286)=(type 0x12)0xffffffff<br/>
+      A: android:xlargeScreens(0x010102bf)=(type 0x12)0xffffffff<br/>
+    E: application (line=4)<br/>
+      A: android:label(0x01010001)=@0x7f050029<br/>
+      A: android:icon(0x01010002)=@0x7f020000<br/>
+      A: android:debuggable(0x0101000f)=(type 0x12)0x0<br/>
+      E: activity (line=5)<br/>
+        A: android:label(0x01010001)=@0x7f050029<br/>
+        A: android:name(0x01010003)="com.unity3d.player.UnityPlayerActivity" (Raw: "com.unity3d.player.UnityPlayerActivity")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xb0<br/>
+        E: intent-filter (line=6)<br/>
+          E: action (line=7)<br/>
+            A: android:name(0x01010003)="android.intent.action.MAIN" (Raw: "android.intent.action.MAIN")<br/>
+          E: category (line=8)<br/>
+            A: android:name(0x01010003)="android.intent.category.LAUNCHER" (Raw: "android.intent.category.LAUNCHER")<br/>
+      E: activity (line=11)<br/>
+        A: android:label(0x01010001)=@0x7f050029<br/>
+        A: android:name(0x01010003)="com.unity3d.player.VideoPlayer" (Raw: "com.unity3d.player.VideoPlayer")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xb0<br/>
+      E: activity (line=14)<br/>
+        A: android:name(0x01010003)="com.google.ads.AdActivity" (Raw: "com.google.ads.AdActivity")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xb0<br/>
+      E: activity (line=15)<br/>
+        A: android:name(0x01010003)="com.prime31.EtceteraProxyActivity" (Raw: "com.prime31.EtceteraProxyActivity")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: configChanges="keyboardHidden|orientation" (Raw: "keyboardHidden|orientation")<br/>
+      E: activity (line=17)<br/>
+        A: android:name(0x01010003)="com.prime31.WebViewActivity" (Raw: "com.prime31.WebViewActivity")<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0x80<br/>
+      E: activity (line=19)<br/>
+        A: android:name(0x01010003)="com.prime31.P31VideoPlayerActivity" (Raw: "com.prime31.P31VideoPlayerActivity")<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xb0<br/>
+      E: activity (line=21)<br/>
+        A: android:theme(0x01010000)=@0x1030006<br/>
+        A: android:label(0x01010001)="IntroFlow" (Raw: "IntroFlow")<br/>
+        A: android:name(0x01010003)="com.openfeint.internal.ui.IntroFlow" (Raw: "com.openfeint.internal.ui.IntroFlow")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xa0<br/>
+      E: activity (line=22)<br/>
+        A: android:theme(0x01010000)=@0x1030006<br/>
+        A: android:label(0x01010001)="Dashboard" (Raw: "Dashboard")<br/>
+        A: android:name(0x01010003)="com.openfeint.api.ui.Dashboard" (Raw: "com.openfeint.api.ui.Dashboard")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xa0<br/>
+      E: activity (line=23)<br/>
+        A: android:theme(0x01010000)=@0x1030006<br/>
+        A: android:label(0x01010001)="Settings" (Raw: "Settings")<br/>
+        A: android:name(0x01010003)="com.openfeint.internal.ui.Settings" (Raw: "com.openfeint.internal.ui.Settings")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xa0<br/>
+      E: activity (line=24)<br/>
+        A: android:theme(0x01010000)=@0x1030006<br/>
+        A: android:label(0x01010001)="NativeBrowser" (Raw: "NativeBrowser")<br/>
+        A: android:name(0x01010003)="com.openfeint.internal.ui.NativeBrowser" (Raw: "com.openfeint.internal.ui.NativeBrowser")<br/>
+        A: android:screenOrientation(0x0101001e)=(type 0x10)0x1<br/>
+        A: android:configChanges(0x0101001f)=(type 0x11)0xa0<br/>
+    E: uses-permission (line=28)<br/>
+      A: android:name(0x01010003)="android.permission.INTERNET" (Raw: "android.permission.INTERNET")<br/>
+    E: uses-permission (line=29)<br/>
+      A: android:name(0x01010003)="android.permission.ACCESS_NETWORK_STATE" (Raw: "android.permission.ACCESS_NETWORK_STATE")<br/>
+    E: uses-permission (line=30)<br/>
+      A: android:name(0x01010003)="android.permission.BLUETOOTH" (Raw: "android.permission.BLUETOOTH")<br/>
+    E: uses-permission (line=31)<br/>
+      A: android:name(0x01010003)="android.permission.BLUETOOTH_ADMIN" (Raw: "android.permission.BLUETOOTH_ADMIN")<br/>
+    E: receiver (line=32)<br/>
+      A: android:name(0x01010003)="com.google.ads.InstallReceiver" (Raw: "com.google.ads.InstallReceiver")<br/>
+      A: android:exported(0x01010010)=(type 0x12)0xffffffff<br/>
+      E: intent-filter (line=33)<br/>
+        E: action (line=34)<br/>
+          A: android:name(0x01010003)="com.android.vending.INSTALL_REFERRER" (Raw: "com.android.vending.INSTALL_REFERRER")<br/>
+    E: uses-feature (line=37)<br/>
+      A: android:glEsVersion(0x01010281)=(type 0x11)0x20000<br/>
+    E: uses-feature (line=38)<br/>
+      A: android:name(0x01010003)="android.hardware.touchscreen.multitouch" (Raw: "android.hardware.touchscreen.multitouch")<br/>
+      A: android:required(0x0101028e)=(type 0x12)0xffffffff<br/>
+    E: uses-sdk (line=39)<br/>
+      A: android:minSdkVersion(0x0101020c)=(type 0x10)0x6<br/>
+      A: android:targetSdkVersion(0x01010270)=(type 0x10)0xe<br/></code></p>

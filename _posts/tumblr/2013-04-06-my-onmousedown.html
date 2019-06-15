@@ -1,0 +1,35 @@
+---
+layout: post
+title: My OnMouseDown
+date: '2013-04-06T21:44:26-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612474146/my-onmousedown
+---
+<p>I used to roll my own OnMouseDown on Unity mobile, so that my front end menu screens in HyperBowl worked the same on desktop, webplayer and mobile. I removed that code after Unity implemented OnMouseDown themselves. But those warnings about how OnMouseDown may impact performance are beginning to worry me, so I&rsquo;m renaming my OnMouseDown callbacks to avoid the warning (and the possible slowdown, wherever it may be), and I brought back my OnMouseDown issuing code. It&rsquo;s a bit cleaner, and now in C#.</p>
+
+<p>Attach it to a Camera, and it will perform raycasts to the Camera&rsquo;s visible layers, and then trigger the callback, which I&rsquo;ve hardcoded to the name OnButtonDown (along with the raycast distance - both could be public properties), since I&rsquo;m just using it for the front end menu buttons in HyperBowl. So the raycasts are just limited to that particular camera, that camera&rsquo;s visible layers, and that particular scene. And I check the timeScale to see if the game is pause, which in HyperBowl means the pause menu is up and front end interface should be frozen.</p>
+
+<p><code><br/>
+public class ButtonDown : MonoBehaviour {<br/>
+#if UNITY_IPHONE || UNITY_ANDROID		<br/>
+	private int layermask = 0;<br/><br/>
+	const float distance = 150.0f;</code></p>
+
+<p>	void  Awake() {<br/>
+		layermask=camera.cullingMask;<br/>
+	}<br/><br/>
+	void Update () {<br/>
+		if (Time.timeScale !=0 ) {<br/>
+			RaycastHit hit;<br/>
+			for (int i = 0; i &lt; Input.touchCount; ++i) {<br/>
+				Touch touch = Input.GetTouch(i);<br/>
+				if (touch.phase == TouchPhase.Began) {<br/>
+				// Construct a ray from the current touch coordinates<br/>
+					Ray ray = camera.ScreenPointToRay (touch.position);<br/>
+					if (Physics.Raycast (ray,out hit,distance,layermask)) {<br/>
+						hit.transform.gameObject.SendMessage(&ldquo;OnButtonDown&rdquo;);<br/>
+					}<br/>
+				}<br/>
+			}<br/>
+		}<br/>
+	}<br/></p>

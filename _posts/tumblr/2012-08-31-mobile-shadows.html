@@ -1,0 +1,14 @@
+---
+layout: post
+title: Mobile Shadows
+date: '2012-08-31T21:07:20-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612435611/mobile-shadows
+---
+<p>My first batch of updates built with the Unity 4 public beta is out now, and one of the new features I went nutty with is mobile dynamic shadows, as shown below in <a href="http://itunes.apple.com/us/app/hyperbowl-high-seas/id376613860">HyperBowl High Seas</a>. It works the same as the desktop dynamic shadows, but with some additional limitations. Only hard shadows are supported, the resolution is limited so to avoid jagged shadows you need to limit the shadow distance, which can then create the issue of shadows popping on unexpectedly as you move around (an issue I have with the shadows on the bowling pins - I just hope no one notices). For most of the <a href="http://hyperbowl3d.com/">HyperBowl</a> lanes so far, I have to keep the shadow distance to no more than 30.</p>
+
+<p>The other issue is performance - on the iPad2 and iPad3 (and I&rsquo;m going to guess the iPhone 4S), it knocks the frame rate in HyperBowl from 60 to 30fps, and in older devices down to less than 30fps. I&rsquo;m a bit leery of its performance with the retina display resolution of the iPad 3. I thought I had it looking good (screenshot below), but the released app showed some jaggy shadow edges and was oddly jittery, pausing every half second or so. But my test runs on the next update look OK. So I&rsquo;ll probably turn it off again and make it a user option for now. However, for simpler apps like <a href="http://itunes.apple.com/us/app/fugubowl/id297032758">Fugu Bowl</a> and <a href="http://itunes.apple.com/us/app/fugutilt/id295241739">Fugu Tilt</a> I may leave it on (I should really do some profiling). And I&rsquo;d love to add shadows to <a href="http://itunes.apple.com/app/fugu-maze/id295808255">Fugu Maze</a>.</p>
+
+<p>On Android I&rsquo;m leaving shadows alone. It requires depth texture support, which rules out all of my test devices (Tegra, old PowerVR&hellip;) So, at first I was wildly excited about mobile dynamic shadows and declared it my favorite feature of Unity 4, but I&rsquo;ll have to back off that a bit. Still cool, but the other dynamic feature, dynamic fonts, is actually a lot more useful (now I can fix all the tiny text on the iPad 3).</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2012/08/IMG_0016.png"><img class="alignnone size-large wp-image-5778" title="IMG_0016" src="http://itshardtofondlepenguins.com/wp-content/uploads/2012/08/IMG_0016-768x1024.png" alt="" width="608" height="810"/></a></p>

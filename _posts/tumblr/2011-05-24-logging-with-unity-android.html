@@ -1,0 +1,42 @@
+---
+layout: post
+title: Logging with Unity Android
+date: '2011-05-24T13:58:31-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110412036096/logging-with-unity-android
+---
+<p>Logging a test run with Unity Android is not difficult, but the steps are different than with Unity iOS.</p>
+
+<p>First, if you want to see profiling information in your log, check that option in your Player Settings:</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-10.34.08-AM.png"><img class="alignnone size-full wp-image-4547" title="Screen shot 2011-05-24 at 10.34.08 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-10.34.08-AM.png" alt="" width="274" height="84"/></a></p>
+
+<p>Then, when you build, make sure Development Build is selected in your Build Settings:</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-10.34.55-AM.png"><img class="alignnone size-full wp-image-4548" title="Screen shot 2011-05-24 at 10.34.55 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2011/05/Screen-shot-2011-05-24-at-10.34.55-AM.png" alt="" width="531" height="263"/></a></p>
+
+<p>Before you run, start up logcat with a filter so you only see Unity messages:</p>
+
+<p>./adb logcat Unity:V *:S</p>
+
+<p>Then when you run, you should see debug messages (including your own Debug.Log calls)</p>
+
+<p>&mdash;&mdash;&mdash; beginning of /dev/log/main<br/>
+&mdash;&mdash;&mdash; beginning of /dev/log/system<br/>
+D/Unity   (22494): Creating OpenGL ES 2.0 context (RGB16 565 24/8)<br/>
+D/Unity   (22494): Creating OpenGL ES 2.0 context (RGB16 565 24/8)</p>
+
+<p>and profiling info if you selected that option:</p>
+
+<p>D/Unity   (22782): &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;-<br/>
+D/Unity   (22782): Android Unity internal profiler stats:<br/>
+D/Unity   (22782): cpu-player&gt;    min:  1.8   max: 10.1   avg:  4.2<br/>
+D/Unity   (22782): cpu-ogles-drv&gt; min:  0.7   max:  2.4   avg:  0.9<br/>
+D/Unity   (22782): cpu-present&gt;   min:  8.0   max: 15.7   avg: 13.0<br/>
+D/Unity   (22782): frametime&gt;     min: 13.1   max: 24.0   avg: 18.1<br/>
+D/Unity   (22782): draw-call #&gt;   min:  14    max:  14    avg:  14     | batched:    14<br/>
+D/Unity   (22782): tris #&gt;        min: 11375  max: 11375  avg: 11375   | batched:  5564<br/>
+D/Unity   (22782): verts #&gt;       min:  8519  max:  8519  avg:  8519   | batched:  3579<br/>
+D/Unity   (22782): player-detail&gt; physx:  0.1 animation:  0.0 culling  0.0 skinning:  0.0 batching:  0.1 render:  3.0 fixed-update-count: 0 .. 1<br/>
+D/Unity   (22782): mono-scripts&gt;  update:  0.5   fixedUpdate:  0.0 coroutines:  0.0<br/>
+D/Unity   (22782): mono-memory&gt;   used heap: 684032 allocated heap: 1183744  max number of collections: 0 collection total duration:  0.0</p>

@@ -1,0 +1,8 @@
+---
+layout: post
+title: Swift Generic Required Initializer
+date: '2015-05-13T00:28:10-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/118840178186/swift-generic-required-initializer
+---
+<p>More Swift madness. Without the required initializer, the generic built with that type generates bad_access crashes.</p><p><br/></p><p>class WEObject {<br/>    var ID:Int=0</p><p>   required init() {}</p><p>}</p><p>class Dict&lt;T:WEObject&gt; {</p><p>    var dict = [Int:T]()</p><p>    func Find(ID:Int)-&gt;T {<br/>        if (dict[ID] == nil) {<br/>            let route = T ()<br/>            route.ID = ID<br/>            dict[ID] = route<br/>        }<br/>        return dict[ID]!<br/>    }<br/>}</p>

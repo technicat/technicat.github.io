@@ -1,0 +1,11 @@
+---
+layout: post
+title: Script Your Quality Settings
+date: '2011-11-13T14:06:48-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515792081/script-your-quality-settings
+---
+I have two problem with the Unity Quality Settings. It is inconvenient to change them per-platform and sometimes I want to tweak them per-scene instead of for the entire game.[![](http://itshardtofondlepenguins.com/wp-content/uploads/2011/11/Screen-shot-2011-11-13-at-10.41.03-AM.png "Screen shot 2011-11-13 at 10.41.03 AM")](http://itshardtofondlepenguins.com/wp-content/uploads/2011/11/Screen-shot-2011-11-13-at-10.41.03-AM.png)Fortunately, both issues can be resolved by scripting (that wasn’t always true - for a while, some of the newer additions to the Quality Settings were not accessable via script). For [HyperBowl](http://hyperbowl3d.com/), I have a script that I attach to each scene with a property value for the shadow distance, since I want to vary that per scene. And I have settings that I want to vary per platform (or override, as in the case of fog on Android) Here, I also set my physics timestep - as with the quality settings, I worry about accidentally losing some of my preferred values, or even, in my more paranoid moments, that Unity has reset them.
+
+    var shadowDistance:float = 80; function Awake() { &nbsp;&nbsp; &nbsp;AdjustRenderSettings(); &nbsp;&nbsp; &nbsp;AdjustPhysicsSettings(); } function AdjustRenderSettings() { // always vsync and use full texture resolution &nbsp;&nbsp;&nbsp; QualitySettings.masterTextureLimit = 0; &nbsp;&nbsp;&nbsp; QualitySettings.vSyncCount = 1; #if UNITY\_IPHONE || UNITY\_ANDROID &nbsp;&nbsp; &nbsp;Application.targetFrameRate = 60; &nbsp;&nbsp; &nbsp;QualitySettings.pixelLightCount = 0; &nbsp;&nbsp; &nbsp;QualitySettings.anisotropicFiltering = AnisotropicFiltering.Enable; &nbsp;&nbsp; &nbsp;QualitySettings.antiAliasing = 0; #endif #if !UNITY\_IPHONE && !UNITY\_ANDROID // apply per-scene shadow distance on desktop/web &nbsp;&nbsp; &nbsp;QualitySettings.shadowDistance = shadowDistance; #endif // override per-scene fog on Android #if UNITY\_ANDROID &nbsp;&nbsp;&nbsp; RenderSettings.fog = false; #endif } function AdjustPhysicsSettings() { &nbsp;&nbsp; &nbsp;Time.fixedDeltaTime = 0.02; }
+

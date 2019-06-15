@@ -1,0 +1,31 @@
+---
+layout: post
+title: eFax - Needs Some eFixes
+date: '2011-10-08T20:32:56-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515768436/efax-needs-some-efixes
+---
+_Originally written on Epinions in April 2004:_
+
+Last year I finally found a cell phone that worked from my home and took that opportunity to kiss my land line goodbye, but the tradeoff was giving up a fax capability. I figured in this age of email I could get away without one, but recently while filling out some government forms for my home business, I broke down and decided to try eFax, which as far as I can tell is the only available online substitute for a real fax line.
+
+eFax offers a free subscription for personal use that provides fax reception on a non-local number. I probably should have tried out free eFax Free first, but I didn’t want to receive communications from eFax “partners”, which is part of the eFax Free deal. And since this was for my home office and chances are any fax reception would also require a fax response, I opted to go straight for the eFax Plus product, which includes a local fax reception number and ten cents per/page for sending faxes (not counting the cover page). The monthly fee is $12.95/month and there is a $12.95 non-refundable sign-up fee, all billed to a credit card.
+
+The concept is good. Incoming faxes sent to your number arrive as email attachments via the email address you provide. By default they arrive in eFax’s own .efx format which is readable with the eFax Messenger Plus program that you download from the eFax web site, but you can alternatively specify TIFF format in your Receive options (although I still received .efx faxes from eFax after switching to TIFF) You can use eFax Messenger Plus or the eFax web site to send faxes, and an email acknowledgement is sent notifying you of the the success or failure of the fax transmission. A log of the fax transmissions is accessible from your online account.
+
+The execution leaves some room for improvement, however. The Messenger Plus application should make sending faxes easier than using their web site (besides loading documents already saved on your PC, you can invoke the scanner from the application), but I didn’t quite complete the Messenger Plus installation because it requires an email program and does not support the one I use (Mozilla). When I tried sending faxes with Messenger Plus it started up OK but kept prompting me for dialup information, although I’m using DSL, and then aborted the transmission with the not totally unexpected complaint that it couldn’t find the email program.
+
+I was able to send faxes using the web site, but found I had to be careful - the destination fax number has to be fully specified, beginning with “1” and the area code. At one point, I left out the “1” and ten minutes later received email informing me that the transmission failed. The reason for the failure wasn’t clear, but I figured it out next time I tried sending that fax and reread the instructions about entering in the entire number. I’m surprised how many big-time websites out there are still unpolished and this is one case - adding some validation to the phone number entry should be straightforward.
+
+A fax preview option would be nice, too. It’s simple to browse and upload the image documents you want to send (and most common image file formats are supported), but I do have some old and new documents scattered around, and I know some computer users who only have a vague idea where there documents are on their PC.
+
+The web site overall could use some redesign. From the home page, there is little specific information on the various eFax subscriptions and options - you have to sign up to find out all the details. For example, the $.10/page transmission fee is deducted immediately from a prepaid balance, and you start with $10, which I am assuming is taken from the $12.95 sign-up fee. (So what’s the other $2.95 for?) Once the transmission, uh, reserve, is used up, then you pay up some more, and this allows you to put a cap on the number of fax transmissions from you business.
+
+And then I found out you get charged not just for completed transmissions, but for any transmission where the phone call is answered - I sent a fax to the American Airlines frequent flyer mile program and got charged $.10 even though the fax failed because someone picked up the phone. It is also odd that acknowledgments of failed transmissions take much longer than the fairly quick acknowledgments of successful transmissions.
+
+That was the final straw for me, plus I had some buyer’s remorse about paying $12.95 a month when I’m only expecting a few faxes a year. I followed the “Contact Us” link on the web site but only found information for contacting their salespeople, so I entered a cancellation request using the online help form. Their web server immediately responded to my submission by presenting me with some existing entries that might answer my question and please check these before sending your query to customer support, but the supplied links didn’t respond to my clicks. (I am guessing that it’s a browser compatibility issue, maybe that only works with Internet Explorer).
+
+Once I sent my cancellation request to customer support, they responded within a couple of hours, even though it was a Friday evening. Although I was impressed with this response, it was still annoying - the customer service rep needed some more authentication from me because on their web site, I had changed my fax-receive email address, and so my help request was submitted using that address, but for some reason they could only see the original email address I used to sign up on eFax. But once I supplied the additional information, they processed the cancellation and responded, again within a couple of hours, and the second service rep said she would submit a request to refund my $12.95 signup fee. I haven’t seen the refund, yet, and I’m not holding my breath, but still, it was a nice gesture.
+
+So after spending $26, installing one program, sending a couple of successful faxes and several failed ones, and three help requests to customer support, I think I’ll stick with email. I think it’s the future.
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: Scaling UnityGUI
+date: '2012-11-03T21:24:27-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612450481/scaling-unitygui
+---
+<p>I&rsquo;m fixing up some UnityGUI scripts so that they scale with the screen resolution, which isn&rsquo;t as sharp as having multiple skins for various resolutions (like GUIKit001), but it&rsquo;s better than nothing. Here&rsquo;s the code, calculating the scaling factor and setting it in GUI.matrix. With screen dimensions, make sure you&rsquo;re not dividing ints by ints!</p>
+
+<p><code>var baseScreenWidth:float = 320.0; // for iOS, the screen width we think we're rendering on</code></p>
+
+<p>function OnGUI() {<br/>
+#if UNITY_IPHONE<br/>
+	var guiScale = Screen.width/baseScreenWidth;<br/>
+	GUI.matrix = Matrix4x4.TRS (Vector3.zero, Quaternion.identity, Vector3(guiScale, guiScale, 1));<br/>
+#endif</p>

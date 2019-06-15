@@ -1,0 +1,15 @@
+---
+layout: post
+title: Shake But No Tilt for Fugu Maze
+date: '2009-09-20T18:22:01-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110318385881/shake-but-no-tilt-for-fugu-maze
+---
+I haven’t really done any marketing for Fugu Maze, because, after all, it’s just a maze, and I’ve been concentrating the last few months on getting [HyperBowl](http://hyperbowl3d.com/) running, but it is my best-selling (well, best-downloaded) [Mac widget](http://www.apple.com/downloads/dashboard/games/fugumaze.html) and[iPhone app](http://itunes.com/app/fugumaze), so I finally got around to googling it. Well, apparently it’s long overdue, since there was a query on a Mac games forum two years ago asking why it was slow on his Mac (it was an old G4 Mac, that’s why), but he’s probably in college now, so no point in answering him now. And just this summer, there was this [MacLife article](http://www.maclife.com/article/feature/10_apps_need_push_use_accelerometer?page=0%2C1) including Fugu Maze on a list of apps that need accelerometer controls. I’ll take the publicity, but I’ve got to disagree - I have seen plenty of App Store reviews saying that that FuguMaze needs a tilt control, but the only first-person walking controller I’ve seen using tilt controls on the iPhone (Cube?) received the exact opposite review - remove the tilt control!
+
+It’s a knee-jerk reaction to say, wow, this could use a tilt control, but like everything in game design, it’s easy to kibitz and takes some thought to do it right. Tilt controls make sense where you naturally bank, like extreme sports games, rolling ball games, flying games, and, borderline, driving games. And of course, tilt is perfect when you’re simulating real tilting, like those tabletop rolling ball mazes and bubble-level tools. But, say, controls that require tilting the screen away from you is a bad idea. And tilting to turn without the implication that you’re leaning or virtually tilting in some other fashion is just confusing. Now, if you’re running (like in all those trendy parkour games) and tilting to lean/turn, that could work.
+
+But when a customer is asking for a solution that doesn’t sound right, that doesn’t mean there isn’t a problem to be solved, in this case, the first-person controls. Now, I like the iPhone controls in FuguMaze - they are in fact a simplification of some demo controls supplied by Unity and more or less used in full by other games, but FuguMaze could probably use a quick tutorial in the beginning, like RealMaze3D. And in the bigger picture, standard first-person controls are an obstacle to casual gamers even on PC’s, so on the iPhone perhaps we have an opportunity to invent something better. And who knows, maybe that will involve some kind of tilt.
+
+In the meantime, however, I have been thinking a bit about where it’s appropriate to add shake detection, so in the latest Fugu Maze app release, you can shake to rescramble the maze. I think it’s a nice conceptual match - shake to scramble, shake if you’re stuck.
+

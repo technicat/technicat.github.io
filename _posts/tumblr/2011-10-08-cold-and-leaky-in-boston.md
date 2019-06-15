@@ -1,0 +1,25 @@
+---
+layout: post
+title: Cold and Leaky in Boston
+date: '2011-10-08T19:50:59-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515762466/cold-and-leaky-in-boston
+---
+_Originally written on Epinions in July 2005:_
+
+The Copley Square Hotel, owned by the Saunders family for several generations (I don’t know anything about them - I’m imagining a local version of the Hilton family), is, according to the hotel web site, the oldest continuously operating hotel in Boston.
+
+As the name implies, it’s located in Copley Square, convenient to the ritzy Copley Square shopping mall, Prudential Center stores, and the Hynes Convention Center (where I attended MacWorld), along with much that’s worth seeing in Boston. MacWorld was lame (even Apple wasn’t there), so I wandered around and visited the immense Boston Public Library (really two libraries in one - it features a separate research library), the ornate Trinity Church, and viewed the statues along Commonwealth Avenue (“Comm Ave”, in local parlance). Even my old stomping grounds at MIT were a not-too-long walk across the Charles River (don’t ask me why that bridge is called the Harvard Bridge). Tourists may want to check out the shops of Newbury Street or sign up for a ride in one of the “duck boats” parked right outside.
+
+So, the Copley Square Hotel has got history and location. Which is also the bad news - an old hotel in the middle of the city does not make for the most luxurious accomodations. The “standard king” room I reserved had a queen bed, probably because that’s all they could fit in that somewhat cramped and elongated space. The bath only had a shower stall, which had good water pressure and temperature, but apparently also had a leak that descended on the restaurant below me (formerly the Cafe Budapest, now a trendy place called The Saint). The noise from within the hotel was not too bad, except for one woman partyer who laughed shrilly into the wee hours, but it’s hard to ignore the street noise, which lasts until around 2am (when the bars close, I suppose). Possibly the nearby Dick’s Last Resort is a culprit.
+
+Although the room and linens were clean and unblemished, the smell of smoke lingered. My room was missing the non-smoking sign evident on all the neighboring rooms - perhaps a previous occupant had taken liberties. The hotel management takes water conservation a bit further than normal - besides only replacing towels that you leave off the towel racks, they will only change your linens every three days unless you request otherwise.
+
+After arriving from California into ninety-degree Northeast humidity, I welcomed the room’s strong and steady air conditioning, but found that I couldn’t change the settings in my room. So I alternated between sweltering outside and huddling in bed inside. Which does highlight the convenient location - walk one short block from the hotel and you’re inside the nice climate-controlled Prudential shopping area. From there, you can take the the walkway over to the Copley Square mall or continue through the center to the Hynes convention center or the Marriott (I recommend heading in that direction if you want to use a decent restroom). During the winters some years ago, I used to cover a good distance indoors via the Prudential center and connecting hotels.
+
+The accessibility to the Prudential and Copley eateries also makes up for the limited room service, only available from early morning to just after noon. The food is provided by Speeder Earl’s downstairs, which serves a decent breakfast and has pretty good service - not something that you can generally assume in Boston. (I was fortunate that the waiter at the Legal’s Seafood in Copley only spilled chowder on the customer next to me). Even dining at the Prudential food court is not particularly cheap (or good - I experimented unsucessfully with various ethnic choices), but there is an alternative for budget dining right next to the hotel, a large upscale supermarket called Shay’s, which features many takeout options and an outside dining area.
+
+As far as the hotel staff, they seemed courteous, but not perfectly professional. I sort of felt I was interrupting the conversation at the desk when I checked in. I was almost offended by the aloofness of the uniformed security at the entryway, until I realized he was a wax dummy. Travel tip, based on my experience with Bostonians over the past two decades - they’re friendly and helpful if you listen to them complain first. Even my taxi driver had a parting complaint about how everyone expected him to know which terminals corresponded to which airlines, where everything in Boston was located, yada yada.
+
+There are several deluxe hotels in Copley Square (my friends mistakenly thought I was staying at the Copley Plaza Hotel), but, based on the conference prices I saw when I made my reservation, you can expect differences of fifty dollars on up. So the Copley Square Hotel is a decent choice for the price and location. Boston is a great walk-around town, but it’s nice if you don’t have to do too much walking.
+

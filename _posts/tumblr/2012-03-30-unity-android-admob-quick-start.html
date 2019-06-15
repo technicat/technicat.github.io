@@ -1,0 +1,40 @@
+---
+layout: post
+title: Unity Android AdMob Quick Start
+date: '2012-03-30T11:40:36-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515841636/unity-android-admob-quick-start
+---
+<p>This is how I have AdMob integrated in <a href="https://market.android.com/developer?pub=Technicat,+LLC">my Unity Android apps</a>.</p>
+
+<p>First, I use the AdMob plugin from <a href="http://prime31.com/">Prime31 Studios</a>.</p>
+
+<p>After importing the plugin into a project, I find the AdMobAndroidBanner and AdMobAndroidManager prefabs and drag them into one of my initial scenes.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2012/03/Screen-shot-2012-03-30-at-8.30.56-AM.png"><img class="alignnone size-full wp-image-5399" title="Screen shot 2012-03-30 at 8.30.56 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2012/03/Screen-shot-2012-03-30-at-8.30.56-AM.png" alt="" width="249" height="191"/></a></p>
+
+<p>I select the AdMobAndroidBanner object and fill in the ID that&rsquo;s set up for this app on my AdMob account page.</p>
+
+<p>Up &lsquo;til now, that&rsquo;s standard operating procedure. Now I modify the script attached to the AdmobAndroidBanner object, because the default ad that shows up on tablets is not what I want, it obscures too much of the screen. So I just comment out that section of the CreateBanner function and use the same-size banner on all devices.</p>
+
+<p><code><br/>
+// if( isTablet() )<br/>
+// AdMobAndroid.createBanner( AdMobAndroidAd.tablet300x250, ( Screen.width / 2 ) - 150 * density, 0 );<br/>
+// else<br/>
+AdMobAndroid.createBanner( AdMobAndroidAd.phone320x50, ( Screen.width / 2 ) - 160 * density, 0);<br/></code></p>
+
+<p>The default script centers the ad banner at the top of the screen. For apps where I want it on the bottom, I modify that last parameter accordingly.</p>
+
+<p><code><br/>
+// if( isTablet() )<br/>
+// AdMobAndroid.createBanner( AdMobAndroidAd.tablet300x250, ( Screen.width / 2 ) - 150 * density, 0 );<br/>
+// else<br/>
+AdMobAndroid.createBanner( AdMobAndroidAd.phone320x50, ( Screen.width / 2 ) - 160 * density, Screen.height-50*density );<br/></code></p>
+
+<p>Finally, (or really, at any time) I run the Generate Android Manifest command in the Prime31 pulldown menu from the menubar.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2012/03/Screen-shot-2012-03-30-at-7.12.13-AM.png"><img class="alignnone size-full wp-image-5400" title="Screen shot 2012-03-30 at 7.12.13 AM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2012/03/Screen-shot-2012-03-30-at-7.12.13-AM.png" alt="" width="290" height="225"/></a></p>
+
+<p>Check the Plugins/Android/AndroidManifest.xml file to see that there is indeed information about AdMob now.</p>
+
+<p>Final tip, when upgrading the plugin, it seems the prefabs get clobbered, so I just remove the plugin and prefabs before upgrading and redo the whole thing. It&rsquo;s just these few steps, so it&rsquo;s not bad.</p>

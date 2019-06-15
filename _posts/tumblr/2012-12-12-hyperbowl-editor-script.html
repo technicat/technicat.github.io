@@ -1,0 +1,58 @@
+---
+layout: post
+title: HyperBowl Editor Script
+date: '2012-12-12T16:59:22-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612459341/hyperbowl-editor-script
+---
+<p>It&rsquo;s the little things. I think my favorite Unity 4 feature is the ability to add custom preprocessor definitions. It&rsquo;s not only helpful with runtime code, but also with editor scripts. Here&rsquo;s the script I use for HyperBowl, allowing me to build any of the free versions or the paid version all from the same project. Maybe it should be a script that runs before every build, but the nice thing about making it a menu item is that I can see the resulting changes in the Player Settings when I invoke it.</p>
+
+<p><code><br/>
+#pragma strict</code></p>
+
+<p>@MenuItem (&ldquo;HyperBowl/PlayerSettings&rdquo;)<br/>
+static function UpdatePlayerSettings() {<br/>
+#if UNITY_IPHONE<br/>
+#if HYPERALL<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowl&rdquo;;<br/>
+#endif<br/>
+#if HYPERCLASSIC<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Classic&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlClassic&rdquo;;<br/>
+#endif<br/>
+#if HYPERROME<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Rome&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlRome&rdquo;;<br/>
+#endif<br/>
+#if HYPERFOREST<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Forest&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlForest&rdquo;;<br/>
+#endif<br/>
+#if HYPERSHIP<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl High Seas&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlHighSeas&rdquo;;<br/>
+#endif<br/>
+#if HYPERSF<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl San Francisco&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperSF&rdquo;;<br/>
+#endif<br/>
+#if HYPERTOKYO<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Tokyo&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperTokyo&rdquo;;<br/>
+#endif<br/>
+#if HYPERSNOW<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Snowpark&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlSnow&rdquo;;<br/>
+#endif<br/>
+#endif<br/>
+#if UNITY_ANDROID<br/>
+#if FUGU_ADS<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Lite&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowl&rdquo;;<br/>
+#else<br/>
+	PlayerSettings.productName = &ldquo;HyperBowl Pro&rdquo;;<br/>
+	PlayerSettings.bundleIdentifier = &ldquo;com.technicat.HyperBowlPro&rdquo;;<br/>
+#endif<br/>
+#endif<br/>
+}</p>

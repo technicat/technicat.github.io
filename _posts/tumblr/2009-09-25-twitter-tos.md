@@ -1,0 +1,19 @@
+---
+layout: post
+title: Twitter TOS
+date: '2009-09-25T14:19:33-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110318386671/twitter-tos
+---
+I just looked over the [Twitter terms of service](http://twitter.com/tos) (a while after starting to use it - shame on me!) and I’m pleasantly amazed there’s no indemnification clause. That’s a breath of fresh air. More typically, when you sign up for a web service, there’s a clause like this one (taken from the [Wordpress terms of service](http://en.wordpress.com/tos/))
+
+1. **Indemnification.** You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Website, including but not limited to your violation of this Agreement.
+That’s nice - if anyone, not just the company, but anyone employed, on the board, contracted, whatever, is sued or suffers any “expenses” in any way related to your use of the site, whether or not you did anything wrong, you’re on the hook. I’ve even seen this on sites of non-profit organizations - hey, give us some money, and pay our legal expenses! It’d be great if those proponents of tort reform to help out those poor big corporations suffering from class-action lawsuits would take a look at removing the legal traps from consumer transactions (and how about those EULA’s in shrink-wrapped software that you agree to even before you can read them? Don’t get me started…) In the meantime, try to reward those few bright lights of reasonableness with your business. I was going to point to just one other example, the [Goodreads TOS](http://www.goodreads.com/about/terms1) which has an indemnification clause specifically for breach of contract,
+
+> You agree to indemnify and hold Goodreads, its subsidiaries, affiliates, officers, agents, and other partners and employees, harmless from any loss, liability, claim, or demand, including reasonable attorney’s fees, made by any third party due to or arising out of your use of the Service in violation of this Agreement and/or arising from a breach of these Terms & Conditions and/or any breach of your representations and warranties set forth above.
+
+which seems quite reasonable, but it turns out they amended it least year (without even mentioning it on their blog) to [this](http://www.goodreads.com/about/terms):
+
+> You agree to defend, indemnify and hold harmless Goodreads and its subsidiaries, agents, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Service, including any data or content transmitted or received by you; (ii) your violation of any term of this Agreement, including without limitation your breach of any of the representations and warranties above; (iii) your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights; (iv) your violation of any law, rule or regulation of the United States or any other country; (v) any claim or damages that arise as a result of any of your User Content or any that are submitted via your account; or (vi) any other party’s access and use of the Service with your unique username, password or other appropriate security code.
+
+I don’t know why they put ii-vi in there, (i) seems to cover any possible case. Now, you might say that’s just lawyer stuff, in practice you don’t need to worry about it, but in that case, it doesn’t need to be there. And if I can’t rely on a common-sense intepretation of the text, do I need to hire a lawyer every time I sign up for a web service? C'mon.

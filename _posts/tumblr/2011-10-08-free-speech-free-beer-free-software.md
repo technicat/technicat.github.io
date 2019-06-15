@@ -1,0 +1,21 @@
+---
+layout: post
+title: Free Speech, Free Beer, Free Software
+date: '2011-10-08T20:44:29-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515771826/free-speech-free-beer-free-software
+---
+_Originally written on Epinions in February 2004:_
+
+Most people outside of the software industry and probably many within it only associate open source software with Linux, its creator Linus Torvalds, and the Linux companies that have had high-profile IPO’s, namely Red Hat and VA Linux.
+
+But open source software has had a rich history before its entrance into the popular vernacular - before that, there was Richard Stallman’s formation of the Free Software Foundation and its GNU (GNU’s Not Unix) collection of free software that comprises much of the typical Linux distribution, and before that there was the Berkeley variant of Unix, still available now as FreeBSD and NetBSD. In fact, open source software used to be called just “software” - the practice of treating software as closed intellectual property and charging for it is an innovation that can be partly credited to Bill Gates.
+
+**Open Sources: Voices from the Revolution** elaborates on the past and the varied present of free software by presenting essays from a collection of prominent figures in the open source movement. The articles range from historical (Eric Raymond’s history of hackers, Marshall McKusick’s family tree of Berkeley Unix), to technical (Linus Torvald’s explanation of the technical design advantages of Linux), to philosophical (Stallman’s motivation behind his free software crusade and the distinction between “free beer” and “free speech”) to business (Michael Tiemann’s account of how Cygnus Solutions built a business model on GNU software and Robert Young’s description of Red Hat’s start).
+
+Anyone serious about open source, whether as a developer or business person, will find the explanation of the various open source licenses (Bruce Perens’ “The Open Source Definition”) and practical advice on starting open source projects (Bruce Behelendorf’s “Open Source as a Business Strategy”) indispensable. But the greatest contribution of this book is in providing a feel for the personalities that have driven this movement. Raymond champions the cause and culture of “Real Programmers” and “hackers”, Stallman insists on referring to Linux as “GNU/Linux”. and the appendix contains a highly entertaining online discussion/flame-war/trash-talking among Torvalds, researcher Andrew Tanenbaum whose Minix operating system was the starting point for Linux (at least in the sense that Torvalds found it inadequate for his purposes), and the inevitable others who chimed in.
+
+There are some misses among the articles. Paul Vixie’s article, “Software Engineering” is surprisingly uninteresting - it alludes only briefly to the unique software engineering attributes of open-source development (large-scale peer review), and there is no specific mention of his own involvement in notable open-source projects (such as **bind** , a popular implementation of a vital Internet component). Larry Wall is most famous for authoring the Perl programming language, but his article “Diligence, Patience and Humility” is a sequence of seemingly directionless musings and diagrams that ends with a Hobbit poem and an oddly appropriate “now we’ve come full circle”.
+
+The editors’ introduction, in a summary of recent (at the time) open source developments, includes some prescient details of open-source adoption by corporations such as IBM and Oracle and dubious tactics by SCO, but does contain a historical inaccuracy - the editors state that a company called Lucid was formed to market a rival version of GNU Emacs and failed. The real story is different and more interesting - Lucid started out selling a closed-source implementation of the Lisp programming language and created Lucid Emacs as an optional programming environment for Lucid Lisp. As the editors note, Lucid Emacs survived the company’s demise and is now known as XEmacs. The principal developer of Lucid Emacs, Jamie Zawinski, became one of the original programmers at Netscape and was influential in pushing for the open-source release of the Netscape browser (Mozilla). Ain’t open-source grand?
+

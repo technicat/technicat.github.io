@@ -1,0 +1,37 @@
+---
+layout: post
+title: Prime vs. Non-Prime iAds
+date: '2013-04-19T15:50:46-07:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110612475801/prime-vs-non-prime-iads
+---
+<p>It&rsquo;s nice to have iAd functionality built into Unity, but the banner ads have long had an unsightly non-refreshing behavior, where the banner turns all white instead of disappearing when it doesn&rsquo;t have ad content(and yes, I submitted a bug report).</p>
+
+<p>So I&rsquo;m switching back to the Prime31 iAd plugin, which doesn&rsquo;t have this problem. Also, the Prime31 version is super easy to use, as evidenced by my banner ad script. One line is required to create the Prime31 ad. All the rest of the script is for the Unity version.</p>
+
+<p><code><br/>
+public class AdBanner : MonoBehaviour {<br/><br/>
+	public bool showOnTop = true;<br/>
+#if FUGU_ADS<br/>
+#if P31_IAD<br/>
+	void Start() {<br/>
+		AdBinding.createAdBanner (!showOnTop);<br/>
+		}<br/>
+#else<br/>
+	private ADBannerView banner = null;<br/><br/>
+	IEnumerator Start() {<br/>
+		GameObject.DontDestroyOnLoad(gameObject); // keep ad alive if we load a new scene<br/>
+		banner = new ADBannerView();<br/>
+		banner.autoSize = true;<br/>
+		banner.autoPosition = showOnTop ? ADPosition.Top : ADPosition.Bottom;<br/>
+		while (!banner.loaded &amp;&amp; banner.error == null) {<br/>
+			yield return null;<br/>
+		}<br/>
+		if (banner.error == null) {<br/>
+			banner.Show();<br/>
+		} else {<br/>
+			banner = null;<br/>
+		}<br/>
+		}<br/>
+#endif<br/>
+#endif<br/></code></p>

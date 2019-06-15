@@ -1,0 +1,19 @@
+---
+layout: post
+title: Be the Ball
+date: '2010-12-09T15:48:32-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110411991156/be-the-ball
+---
+<p>Here&rsquo;s a little Unity script snippet that implements the HyperBowl-style bowling mouse control. This is actually from <a href="http://fugugames.com/">FuguBowl</a> - the <a href="http://hyperbowl3d.com/">HyperBowl </a>is more convoluted (possibly unnecessarily) in an attempt to handle more performance variations and platforms.</p>
+
+<p><code><br/>
+var power = 3.0;<br/>
+var powerx = 2.0;</code></p>
+
+<p>function FixedUpdate () {<br/>
+var force:Vector3 = new Vector3(powerx*Input.GetAxis(&ldquo;Mouse X&rdquo;),<br/>
+0,<br/>
+power*Input.GetAxis(&ldquo;Mouse Y&rdquo;));<br/>
+rigidbody.AddForce(force);<br/>
+}</p>

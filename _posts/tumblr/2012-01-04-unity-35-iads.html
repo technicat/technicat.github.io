@@ -1,0 +1,31 @@
+---
+layout: post
+title: Unity 3.5 iAds
+date: '2012-01-04T17:38:51-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110515807361/unity-35-iads
+---
+<p>OK, I finally decided to get my hands dirty with the Unity 3.5 developer preview. I&rsquo;m disappointed that the features I most looked forward to aren&rsquo;t there - the new GUI system and a GUI for version control, and there have recently been a lot of cool high-end improvements that don&rsquo;t really apply to my mobile apps. However, the Flash support is impressive - I haven&rsquo;t tried it out, yet, and I don&rsquo;t know if I&rsquo;ll get it to work (I&rsquo;ll crank on it tonight and see if I can get something ready for the contest by tomorrow), but I&rsquo;m surprised they got something in this soon.</p>
+
+<p>And there are some features that at least should make my life easier on mobile dev. I just submitted an app to the App Store that uses the new iAd support in Unity iPhone. I&rsquo;m happy with the prime31 plugin, but the more features I&rsquo;m using that move from plugins to Unity proper makes things just that much simpler. And the Unity iAd API is pretty easy to use. Here&rsquo;s the code I just submitted, which is basically the sample in the scripting reference for AdBannerView, sans UnityGUI:</p>
+
+<p><code></code></p>
+
+<p>function Start () {<br/>
+  GameObject.DontDestroyOnLoad(this);<br/>
+  StartCoroutine(ShowBanner());<br/>
+}</p>
+
+<p>function ShowBanner() {<br/>
+  var banner:ADBannerView;<br/>
+  banner = new ADBannerView();<br/>
+  banner.autoSize = true;<br/>
+  banner.autoPosition = ADPosition.Top;<br/>
+  while (!banner.loaded &amp;&amp; banner.error == null)<br/>
+  yield;</p>
+
+<p>  if (banner.error == null)<br/>
+    banner.Show();<br/>
+  else banner = null;<br/>
+}<br/><br/>
+Now, I&rsquo;m not a hundred percent sure this code is working until the app gets approved and I start seeing real ads, but once that&rsquo;s verified, I&rsquo;ll start using it on my other apps and go through the same process with the new GameCenter support.</p>

@@ -1,0 +1,16 @@
+---
+layout: post
+title: The New HyperBowl Pause Menu
+date: '2011-02-16T02:57:38-08:00'
+tags: []
+tumblr_url: https://fugugames.tumblr.com/post/110412007716/the-new-hyperbowl-pause-menu
+---
+<p>In game development, user interfaces and HUD&rsquo;s get no respect. They&rsquo;re often left until the end of the game project, whereupon it&rsquo;s realized a lot of work is going to be needed (and then contractors like me are called in). I confess, I&rsquo;ve been guilty of the same thing with the <a href="http://hyperbowl3d.com/">HyperBowl</a> pause menu. In the web player, I made do with the pause menu script I posted on the <a href="http://unifycommunity.com/wiki">Unity community wiki</a>, but that script is more an instructional example of the UnityGUI than a polished menu (although maybe with the right GUI skin&hellip;) For HyperBowl on the iPhone and iPad, I left it out because I thought my pause menu didn&rsquo;t look polished enough (I treat the web players more as public prototypes), there were some early reports of performance issues with UnityGUI on iOS, and UnityGUI doesn&rsquo;t automatically scale with resolutions, so the new Retina displays posed a problem.</p>
+
+<p>But once I started working on the Mac App Store version of HyperBowl (recently submitted), I felt I had to put in something, partly because I was getting some requests for one on the <a href="http://facebook.com/hyperbowl">HyperBowl Facebook page</a>. Rule of thumb - if you&rsquo;ve procrastinated on a feature for over a year, maybe it&rsquo;s time to outsource. So I looked at <a href="http://anbsoft.com/">EZGUI</a> and <a href="http://gameassets.net/">GUIKit001</a>. Since EZGUI is based on SpriteManager and GUIKit uses UnityGUI, in principle I might favor EZGUI&rsquo;s approach. I&rsquo;ve never felt really comfortable with UnityGUI - not that it&rsquo;s hard, it just doesn&rsquo;t feel right to me. On the other hand, that&rsquo;s how I feel about using Flash for game UI&rsquo;s, and I&rsquo;ve spent the last three years on a contract using <a href="http://scaleform.com/">Scaleform</a>.</p>
+
+<p>GUIKit001 also has the advantage of a webplayer and YouTube demo showing a working and polished pause menu, and that looked like something I could drop in, quickly and expediently. There&rsquo;s nothing like a good demo.</p>
+
+<p>It took me a weekend to hack GUIKit001 into HyperBowl. I ended up just using the Settings menu and not the full menu set, although I&rsquo;d love to use the swipe controls for something (selecting bowling balls?) I kept the audio volume slider, removed the music volume slider, added help text and checkbox if you&rsquo;re using the Magic Mouse (Unity reads wackily higher movement values from the Magic Mouse than other mice, so that really messes up the HyperBowl controls without a scaling factor) I think I&rsquo;ll remove that Settings title, too.</p>
+
+<p><a href="http://itshardtofondlepenguins.com/wp-content/uploads/2011/02/Screen-shot-2011-02-15-at-11.33.42-PM.png"><img class="alignnone size-full wp-image-4283" title="Screen shot 2011-02-15 at 11.33.42 PM" src="http://itshardtofondlepenguins.com/wp-content/uploads/2011/02/Screen-shot-2011-02-15-at-11.33.42-PM.png" alt="" width="796" height="620"/></a></p>
