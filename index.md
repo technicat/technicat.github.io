@@ -76,3 +76,11 @@ Interview with <a href="http://po.st/rrNbD5">Gamkedo</a>
 <!-- a href="https://www.buymeacoffee.com/technicat" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a -->
 
 <!-- a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fugugames" data-widget-id="347186558539026432">Tweets by @fugugames</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script -->
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
