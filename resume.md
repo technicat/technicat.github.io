@@ -1,17 +1,16 @@
 ##                                                 Interactive    Entertainment
 
-###      Technicat LLC
+### Technicat LLC, Las Vegas, Nevada
 
-          Principal                                Providing software development,  projectmanagement,   productionplanning, game
-          April2002-Present                        design  and writing services. White  paper published by  the Nintendo  Software
-                                                   Development   Support Group.  Open-source  contributionsto the Java  FO-to-RTF
-                                                   (JFOR)  and PS/2 Linux projects.
+#### President April 2002 - Present
+Providing software development,  projectmanagement,   productionplanning, game, design  and writing services. White  paper published by  the Nintendo  Software, Development   Support Group. Open-source  contributionsto the Java FO-to-RTF
+(JFOR) and PS/2 Linux projects.
 
 
-### Hyper Entertainment
- 
-Location-based  entertainment  spin-offfrom  Sony.    Burbank,  CA
-          Senior Game   Programmer                 HyperBowl    Lead programmer   for attractiongame  installedinlocations such as
+### Hyper Entertainment, Burbank, California
+#### Senior Game Programmer 
+Location-based  entertainment  spin-offfrom  Sony.
+                         HyperBowl    Lead programmer   for attractiongame  installedinlocations such as
           January  2001-June  2001                 GameWorks   , Jillians and  the  Sony  Metreon . Optimized   renderer, provided
                                                    Mirai/GameExchange   support,DirectSound  fixesDirect3D  compatibilitywithlatest
 
