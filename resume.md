@@ -1,4 +1,5 @@
-    ##                                                 Interactive    Entertainment
+##                                                 Interactive    Entertainment
+
 ###      Technicat LLC
 
           Principal                                Providing software development,  projectmanagement,   productionplanning, game
@@ -7,7 +8,8 @@
                                                    (JFOR)  and PS/2 Linux projects.
 
 
-### Hyper Entertainment 
+### Hyper Entertainment
+ 
 Location-based  entertainment  spin-offfrom  Sony.    Burbank,  CA
           Senior Game   Programmer                 HyperBowl    Lead programmer   for attractiongame  installedinlocations such as
           January  2001-June  2001                 GameWorks   , Jillians and  the  Sony  Metreon . Optimized   renderer, provided
@@ -16,7 +18,7 @@ Location-based  entertainment  spin-offfrom  Sony.    Burbank,  CA
                                                    nVidia graphics cards.Released arcadeand French versionsin May 2001.
 
 
-                                                           Wireless    Internet
+##                                                         Wireless    Internet
 
 ### Univessence Digital Productions
 Multimedia  technology  and production  studio   Culver City, CA
@@ -37,7 +39,8 @@ Wireless  internetstartup    San Francisco,  CA
 
 ##                                                         Computer      Graphics
 
-### Digital Chameleon                                                        Computer   graphics startup    Los Angeles,  CA
+### Digital Chameleon
+Computer   graphics startup    Los Angeles,  CA
           Vice President of Technology             Character   Animation   System   Led  development   of a  Java-based behavioral
           January  1998-September    1998          animation applicationon SGI Irixand Windows  NT.
 
@@ -45,7 +48,8 @@ Wireless  internetstartup    San Francisco,  CA
           September   1997-December    1997        targetingfilm visualeffectand game  development.
 
 
-         Nichimen   Graphics                                                      Computer   graphics startup    Los Angeles,  CA
+###         Nichimen   Graphics
+Computer   graphics startup    Los Angeles,  CA
           Consultant                               Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs
           August  1997-November    1998            with nVidia graphicsdrivers.
 
@@ -74,7 +78,7 @@ Wireless  internetstartup    San Francisco,  CA
 
                                                         Government/Defense
 
-         BBN                                                                      Research   and development      Cambridge,  MA
+###         BBN                                                                      Research   and development      Cambridge,  MA
           Software  Engineer                       ARGUS     2.0-3.0 Development  of  a target signature database for the National
 
           February  1994-November    1995          Target/Threat SignaturesData System .
@@ -87,16 +91,16 @@ Wireless  internetstartup    San Francisco,  CA
                                                    wide-area networked  militarysimulationsat theJohns  Hopkins University Applied
                                                    Physics Laboratory,deployed within fivemonths.
 
-         AURA                                                                 University astronomy   consortium    Baltimore, MD
+###         AURA                                                                 University astronomy   consortium    Baltimore, MD
 
           Software  Engineer                       Proposal  Entry Processor Developed  proposalprocessing software forastronomers
           October  1990-May   1992                 working  withthe Hubble Space Telescope atthe Space Telescope ScienceInstitut.
 
 
-                                                 Semiconductors/Manufacturing
+##                                                 Semiconductors/Manufacturing
 
 
-         Interval Logic                                                    Supply-chain  management    startup    Menlo  Park, CA
+###         Interval Logic                                                    Supply-chain  management    startup    Menlo  Park, CA
           Senior Principal Software Engineer       Leverage   for Scheduling   3.2 Technical lead  for group of  five programmers
           April1998-December    1999               developing  alldesktop and web  interfaces,installatioand licensingcomponents.
                                                    Leverage   for Scheduling  3.1 Technical  lead for group  of three programmers
@@ -106,11 +110,11 @@ Wireless  internetstartup    San Francisco,  CA
                                                    distributed manufacturing   scheduling  system   for semiconductor   fabs  with
                                                    Installshieland ObjectStore.
 
-          Senior Software  Engineer                Leverage  for Planning  4.2 Optimized semiconductor  fabricationplanning system
+###          Senior Software  Engineer                Leverage  for Planning  4.2 Optimized semiconductor  fabricationplanning system
           December   1998-April 1999               using TclPro and TclJava.
 
 
-         MIT                                                                                                      Cambridge,  MA
+###         MIT                                                                                                      Cambridge,  MA
           Research  Specialist                     Database   Accelerator  Developed   simulators and   sample  applications for a
           September   1989-September    1990       content-addressable memory  (CAM)   at theMicrosystems  Technology  Laboratory .
                                                    Content-Addressable   Parallel Processor Developed  simulatorand cross-compiler
@@ -127,7 +131,7 @@ Wireless  internetstartup    San Francisco,  CA
          ----------------------------------------------------------------------------------------------------------
 
 
-                                                                Graduate
+##                                                                Graduate
 
          Johns   Hopkins   University                                                                              Baltimore, MD
           Ph.D. Candidate                          Courses   Automata   and  functional programming.   Tutor  Volunteer  computer
