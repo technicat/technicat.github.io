@@ -25,9 +25,10 @@ Multimedia  technology  and production  studio   Culver City, CA
 
           October  2000-January  2001              collaborationtoolsusing JavaSwing  and Mozilla .
 
-###         Neomar
-Wireless  internetstartup    San Francisco,  CA
-          Technical Lead                           Co-lead  fordevelopment,  from design to deployment  in five months, of a WAP
+###         Neomar, San Francisco, California
+#### Technical Lead 
+Wireless  internetstartup   
+                                   Co-lead  fordevelopment,  from design to deployment  in five months, of a WAP
 
           December   1999-July  2000               gateway  supporting handheld devices such as RIM , Palm. Responsible for HTTP  ,
                                                    transcoder, securityand  management   implementation. Integrated Certicom  SSL ,
@@ -38,8 +39,8 @@ Wireless  internetstartup    San Francisco,  CA
 
 ##                                                         Computer      Graphics
 
-### Digital Chameleon
-Computer   graphics startup    Los Angeles,  CA
+### Digital Chameleon, Los Angeles, California
+Computer   graphics startup    
           Vice President of Technology             Character   Animation   System   Led  development   of a  Java-based behavioral
           January  1998-September    1998          animation applicationon SGI Irixand Windows  NT.
 
