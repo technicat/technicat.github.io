@@ -77,9 +77,3 @@ Interview with <a href="http://po.st/rrNbD5">Gamkedo</a>
 
 <!-- a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fugugames" data-widget-id="347186558539026432">Tweets by @fugugames</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script -->
 
-
-  {% for post in site.posts %}
-   <br/>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-  {% endfor %}
-
