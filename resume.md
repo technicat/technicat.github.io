@@ -60,18 +60,6 @@
 
 
 
- PhiliChu 'Resume  -page1                                                       Copyrigh© 2004by PhiliChu    Donot distribuwithoupermission.
-
-
-
-
-
-
-
- HuntingtonBeach,CA                                                                             http://www.technicat.coresume@technicat.com
-
-
-
           Member   of Technical Staff              NWorld   3.0 Replaced the IrisGL-based rendering and user-interfacelibrariewith
 
           December   1995-May   1996               an OpenGL   implementation, supportingSGI  Impact and Indigo platforms.NWorld
