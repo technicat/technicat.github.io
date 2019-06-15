@@ -14,18 +14,17 @@ Location-based  entertainment  spin-off from  Sony. Lead programmer   for attrac
 
 ##                                                         Wireless    Internet
 
-### Univessence Digital Productions
-Multimedia  technology  and production  studio   Culver City, CA
-          Consultant                               Chief  architectfor a  wireless information network.  CAMPA     Prototyped web
-
-          October  2000-January  2001              collaborationtoolsusing JavaSwing  and Mozilla .
+### Univessence Digital Productions,  Culver City, California
+#### Consultant    October  2000-January  2001 
+Multimedia  technology  and production  studio  
+Chief architect for a  wireless information network.  CAMPA     Prototyped web collaborationtoolsusing JavaSwing  and Mozilla .
 
 ###         Neomar, San Francisco, California
-#### Technical Lead 
+#### Technical Lead, December   1999-July  2000
 Wireless  internetstartup   
                                    Co-lead  fordevelopment,  from design to deployment  in five months, of a WAP
 
-          December   1999-July  2000               gateway  supporting handheld devices such as RIM , Palm. Responsible for HTTP  ,
+                         gateway  supporting handheld devices such as RIM , Palm. Responsible for HTTP  ,
                                                    transcoder, securityand  management   implementation. Integrated Certicom  SSL ,
                                                    JavaMail ,JMX  ,JSSE ,JTAPI .Performed web  testingusingSquid .Launched in May
                                                    2000  fortheMotient wirelessservice.
