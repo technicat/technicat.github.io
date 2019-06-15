@@ -1,26 +1,13 @@
 <a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" width="135"/>
-</a><br/>
-<!-- a href="http://fugugames.com/">
-  <img alt="Fugu Games on Facebook"
-       src="images/fugugames/FUGUlogo_Front_mark.jpg" height="58"/>
-</a>   
-<a href="http://hyperbowl.rocks/">
-  <img alt="HyperBowl on Facebook"
-       src="images/hyperbowl/3d-rendered-hyperbowl.jpg" height="58"/>
 </a>
- <a href="http://talkdimsum.com/">
-  <img alt="Talk Dim Sum on Facebook"
-       src="images/talkdimsum/if_dim_sum_353267_512.png" height="58"/>
-</a -->
-
-
+<br/>
 <a href="http://wholebraingames.com/">
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" width="135"/>
 </a>
-<p/>
+<br/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
        src="images/badges/steam.png" width="135" />
@@ -62,6 +49,8 @@
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="59"/>
 </a>
+<p/>
+<a href="tumblr.html">old blog</a>
 <!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 <!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
 <!-- p/>
