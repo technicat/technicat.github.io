@@ -1,6 +1,5 @@
-                                                     Interactive    Entertainment
-
-         technicat                                                                           Consulting    Huntington  Beach,  CA
+    ##                                                 Interactive    Entertainment
+###      Technicat LLC
 
           Principal                                Providing software development,  projectmanagement,   productionplanning, game
           April2002-Present                        design  and writing services. White  paper published by  the Nintendo  Software
@@ -8,7 +7,8 @@
                                                    (JFOR)  and PS/2 Linux projects.
 
 
-         Hyper   Entertainment                                 Location-based  entertainment  spin-offfrom  Sony.    Burbank,  CA
+### Hyper Entertainment 
+Location-based  entertainment  spin-offfrom  Sony.    Burbank,  CA
           Senior Game   Programmer                 HyperBowl    Lead programmer   for attractiongame  installedinlocations such as
           January  2001-June  2001                 GameWorks   , Jillians and  the  Sony  Metreon . Optimized   renderer, provided
                                                    Mirai/GameExchange   support,DirectSound  fixesDirect3D  compatibilitywithlatest
@@ -18,12 +18,14 @@
 
                                                            Wireless    Internet
 
-         Univessence    Digital Productions                      Multimedia  technology  and production  studio   Culver City, CA
+### Univessence Digital Productions
+Multimedia  technology  and production  studio   Culver City, CA
           Consultant                               Chief  architectfor a  wireless information network.  CAMPA     Prototyped web
 
           October  2000-January  2001              collaborationtoolsusing JavaSwing  and Mozilla .
 
-         Neomar                                                                   Wireless  internetstartup    San Francisco,  CA
+###         Neomar
+Wireless  internetstartup    San Francisco,  CA
           Technical Lead                           Co-lead  fordevelopment,  from design to deployment  in five months, of a WAP
 
           December   1999-July  2000               gateway  supporting handheld devices such as RIM , Palm. Responsible for HTTP  ,
@@ -33,9 +35,9 @@
 
 
 
-                                                         Computer      Graphics
+##                                                         Computer      Graphics
 
-         Digital Chameleon                                                        Computer   graphics startup    Los Angeles,  CA
+### Digital Chameleon                                                        Computer   graphics startup    Los Angeles,  CA
           Vice President of Technology             Character   Animation   System   Led  development   of a  Java-based behavioral
           January  1998-September    1998          animation applicationon SGI Irixand Windows  NT.
 
