@@ -9,9 +9,7 @@ Providing software development,  projectmanagement,   productionplanning, game, 
 
 ### Hyper Entertainment, Burbank, California
 #### Senior Game Programmer, January  2001-June  2001
-Location-based  entertainment  spin-off from  Sony. Lead programmer   for attractiongame  installedinlocations such as
-           GameWorks   , Jillians and  the  Sony  Metreon . Optimized   renderer, provided
-                                                   Mirai/GameExchange   support,DirectSound  fixesDirect3D  compatibility with latest nVidia graphics cards.Released arcadeand French versionsin May 2001.
+Location-based  entertainment  spin-off from  Sony. Lead programmer   for attractiongame  installedinlocations such as GameWorks, Jillians and the Sony Metreon. Optimized renderer, provided Mirai/GameExchange support, DirectSound fixes Direct3D compatibility with latest nVidia graphics cards. Released arcade and French versions in May 2001.
 
 
 ##                                                         Wireless    Internet
