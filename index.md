@@ -1,8 +1,8 @@
-<a href="http://technicat.cafe/">
+<!-- a href="http://technicat.cafe/">
   <img alt="Technicat on Facebook"
        src="images/technicat/TechnicatLogo480x320.png" width="135"/>
 </a>
-<br/>
+<br/ -->
 <a href="http://wholebraingames.com/">
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" width="135"/>
