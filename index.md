@@ -7,7 +7,7 @@
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" width="135"/>
 </a>
-<br/>
+<p/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
        src="images/badges/steam.png" width="135" />
@@ -50,7 +50,7 @@
        src="images/books/bn.jpg" height="59"/>
 </a>
 <p/>
-<a href="tumblr.html">old blog</a>
+<a href="tumblr.html">old blog...</a>
 <!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
 <!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
 <!-- p/>
