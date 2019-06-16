@@ -3,7 +3,7 @@
 ### Technicat LLC, Las Vegas, Nevada
 
 #### President, April 2002 - Present
-Providing software development,  projectmanagement,   productionplanning, game, design  and writing services. White  paper published by  the Nintendo  Software, Development   Support Group. Open-source  contributionsto the Java FO-to-RTF
+Providing software development,  project management,   production planning, game, design  and writing services. White  paper published by  the Nintendo  Software, Development   Support Group. Open-source  contributionsto the Java FO-to-RTF
 (JFOR) and PS/2 Linux projects.
 
 
@@ -15,12 +15,12 @@ Location-based  entertainment  spin-off from  Sony. Lead programmer   for attrac
 ##                                                         Wireless    Internet
 
 ### Univessence Digital Productions,  Culver City, California
-#### Consultant,    October  2000-January  2001 
+#### Consultant,    October  2000 - January  2001 
 Multimedia  technology  and production  studio  
 Chief architect for a  wireless information network. Prototyped web collaborationtoolsusing JavaSwing  and Mozilla .
 
 ###         Neomar, San Francisco, California
-#### Technical Lead, December   1999-July  2000
+#### Technical Lead, December   1999 - July  2000
  Co-lead  fordevelopment,  from design to deployment  in five months, of a WAP gateway  supporting handheld devices such as RIM , Palm. Responsible for HTTP, transcoder, securityand  management   implementation. Integrated Certicom  SSL, JavaMail ,JMX  ,JSSE ,JTAPI .Performed web  testingusingSquid .Launched in May 2000  for the Motient wireless service.
 
 
@@ -28,21 +28,16 @@ Chief architect for a  wireless information network. Prototyped web collaboratio
 ##                                                         Computer      Graphics
 
 ### Digital Chameleon, Los Angeles, California   
-#### Vice President of Technology, January  1998-September    1998
-Led  development   of a  Java-based behavioral animation applicationon SGI Irixand Windows  NT.
-
-          Consultant                               Operating  officerin a  startupdeveloping  3D  graphics and  animation products
-          September   1997-December    1997        targetingfilm visualeffectand game  development.
+#### Vice President of Technology, January  1998 - September 1998
+#### Consultant,  September   1997 - December    1997 
+Led  development   of a  Java-based behavioral animation application on SGI Irixand Windows  NT. Operating  officerin a  startupdeveloping  3D  graphics and  animation products targeting film visualeffectand game  development.
 
 
-###         Nichimen   Graphics
-Computer   graphics startup    Los Angeles,  CA
-          Consultant                               Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs
-          August  1997-November    1998            with nVidia graphicsdrivers.
-
-          Manager   ofCore  Software               NWorld    3.2/FastTrack   Responsible   for core  technology   components   and
-          June  1996-July 1997                     multi-platform support.Led a group of fiveprogrammers  developing thecompany's
-                                                   firstPC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within
+###         Nichimen   Graphics,  Los Angeles,  California 
+#### Consultant,  August  1997 - November    1998 
+#### Manager of Core  Software, June  1996-July 1997
+Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs with nVidia graphicsdrivers. NWorld    3.2/FastTrack   Responsible   for core  technology   components   and multi-platform support.Led a group of fiveprogrammers  developing thecompany's
+                                                   first PC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within
 
                                                    fifteen months. Liaison with  graphics hardware ISV's  and middleware  vendors,
                                                    including Intergraph, 3Dlabs, and Sun  Microsystems . NWorld   3.1 Maintenance
