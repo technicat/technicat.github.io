@@ -35,22 +35,11 @@ Led  development   of a  Java-based behavioral animation application on SGI Irix
 
 ###         Nichimen   Graphics,  Los Angeles,  California 
 #### Consultant,  August  1997 - November    1998 
-#### Manager of Core  Software, June  1996-July 1997
-Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs with nVidia graphicsdrivers. NWorld    3.2/FastTrack   Responsible   for core  technology   components   and multi-platform support.Led a group of fiveprogrammers  developing thecompany's
-                                                   first PC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within
+#### Manager of Core  Software, June  1996 - July 1997
+####          Member   of Technical Staff,   December   1995 - May   1996 
+Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs with nVidia graphicsdrivers. NWorld    3.2/FastTrack   Responsible   for core  technology   components   and multi-platform support.Led a group of fiveprogrammers  developing thecompany's first PC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within fifteen months. Liaison with  graphics hardware ISV's  and middleware  vendors, including Intergraph, 3Dlabs, and Sun  Microsystems . NWorld   3.1 Maintenance release,supportingSGI  Octane and O2 platforms.Group  manager responsiblefor all core librariesincluding 3D  rendering,image  processing,licensing,installeruser interfaceand filesystem. NWorld   3.0 Replaced the IrisGL-based rendering and user-interfacelibrariewith
 
-                                                   fifteen months. Liaison with  graphics hardware ISV's  and middleware  vendors,
-                                                   including Intergraph, 3Dlabs, and Sun  Microsystems . NWorld   3.1 Maintenance
-                                                   release,supportingSGI  Octane and O2 platforms.Group  manager responsiblefor all
-                                                   core librariesincluding 3D  rendering,image  processing,licensing,installeruser
-
-                                                   interfaceand filesystem.
-
-
-
-          Member   of Technical Staff              NWorld   3.0 Replaced the IrisGL-based rendering and user-interfacelibrariewith
-
-          December   1995-May   1996               an OpenGL   implementation, supportingSGI  Impact and Indigo platforms.NWorld
+                      an OpenGL   implementation, supportingSGI  Impact and Indigo platforms.NWorld
                                                    2.1 Systems  programmer   fora 3D  modelling  and animation package  targetedat
                                                    game  development  and visualeffectsforfilm. Fixed IrisGLcompatibility problems
                                                    with newly-introduced  SGI Impact  systems running IGLOO,   the IrisGL emulator
