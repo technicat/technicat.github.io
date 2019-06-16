@@ -1,8 +1,8 @@
 ##                                                 Interactive    Entertainment
 
-### Technicat LLC, Las Vegas, Nevada
+### Technicat LLC _Las Vegas, Nevada_
 
-#### President, April 2002 - Present
+#### President _April 2002 - Present_
 Providing software development,  project management,   production planning, game, design  and writing services. White  paper published by  the Nintendo  Software, Development   Support Group. Open-source  contributionsto the Java FO-to-RTF
 (JFOR) and PS/2 Linux projects.
 
@@ -37,9 +37,8 @@ Led  development   of a  Java-based behavioral animation application on SGI Irix
 #### Consultant,  August  1997 - November    1998 
 #### Manager of Core  Software, June  1996 - July 1997
 ####          Member   of Technical Staff,   December   1995 - May   1996 
-Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs with nVidia graphicsdrivers. NWorld    3.2/FastTrack   Responsible   for core  technology   components   and multi-platform support.Led a group of fiveprogrammers  developing thecompany's first PC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within fifteen months. Liaison with  graphics hardware ISV's  and middleware  vendors, including Intergraph, 3Dlabs, and Sun  Microsystems . NWorld   3.1 Maintenance release,supportingSGI  Octane and O2 platforms.Group  manager responsiblefor all core librariesincluding 3D  rendering,image  processing,licensing,installeruser interfaceand filesystem. NWorld   3.0 Replaced the IrisGL-based rendering and user-interfacelibrariewith
-
-                      an OpenGL   implementation, supportingSGI  Impact and Indigo platforms.NWorld
+Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs with nVidia graphicsdrivers. NWorld    3.2/FastTrack   Responsible   for core  technology   components   and multi-platform support.Led a group of fiveprogrammers  developing thecompany's first PC  product, demonstrated  atI/ITSEC  and  Siggraph, and completed  within fifteen months. Liaison with  graphics hardware ISV's  and middleware  vendors, including Intergraph, 3Dlabs, and Sun  Microsystems . NWorld   3.1 Maintenance release,supportingSGI  Octane and O2 platforms.Group  manager responsiblefor all core librariesincluding 3D  rendering,image  processing,licensing,installeruser interfaceand filesystem. NWorld   3.0 Replaced the IrisGL-based rendering and user-interfacelibraries with an OpenGL   implementation, supportingSGI  Impact and Indigo platforms.
+NWorld
                                                    2.1 Systems  programmer   fora 3D  modelling  and animation package  targetedat
                                                    game  development  and visualeffectsforfilm. Fixed IrisGLcompatibility problems
                                                    with newly-introduced  SGI Impact  systems running IGLOO,   the IrisGL emulator
@@ -49,10 +48,11 @@ Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs 
 
                                                         Government/Defense
 
-###         BBN                                                                      Research   and development      Cambridge,  MA
-          Software  Engineer                       ARGUS     2.0-3.0 Development  of  a target signature database for the National
+###         BBN                                                                         Cambridge,  Massachusetts
+####          Software  Engineer  February  1994-November    1995                    
+          ARGUS     2.0-3.0 Development  of  a target signature database for the National
 
-          February  1994-November    1995          Target/Threat SignaturesData System .
+                    Target/Threat SignaturesData System .
 
          Science   Applications  International                                  Government/military   contractor   Columbia,  MD
           Software  Engineer                       Warbreaker   Migrated DIS  platformto a C++-based networking  libraryVR-link in
@@ -62,18 +62,19 @@ Mirai  Implemented  tessellatordebugged   Win32  issues and multithreading bugs 
                                                    wide-area networked  militarysimulationsat theJohns  Hopkins University Applied
                                                    Physics Laboratory,deployed within fivemonths.
 
-###         AURA                                                                 University astronomy   consortium    Baltimore, MD
-
-          Software  Engineer                       Proposal  Entry Processor Developed  proposalprocessing software forastronomers
+###         AURA                                                                 Baltimore, Maryland
+#### Software  Engineer  
+          Proposal  Entry Processor Developed  proposalprocessing software forastronomers
           October  1990-May   1992                 working  withthe Hubble Space Telescope atthe Space Telescope ScienceInstitut.
 
 
 ##                                                 Semiconductors/Manufacturing
 
 
-###         Interval Logic                                                    Supply-chain  management    startup    Menlo  Park, CA
-          Senior Principal Software Engineer       Leverage   for Scheduling   3.2 Technical lead  for group of  five programmers
-          April1998-December    1999               developing  alldesktop and web  interfaces,installatioand licensingcomponents.
+###         Interval Logic,                                                   Menlo  Park, CA
+####          Senior Principal Software Engineer,  April 1998-December    1999 
+Technical lead  for group of  five programmers
+                       developing  alldesktop and web  interfaces,installatioand licensingcomponents.
                                                    Leverage   for Scheduling  3.1 Technical  lead for group  of three programmers
 
                                                    developing web,  ActiveX and installerand licensingcomponents  of an automation
