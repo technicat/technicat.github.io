@@ -1,8 +1,6 @@
-# technicat.github.io
-
 Copyright (c) 2017 Technicat LLC. All Rights Reserved. (This is not open source)
 
-The GitHub page for Technicat LLC. Used as the main company [web site](https://technicat.github.io/).
+This is the GitHub page for Technicat LLC. Used as the main company [web site](https://technicat.github.io/).
 
 All components and graphics are copyright of their respective owners.
 
