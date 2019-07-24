@@ -6,7 +6,7 @@ All components and graphics are copyright of their respective owners.
 
 Uses the [Jekyll Minimal](https://github.com/orderedlist) theme with some modifications.
 
-Social media icons from [Ionicons](http://ionicons.com) or the social media companies (Medium, about.me)
+Social media icons are from [Ionicons](http://ionicons.com) or their respective social media companies (Medium, about.me)
 
 App store badges are official badges from their respective sites.
 
