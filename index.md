@@ -32,7 +32,7 @@
        src="images/badges/apple/Download_on_the_App_Store_Badge_US-UK_135x40.svg" width="135"/>
 </a>
 <p/>
-<a href="https://itunes.apple.com/us/book/technicat-on-software/id1281141151?mt=11">
+<a href="https://books.apple.com/us/book/technicat-on-software/id1281141151">
   <img alt="Download on the Apple Book Store"
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" width="135"/>
 </a>
