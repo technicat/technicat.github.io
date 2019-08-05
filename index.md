@@ -39,15 +39,19 @@
 <p/>
 <a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
-       src="images/books/techsoft.jpg" height="59"/>
+       src="images/books/techsoft.jpg" height="45"/>
 </a>
 <a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/learnunity.jpg" height="59"/>
+       src="images/books/learnunity.jpg" height="45"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/bn.jpg" height="59"/>
+       src="images/books/bn.jpg" height="45"/>
+</a>
+<a href="https://play.google.com/store/books/details/Philip_Chu_Technicat_on_Software?id=GLGkDwAAQBAJ">
+  <img alt="Technicat on Software on Google Play Books"
+       src="images/books/bn.jpg" height="45"/>
 </a>
 <p/>
 <!-- a href="tumblr.html">old blog...</a -->
