@@ -39,34 +39,18 @@
 <p/>
 <a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
-       src="images/books/techsoft.jpg" height="43"/>
+       src="images/books/techsoft.jpg" height="42"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/bn.jpg" height="43"/>
-</a>
-<a href="https://play.google.com/store/books/details/Philip_Chu_Technicat_on_Software?id=GLGkDwAAQBAJ">
-  <img alt="Technicat on Software on Google Play Books"
-       src="images/books/216px-Google_Play_Books_icon_-_vector.svg.png" height="43"/>
+       src="images/books/bn.jpg" height="42"/>
 </a>
 <a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/learnunity.jpg" height="43"/>
+       src="images/books/learnunity.jpg" height="42"/>
 </a>
-<p/>
-<!-- a href="tumblr.html">old blog...</a -->
-<!-- Books also on [amazon.com](https://smile.amazon.com/author/philchu) and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
-<!-- Portfolio on [Unity Connect](http://technicat.cafe) -->
-<!-- p/>
-Client apps <a href="https://itunes.apple.com/us/app/cinefex/id512379220">Cinefex</a> and <a href="https://itunes.apple.com/us/app/wordseye/id935738913">WordsEye</a> on the App Store
-<br/>
-Interview with <a href="http://po.st/rrNbD5">Gamkedo</a>
--->
-
-<!-- and [bn.com](https://www.barnesandnoble.com/s/%22Philip%20Chu%22?Ntk=P_key_Contributor_List&Ns=P_Sales_Rank&Ntx=mode+matchall) -->
-<!-- (also on [iTunes](https://itunes.apple.com/us/podcast/phil-chu/id1006574766?i=1000352808460)) -->
-
-<!-- a href="https://www.buymeacoffee.com/technicat" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a -->
-
-<!-- a class="twitter-timeline" data-dnt="true" href="https://twitter.com/fugugames" data-widget-id="347186558539026432">Tweets by @fugugames</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script -->
+<a href="https://play.google.com/store/books/details/Philip_Chu_Technicat_on_Software?id=GLGkDwAAQBAJ">
+  <img alt="Technicat on Software on Google Play Books"
+       src="images/books/216px-Google_Play_Books_icon_-_vector.svg.png" height="42"/>
+</a>
 
