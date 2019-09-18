@@ -3,7 +3,7 @@
        src="images/technicat/TechnicatLogo480x320.png" width="135"/>
 </a>
 <br/ -->
-<a href="http://wholebraingames.com/">
+<a href="http://fugugames.com/">
   <img alt="technicat on itch.io"
        src="images/badges/itchio/logo_transparent.png" width="135"/>
 </a>
