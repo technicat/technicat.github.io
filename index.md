@@ -37,9 +37,13 @@
        src="images/badges/apple/US_UK_Apple_Books_Badge_Get_RGB_071818.svg" width="135"/>
 </a>
 <p/>
-<a href="https://smile.amazon.com/author/philchu/">
+<!--a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
        src="images/books/techsoft.jpg" height="58"/>
+</a -->
+<a href="https://smile.amazon.com/author/philchu/">
+  <img alt="Technicat on Software on Amazon.com"
+       src="images/books/learnunity.jpg" height="58"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
