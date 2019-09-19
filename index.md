@@ -45,10 +45,10 @@
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="58"/>
 </a>
-<a href="https://www.apress.com/us/book/9781430248767">
+<!-- a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
        src="images/books/learnunity.jpg" height="58"/>
-</a>
+</a -->
 <a href="https://play.google.com/store/books/author?id=Philip+Chu">
   <img alt="Technicat on Software on Google Play Books"
        src="images/books/216px-Google_Play_Books_icon_-_vector.svg.png" height="58"/>
