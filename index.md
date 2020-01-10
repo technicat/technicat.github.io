@@ -43,16 +43,17 @@
 </a -->
 <a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
-       src="images/books/learnunity.jpg" height="58"/>
+       src="images/books/learnunity.jpg" height=""/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/bn.jpg" height="58"/>
+       src="images/books/bn.jpg" height="75"/>
 </a>
 <!-- a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
-       src="images/books/learnunity.jpg" height="58"/>
+       src="images/books/learnunity.jpg" height="75"/>
 </a -->
+<p/>
 <a href="https://play.google.com/store/books/author?id=Philip+Chu">
   <img alt="Technicat on Software on Google Play Books"
        src="images/books/216px-Google_Play_Books_icon_-_vector.svg.png" height="58"/>
