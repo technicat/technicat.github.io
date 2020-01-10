@@ -21,7 +21,7 @@
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
 </a>
-<p/ -->
+<p/>
 <a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
        src="images/badges/amazon/amazon-underground-app-us-black.png" width="135" />
