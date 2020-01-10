@@ -20,7 +20,7 @@
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
-</a>
+</a -->
 <p/>
 <a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
