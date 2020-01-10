@@ -43,7 +43,7 @@
 </a -->
 <a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
-       src="images/books/learnunity.jpg" height=""/>
+       src="images/books/learnunity.jpg" height="75"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
