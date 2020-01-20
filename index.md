@@ -43,11 +43,11 @@
 </a -->
 <a href="https://smile.amazon.com/author/philchu/">
   <img alt="Technicat on Software on Amazon.com"
-       src="images/books/learnunity.jpg" height="84"/>
+       src="images/books/learnunity.jpg" height="85"/>
 </a>
 <a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
-       src="images/books/bn.jpg" height="84"/>
+       src="images/books/bn.jpg" height="85"/>
 </a>
 <!-- a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
