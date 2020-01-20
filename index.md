@@ -16,11 +16,11 @@
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge">
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" width="135" />
 </a>
-<!-- p>
+<p>
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
-</a -->
+</a>
 <p/>
 <a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
@@ -53,9 +53,9 @@
   <img alt="Learn Unity 4 for iOS Game Development"
        src="images/books/learnunity.jpg" height="75"/>
 </a -->
-<p/>
+<!-- p/>
 <a href="https://play.google.com/store/books/author?id=Philip+Chu">
   <img alt="Technicat on Software on Google Play Books"
        src="images/books/216px-Google_Play_Books_icon_-_vector.svg.png" height="58"/>
-</a>
+</a -->
 
