@@ -22,11 +22,11 @@
        src="images/badges/en_badge_web_generic.png" width="135" />
 </a -->
 <p/>
-<a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
+<!-- a href="https://smile.amazon.com/Technicat-LLC-HyperBowl-Pro/dp/B005V1SIVQ">
   <img alt="Amazon Appstore"
        src="images/badges/amazon/amazon-underground-app-us-black.png" width="135" />
 </a>
-<p>
+<p -->
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
   <img alt="Download on the App Store"
        src="images/badges/apple/Download_on_the_App_Store_Badge_US-UK_135x40.svg" width="135"/>
