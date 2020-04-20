@@ -12,10 +12,10 @@
   <img alt="Steam"
        src="images/badges/steam.png" width="135" />
 </a>
-<!-- p/>
+<p/>
 <a href="https://www.microsoft.com/store/apps/9nblggh2sppf?ocid=badge">
   <img src="https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png" alt="Get it from Microsoft" width="135" />
-</a -->
+</a>
 <!-- p>
 <a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
   <img alt="Get it on Google Play"
@@ -45,14 +45,14 @@
   <img alt="Technicat on Software on Amazon.com"
        src="images/books/learnunity.jpg" height="85"/>
 </a -->
-<a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
+<!-- a href="https://www.barnesandnoble.com/w/technicat-on-software-phil-chu/1108218697?ean=2940013757424">
   <img alt="Technicat on Software on BN.com"
        src="images/books/bn.jpg" height="85"/>
 </a>
 <a href="https://www.apress.com/us/book/9781430248767">
   <img alt="Learn Unity 4 for iOS Game Development"
        src="images/books/learnunity.jpg" height="85"/>
-</a>
+</a -->
 <!-- p/>
 <a href="https://play.google.com/store/books/author?id=Philip+Chu">
   <img alt="Technicat on Software on Google Play Books"
