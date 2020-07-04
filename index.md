@@ -3,10 +3,10 @@
        src="images/badges/itchio/badge.svg" width="135"/>
 </a>
 <p/>
-<a href="https://store.steampowered.com/app/847530/HyperBowl/">
+<!-- a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
        src="images/badges/steam.png" width="135" />
-</a>
+</a -->
 <p/>
 <a href="https://play.google.com/store/apps/details?id=com.technicat.HyperBowl">
   <img alt="Get it on Google Play"
