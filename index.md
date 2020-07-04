@@ -1,6 +1,6 @@
 <a href="http://technicat.itch.io/">
   <img alt="technicat on itch.io"
-       src="images/badges/itchio/logo_transparent.png" width="135"/>
+       src="images/badges/itchio/badge-color.svg" width="135"/>
 </a>
 <p/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
