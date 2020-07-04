@@ -8,7 +8,7 @@
        src="images/badges/steam.png" width="135" />
 </a>
 <p/>
-<a href="https://play.google.com/store/apps/developer?id=Technicat+LLC">
+<a href="https://play.google.com/store/apps/details?id=com.technicat.HyperBowl">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
 </a>
