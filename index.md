@@ -3,11 +3,6 @@
        src="images/badges/itchio/badge.svg" width="135"/>
 </a>
 <p/>
-<!-- a href="https://store.steampowered.com/app/847530/HyperBowl/">
-  <img alt="Steam"
-       src="images/badges/steam.png" width="135" />
-</a -->
-<p/>
 <a href="https://play.google.com/store/apps/details?id=com.technicat.HyperBowl">
   <img alt="Get it on Google Play"
        src="images/badges/en_badge_web_generic.png" width="135" />
@@ -25,6 +20,10 @@
 <p/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="Steam"
-       src="images/ionicons/svg/logo-steam.svg" width="135" />
+       src="images/badges/steam.png" width="135" />
 </a>
+<!-- a href="https://store.steampowered.com/app/847530/HyperBowl/">
+  <img alt="Steam"
+       src="images/ionicons/svg/logo-steam.svg" width="135" />
+</a -->
 
