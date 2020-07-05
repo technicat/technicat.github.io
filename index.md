@@ -19,11 +19,8 @@
 </a>
 <p/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
-  <img alt="Steam"
+  <img alt="HyperBowl on Steam"
        src="images/badges/steam.png" width="135" />
 </a>
-<!-- a href="https://store.steampowered.com/app/847530/HyperBowl/">
-  <img alt="Steam"
-       src="images/ionicons/svg/logo-steam.svg" width="135" />
-</a -->
+
 
