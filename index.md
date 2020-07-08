@@ -22,10 +22,10 @@
   <img alt="HyperBowl on the Microsoft Store"
        src="images/badges/microsoft/English_get_from_MS.svg" width="135" />
 </a>
-<p/>
+<!-- p/>
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="HyperBowl on Steam"
        src="images/badges/steam.png" width="135" />
-</a>
+</a -->
 
 
