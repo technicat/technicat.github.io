@@ -1,6 +1,6 @@
 <a href="http://technicat.itch.io/">
   <img alt="technicat on itch.io"
-       src="images/badges/itchio/badge.svg" width="135"/>
+       src="images/badges/itchio/badge.svg" width="150"/>
 </a>
 <p/>
 <a href="https://itunes.apple.com/us/developer/technicat-llc/id295241742">
