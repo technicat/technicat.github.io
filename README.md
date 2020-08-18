@@ -5,7 +5,7 @@ Uses the [Jekyll Minimal](https://github.com/orderedlist) theme with some modifi
 
 Icons are from [Ionicons](http://ionicons.com).
 
-The itch.io icon is from [itch.io][http://itch.io/).
+The itch.io icon is from [itch.io](http://itch.io/).
 
 Technicat logo by [Dakota Snow](http://espressyourself.coffee/).
 
