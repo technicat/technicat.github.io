@@ -18,11 +18,11 @@
        src="images/badges/en_badge_web_generic.png" width="160" />
 </a>
 <p/>
-<a href="https://www.microsoft.com/en-us/p/hyperbowl/9nblggh2sppf">
+<!-- a href="https://www.microsoft.com/en-us/p/hyperbowl/9nblggh2sppf">
   <img alt="HyperBowl on the Microsoft Store"
        src="images/badges/microsoft/English_get_from_MS.svg" width="160" />
 </a>
-<p/>
+<p/ -->
 <a href="https://store.steampowered.com/app/847530/HyperBowl/">
   <img alt="HyperBowl on Steam"
        src="images/badges/steam.png" width="160" />
