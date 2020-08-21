@@ -1,1 +1,1 @@
-[![unsplash](/images/unsplash/phil-chu-kamala-unsplash.jpg)](https://unsplash.com/@technicat)
+[![unsplash](/images/unsplash/phil-chu-stop-unsplash.jpg)](https://unsplash.com/@technicat)
