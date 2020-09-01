@@ -6,3 +6,6 @@
 
 [![cinefex](/images/cinefex/screenshots/cinefexscreenshot.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![cinefex](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
+
+[![learnunity](/images/learnunity/cover.jpg)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity](/images/learnunity/reviews/learnunityreview.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
