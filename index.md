@@ -1,4 +1,7 @@
+[![hyperbowl](/images/hyperbowl/hyperbowlromescreenshots/hyperbowlrome.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl](/images/hyperbowl/hyperbowlforestscreenshots/hyperbowlforest.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl](/images/hyperbowl/hyperbowlsfscreenshots/hyperbowlsf.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!--
 [![unsplash](/images/unsplash/phil-chu-mantis-unsplash.jpg)](https://unsplash.com/@technicat)
 -->
