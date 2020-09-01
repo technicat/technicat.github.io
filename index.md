@@ -15,5 +15,7 @@
 [![unsplash](/images/unsplash/phil-chu-tallmural-unsplash.jpg)](https://unsplash.com/@technicat)
 [![unsplash](/images/unsplash/phil-chu-writersblock-unsplash.jpg)](https://unsplash.com/@technicat)
 -->
+>!--
 [![talkdimsum](/images/talkdimsum/appstore/ratings.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+-->
 
