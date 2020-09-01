@@ -21,4 +21,5 @@
 <!--
 [![talkdimsum](/images/talkdimsum/talkdimsum.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 -->
+[![hyperbowl](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 
