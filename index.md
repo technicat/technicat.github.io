@@ -29,4 +29,4 @@
 [![talkdimsum](/images/talkdimsum/talkdimsum.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 -->
 [![hyperbowl](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-
+[![hyperbowl](/images/hyperbowl/appstore/3-30-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
