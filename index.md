@@ -18,4 +18,5 @@
 <!--
 [![talkdimsum](/images/talkdimsum/appstore/ratings.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 -->
+[![talkdimsum](/images/talkdimsum/talkdimsum.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
