@@ -37,5 +37,5 @@
 <!-- 
 [![talkdimsum](/images/talkdimsum/screenshots/talkdimsumdark.jpg =640x)](https://apps.apple.com/us/developer/technicat-llc/id295241742)
 -->
-<a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img src="/images/talkdimsum/screenshots/talkdimsumdark.jpg" width="640"></a>
+<a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img src="/images/talkdimsum/screenshots/talkdimsumdark.jpg" width="600"></a>
 [![talkdimsum](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/developer/technicat-llc/id295241742)
