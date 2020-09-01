@@ -33,3 +33,4 @@
 [![hyperbowl](/images/hyperbowl/appstore/3-30-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl](/images/hyperbowl/appstore/3-23-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 -->
+[![talkdimsum](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/developer/technicat-llc/id295241742)
