@@ -1,7 +1,7 @@
-[![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://hyperbowl.rocks/)
+[![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](http://hyperbowl.rocks/)
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 
-[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](https://talkdimsumn.com/)
+[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsumn.com/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
 [![cinefex screenshot](/images/cinefex/screenshots/cinefexscreenshot.png)](https://cinefex.com/ipad/)
