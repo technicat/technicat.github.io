@@ -9,3 +9,7 @@
 
 [![learnunity](/images/learnunity/cover.jpg)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 [![learnunity](/images/learnunity/reviews/learnunityreview.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+
+[![technicatonsoftware cover](/images/technicatonsoftware/covers/techsoft.jpg)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
+[![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
+
