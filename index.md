@@ -4,7 +4,7 @@
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](https://talkdimsumn.com/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
-[![cinefex screenshot](/images/cinefex/screenshots/cinefexscreenshot.png)](https://apps.apple.com/us/app/cinefex/id512379220)
+[![cinefex screenshot](/images/cinefex/screenshots/cinefexscreenshot.png)](https://cinefex.com/ipad/)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 
 [![learnunity cover](/images/learnunity/cover.jpg)](https://www.apress.com/gp/book/9781430248767)
