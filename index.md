@@ -18,6 +18,9 @@
 
 [![learnunity cover](/images/learnunity/cover.jpg)](https://www.apress.com/gp/book/9781430248767)
 [![learnunity review](/images/learnunity/reviews/learnunityreview.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/nja.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 
 <!--
 [![technicatonsoftware cover](/images/technicatonsoftware/covers/techsoft.jpg)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
