@@ -1,7 +1,8 @@
 [![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](http://hyperbowl.rocks/)
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/3-23-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![hyperbowl review](/images/hyperbowl/appstore/1-20-2015.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/appstore/11-5-2017.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 
 
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
