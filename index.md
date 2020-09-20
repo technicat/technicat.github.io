@@ -24,5 +24,5 @@
 
 <!-- [![technicatonsoftware cover](/images/technicatonsoftware/covers/techsoft.jpg)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958) -->
 [![technicatonsoftware cover](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat/technicat-on-software)
-[![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
+[![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
 
