@@ -23,6 +23,6 @@
 [![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 
 <!-- [![technicatonsoftware cover](/images/technicatonsoftware/covers/techsoft.jpg)](https://www.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958) -->
-[![technicatonsoftware cover](/images/technicat/photo/technicat.jpg)](https://github.com/technicat/technicat-on-software)
+[![technicat](/images/technicat/photo/technicat.jpg)](https://github.com/technicat/technicat-on-software)
 [![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
 
