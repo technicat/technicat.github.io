@@ -1,3 +1,10 @@
+[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-15-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+
 [![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://technicat.itch.io/hyperbowl)
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/3-23-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
@@ -5,13 +12,6 @@
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/1-20-2015.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/7-03-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 [![hyperbowl review](/images/hyperbowl/appstore/01-16-2013.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-
-[![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-15-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
 [![cinefex screenshot](/images/cinefex/screenshots/cinefexmockup.png)](https://cinefex.com/ipad/)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
