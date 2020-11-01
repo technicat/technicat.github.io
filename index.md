@@ -9,6 +9,7 @@
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/11-05-2017.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/01-16-2013.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/steam/3-26-20.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 
 [![cinefex screenshot](/images/cinefex/screenshots/cinefexmockup.png)](https://cinefex.com/ipad/)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
