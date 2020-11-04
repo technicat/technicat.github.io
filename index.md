@@ -12,6 +12,7 @@
 [![hyperbowl review](/images/hyperbowl/steam/10-31-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/3-26-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/12-1-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/8-31-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/7-5-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/10-3-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/8-12-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/)
