@@ -2,6 +2,7 @@
 <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam" src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
 <a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg" height="40"></a>
 <a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
+<a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
 
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
