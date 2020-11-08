@@ -27,6 +27,8 @@
 [![hyperbowl review](/images/hyperbowl/appstore/3-30-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 [![hyperbowl review](/images/hyperbowl/appstore/3-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/03-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
+
+[![hyperbowl review](/images/hyperbowl/steam/11-8-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/10-31-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/3-26-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 <!-- [![hyperbowl review](/images/hyperbowl/steam/2-2-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/) -->
