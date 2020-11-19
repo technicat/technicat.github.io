@@ -37,10 +37,10 @@
 <!-- [![hyperbowl review](/images/hyperbowl/steam/7-5-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/) -->
 [![hyperbowl review](/images/hyperbowl/steam/10-3-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 <!-- [![hyperbowl review](/images/hyperbowl/steam/8-12-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/) -->
-<!--
+
 [![cinefex screenshot](/images/cinefex/screenshots/cinefexmockup.png)](https://cinefex.com/ipad/)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
--->
+
 [![learnunity cover](/images/learnunity/cover.jpg)](https://www.apress.com/gp/book/9781430248767)
 [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
