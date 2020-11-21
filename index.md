@@ -3,6 +3,7 @@
 <a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg" height="40"></a>
 <a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast" src="/images/ionicons/svg/radio-sharp.svg" height="40"></a>
 <a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
+<a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
 <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
 
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
