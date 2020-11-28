@@ -13,7 +13,7 @@
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-15-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
-[![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](https://technicat.itch.io/hyperbowl)
+[![hyperbowl screenshot](/images/hyperbowl/hyperbowlhighseasscreenshot/hyperbowlhighseas.png)](http://hyperbowl.rocks/)
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/3-30-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 [![hyperbowl review](/images/hyperbowl/appstore/3-23-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
