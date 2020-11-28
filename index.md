@@ -5,6 +5,7 @@
 <a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
 <a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
 <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
+<a href="http://technicat.com"><img alt="Technicat" src="/images/ionicons/svg/link-sharp.svg" height="40"></a>
 
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
