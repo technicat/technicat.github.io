@@ -16,7 +16,7 @@
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a>
 
-### Social Media
+### Social media
 * Abandoned twitter but still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
 <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
