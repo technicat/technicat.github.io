@@ -1,11 +1,3 @@
-<a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img alt="App Store" src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
-<a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam" src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
-<a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg" height="40"></a>
-<a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast" src="/images/ionicons/svg/radio-sharp.svg" height="40"></a>
-<!-- a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
-<a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a -->
-<a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
-
 ### COVID-19
 * <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
 * <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
