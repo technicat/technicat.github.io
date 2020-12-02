@@ -5,7 +5,6 @@
 <a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
 <a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
 <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
-<!-- a href="http://technicat.com"><img alt="Technicat" src="/images/ionicons/svg/link-sharp.svg" height="40"></a -->
 
 COVID-19 updates
 * <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
@@ -18,7 +17,7 @@ COVID-19 updates
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a><
 
-I'm no longer on twitter, but still following
+I've abandoned twitter (and facebook and everything facebook-related), but still following
 * <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer)
 * <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor)
 * <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
