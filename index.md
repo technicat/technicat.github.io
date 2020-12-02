@@ -24,12 +24,12 @@
 * Haven't found a Medium replacement, tried Hashnode, but too Bay Area tech-oriented for my taste ("What's your tech stack?")
 * Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
 
-### some app news
+### app news
 * [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because Apple is requiring paid and IAP games to register with the Chinese government to remain on the App Store there)
 * So I figured might as well republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (I'm limiting the number of published apps to three because the App Store doesn't do a good job of displaying more on small screens)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
 
-### and some nice reviews
+### nice reviews
 
 <!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066) -->
