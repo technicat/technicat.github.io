@@ -24,6 +24,6 @@ I'm no longer on twitter, but still following
 * <a href="https://twitter.com/writersblocklv">The Writer's Block (bookstore)</a>
 
 App news:
-* HyperBowl on the App Store is now free (because I don't want to fill out that Chinese government game registration form)
-* So I'm republishing my old Fugu Games apps there (even the ones with mediocre reviews, hey, they're free, stop complaining)
-* I heard from the Ottawa Chinese Language School they're using my Talk Dim Sum app to teach Chinese!
+* [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because I don't want to fill out that Chinese government game registration form)
+* So I'm republishing some of my old [Fugu Games](http://fugugames.com/) apps the [App Store](https://apps.apple.com/us/developer/technicat-llc/id295241742) (even the ones with mediocre reviews, hey, they're free, stop complaining)
+* I heard from the Ottawa Chinese Language School they're using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
