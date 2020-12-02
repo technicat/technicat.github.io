@@ -18,7 +18,7 @@
 
 ### app news
 * [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) (Apple says paid/IAP games must register with the Chinese government to remain on their App Store)
-* So I figured might as well republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (staying with three published apps because the App Store doesn't do a good job of displaying more on small screens)
+* So, why not, [Fugu Maze](https://technicat.itch.io/fugumaze) possibly my first app is back on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) also for free (staying with three published apps because the App Store doesn't do a good job of displaying more on small screens)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is teaching with [Talk Dim Sum](http://talkdimsum.com/)!
 
 ### nice reviews
