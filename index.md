@@ -25,9 +25,9 @@
 * Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
 
 ### app news
-* [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (Apple says paid/IAP games must register with the Chinese government to remain on the App Store there)
+* [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) (Apple says paid/IAP games must register with the Chinese government to remain on the App Store there)
 * So I figured might as well republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (staying with three published apps because the App Store doesn't do a good job of displaying more on small screens)
-* The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
+* The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using [Talk Dim Sum](http://talkdimsum.com/)!
 
 ### nice reviews
 
