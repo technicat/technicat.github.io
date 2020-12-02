@@ -8,23 +8,20 @@
 <!-- a href="http://technicat.com"><img alt="Technicat" src="/images/ionicons/svg/link-sharp.svg" height="40"></a -->
 
 COVID-19 updates
-        <ul>
-        <li><a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a></li>
-        <li><a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a></li>
-        <li><a href="http://dpbh.nv.gov/coronavirus/">Nevada Health and Human Services</a></li>
-        <li><a href="https://thenevadaindependent.com/coronavirus-data-nevada">Nevada Independent</a></li>
-        <li><a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a></li>
-        <li><a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a></li>
-        <li><a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">Centers for Disease Control</a></li>
-        <li><a href="https://www.nih.gov/coronavirus">National Institutes of Health</a></li>
-        <li><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a></li>
-        </ul>
-        Following on twitter
-        <ul>
-          <li><a href="https://twitter.com/AmyChu">Amy Chu (writer)</a>
-          <li><a href="https://twitter.com/SteveSisolak">Steve Sisolak (governor)</a>
-          <li><a href="https://twitter.com/writersblocklv">The Writer's Block (bookstore)</a>
-       </ul>
+* <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
+* <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
+* <a href="http://dpbh.nv.gov/coronavirus/">Nevada Health and Human Services</a>
+* <a href="https://thenevadaindependent.com/coronavirus-data-nevada">Nevada Independent</a>
+* <a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a>
+* <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
+* <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">Centers for Disease Control</a>
+* <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a></li>
+* <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a><
+
+Following on twitter
+* <a href="https://twitter.com/AmyChu">Amy Chu (writer)</a>
+* <a href="https://twitter.com/SteveSisolak">Steve Sisolak (governor)</a>
+* <a href="https://twitter.com/writersblocklv">The Writer's Block (bookstore)</a>
 
 [![talkdimsum screenshot](/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
