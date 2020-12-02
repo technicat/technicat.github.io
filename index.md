@@ -31,8 +31,8 @@ Some nice reviews
 
 <!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066) -->
-<!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+<!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-15-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066) -->
 
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
@@ -53,8 +53,8 @@ Some nice reviews
 
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 
-[![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-<!-- [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
+<!-- [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
+<!-- [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
+[![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 
 [![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
