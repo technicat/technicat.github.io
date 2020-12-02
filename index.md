@@ -2,11 +2,11 @@
 <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam" src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
 <a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg" height="40"></a>
 <a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast" src="/images/ionicons/svg/radio-sharp.svg" height="40"></a>
-<a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
-<a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
+<!-- a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
+<a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a -->
 <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
 
-## COVID-19 updates
+### COVID-19 updates
 * <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
 * <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
 * <a href="http://dpbh.nv.gov/coronavirus/">Nevada Health and Human Services</a>
@@ -17,20 +17,20 @@
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a>
 
-## Social Media
-* Abandoned twitter (and facebook and everything facebook-related), but I'm still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
+### Social Media
+* Abandoned twitter but still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
 <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
-* Cancelled YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
-* Still looking for a Medium replacement, tried blogging on Hashnode, but it's too Bay Area tech-oriented for my taste ("What's your tech stack?")
-* Posted photos on Unsplash for a while, but now just sticking with <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
+* Deleted YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
+* Haven't found a Medium replacement, tried Hashnode, but too Bay Area tech-oriented for my taste ("What's your tech stack?")
+* Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
 
-## Some app news
+### Some app news
 * [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because Apple is requiring paid and IAP games to register with the Chinese government to remain on the App Store there)
 * So I figured what the heck, while I'm at it let's republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (I'm limiting the number of published apps to three because the App Store doesn't do a good job of displaying more on small screens)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
 
-## and some nice reviews
+### and some nice reviews
 
 <!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066) -->
