@@ -16,7 +16,7 @@
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a>
 
-### Social media
+### social media
 * Abandoned twitter but still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
 <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
@@ -24,7 +24,7 @@
 * Haven't found a Medium replacement, tried Hashnode, but too Bay Area tech-oriented for my taste ("What's your tech stack?")
 * Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
 
-### Some app news
+### some app news
 * [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because Apple is requiring paid and IAP games to register with the Chinese government to remain on the App Store there)
 * So I figured might as well republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (I'm limiting the number of published apps to three because the App Store doesn't do a good job of displaying more on small screens)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
