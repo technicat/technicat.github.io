@@ -17,10 +17,9 @@ COVID-19 updates
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a><
 
-I've abandoned twitter (and facebook and everything facebook-related), but still following
-* <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer)
-* <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor)
-* <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
+I've abandoned twitter (and facebook and everything facebook-related), but I'm still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
+<a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
+<a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
 
 App news
 * [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because Apple is requiring paid and IAP games to register with the Chinese government to remain on the App Store there)
