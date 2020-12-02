@@ -26,7 +26,7 @@ App news
 * So I figured what the heck, while I'm at it let's republish my first app [Fugu Maze](https://technicat.itch.io/fugumaze) on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) for free (I'm limiting the number of published apps to three because the App Store doesn't do a good job of displahing more on small screens)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
 
-Some nice reviews
+and some nice reviews
 
 <!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066) -->
