@@ -42,6 +42,14 @@ Some nice reviews
 [![hyperbowl review](/images/hyperbowl/appstore/7-03-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/01-16-2013.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/appstore/3-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+
+[![hyperbowl review](/images/hyperbowl/steam/11-8-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/10-31-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/3-26-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/12-1-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/8-31-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl review](/images/hyperbowl/steam/10-3-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 
 [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
