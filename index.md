@@ -42,3 +42,7 @@ Some nice reviews
 [![hyperbowl review](/images/hyperbowl/appstore/7-03-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/01-16-2013.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+
+[![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
