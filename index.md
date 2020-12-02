@@ -15,7 +15,7 @@ COVID-19 updates
 * <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
 * <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">Centers for Disease Control</a>
 * <a href="https://www.nih.gov/coronavirus">National Institutes of Health</a>
-* <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a><
+* <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a>
 
 I've abandoned twitter (and facebook and everything facebook-related), but I'm still following <a href="https://twitter.com/AmyChu">Amy Chu</a> (writer),
 <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
