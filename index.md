@@ -24,7 +24,7 @@ I've abandoned twitter (and facebook and everything facebook-related), but still
 
 App news
 * [HyperBowl](http://hyperbowl.fun/) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) is now free (because Apple is requiring paid and IAP games to register with the Chinese government to remain on the App Store there)
-* So I'm republishing some [Fugu Games](http://fugugames.com/) apps the [App Store](https://apps.apple.com/us/developer/technicat-llc/id295241742) (even the ones with mediocre reviews, hey, they're free, stop complaining)
+* So I'm also republishing some old [Fugu Games](http://fugugames.com/) on the [App Store](https://apps.apple.com/us/developer/technicat-llc/id295241742)
 * The [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/) is using my [Talk Dim Sum](http://talkdimsum.com/) app to teach Chinese!
 
 Some nice reviews
