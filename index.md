@@ -6,7 +6,7 @@
 <a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a -->
 <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
 
-### COVID-19 updates
+### COVID-19
 * <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
 * <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
 * <a href="https://thenevadaindependent.com/coronavirus-data-nevada">Nevada Independent</a>
