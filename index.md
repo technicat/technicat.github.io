@@ -29,4 +29,4 @@ App news
 
 Latest nice review
 
-(/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
+[(/images/talkdimsum/screenshots/talkdimsummockup.png)](http://talkdimsum.com/)
