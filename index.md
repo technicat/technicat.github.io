@@ -9,7 +9,7 @@
 * <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">World Health Organization</a>
 
 ### social media
-* Abandoned twitter but still following <a href="https://twitter.com/AmyChu">Amy Chu</a>,
+* Left twitter but following <a href="https://twitter.com/AmyChu">Amy Chu</a>,
 <a href="https://twitter.com/SteveSisolak">Gov. Sisolak</a>, and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a>
 * Deleted YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
