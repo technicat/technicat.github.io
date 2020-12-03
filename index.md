@@ -13,7 +13,7 @@
 <a href="https://twitter.com/SteveSisolak">Gov. Sisolak</a>, and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a>
 * Deleted YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
-* Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
+* Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a>
 
 ### app news
 * [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253) (Apple says paid/IAP games must register with the Chinese government to remain on their App Store)
