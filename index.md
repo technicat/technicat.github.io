@@ -1,9 +1,6 @@
 ### COVID-19
-* <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>
-* <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
-* <a href="https://thenevadaindependent.com/coronavirus-data-nevada">Nevada Independent</a>
-* <a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a>
-* <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
+* <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>, <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
+* <a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a>, <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
 
 ### social media
 * I'm not on twitter, but following <a href="https://twitter.com/AmyChu">Amy Chu</a>,
