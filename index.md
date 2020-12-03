@@ -13,7 +13,6 @@
 <a href="https://twitter.com/SteveSisolak">Steve Sisolak</a> (governor), and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a> (bookstore)
 * Deleted YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
-* Haven't found a Medium replacement, tried Hashnode, but too Bay Area tech-oriented for my taste ("What's your tech stack?")
 * Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a> (Unsplash rejections give me App Store rejection vibes)
 
 ### app news
