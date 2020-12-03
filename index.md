@@ -6,11 +6,11 @@
 * <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
 
 ### social media
-* No longer on twitter, but still following <a href="https://twitter.com/AmyChu">Amy Chu</a>,
+* I'm not on twitter, but following <a href="https://twitter.com/AmyChu">Amy Chu</a>,
 <a href="https://twitter.com/SteveSisolak">Gov. Sisolak</a>, and
 <a href="https://twitter.com/writersblocklv">The Writer's Block</a>
-* Deleted YouTube, now repopulating videos on <a href="https://vimeo.com/user127637069">Vimeo</a>
-* Posted photos on Unsplash for a while, but back to just <a href="https://www.pinterest.com/technicat/">Pinterest</a>
+* Deleted YouTube, moving videos to <a href="https://vimeo.com/user127637069">Vimeo</a>
+* Posted photos on Unsplash for a while, but now just <a href="https://www.pinterest.com/technicat/">Pinterest</a>
 
 ### app news
 * [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253)
