@@ -37,8 +37,8 @@
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![cinefex review](/images/cinefex/appstore/4-17-2018.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 
-<!-- [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
-<!-- [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
+[![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
+[![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) 
 [![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
 
 [![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
