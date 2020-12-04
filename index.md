@@ -35,6 +35,7 @@
 [![fugu maze review](/images/fugumaze/6-20-2010.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
+[![cinefex review](/images/cinefex/appstore/4-17-2018.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 
 <!-- [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
 <!-- [![learnunity review](/images/learnunity/reviews/vincenttse.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750) -->
