@@ -20,9 +20,9 @@
 [![hyperbowl review](/images/hyperbowl/appstore/11-05-2017.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/1-20-2015.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/7-03-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)  -->
 [![hyperbowl review](/images/hyperbowl/appstore/01-16-2013.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![hyperbowl review](/images/hyperbowl/appstore/3-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
+<!-- [![hyperbowl review](/images/hyperbowl/appstore/3-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 
 <!-- [![hyperbowl review](/images/hyperbowl/steam/11-8-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/10-31-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/) -->
