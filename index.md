@@ -1,13 +1,13 @@
-### COVID-19
+#### COVID-19
 * <a href="https://www.southernnevadahealthdistrict.org/">Southern Nevada Health District</a>, <a href="https://nvhealthresponse.nv.gov/">Nevada Health Response</a>
 * <a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a>, <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
 
-### app news
+#### app news
 * [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253)
 * [Fugu Maze](https://technicat.itch.io/fugumaze) possibly my first app is back on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) also free
 * [Talk Dim Sum](http://talkdimsum.com/) is in use at the [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/)!
 
-### nice reviews
+#### nice reviews
 
 <!-- [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)  -->
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
