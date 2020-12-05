@@ -10,6 +10,7 @@
 #### nice reviews
 
 [![hyperbowl review](/images/hyperbowl/appstore/12-3-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl review](/images/hyperbowl/steam/11-8-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/10-31-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/) 
 [![hyperbowl review](/images/hyperbowl/appstore/8-21-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/steam/5-22-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
@@ -48,8 +49,7 @@
 [![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)  -->
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/3-19-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
 
-<!-- [![hyperbowl review](/images/hyperbowl/steam/11-8-2020.png)](https://store.steampowered.com/app/847530/HyperBowl/)
--->
+
 <!-- [![hyperbowl review](/images/hyperbowl/steam/12-1-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
  -->
 
