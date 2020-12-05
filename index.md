@@ -32,6 +32,7 @@
 [![hyperbowl review](/images/hyperbowl/steam/8-31-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl review](/images/hyperbowl/steam/10-3-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/) -->
 
+[![fugu maze review](/images/fugumaze/6-13-2011.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 [![fugu maze review](/images/fugumaze/6-20-2010.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
