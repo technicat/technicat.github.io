@@ -14,7 +14,7 @@
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![learnunity review](/images/learnunity/reviews/shmosef.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
-[![technicatonsoftware review](/images/technicatonsoftware/reviews/technicatonsoftwarereview.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
+[![technicatonsoftware review](/images/technicatonsoftware/reviews/8-23-2013.png)](https://smile.amazon.com/Technicat-Software-Philip-Chu/dp/1082483958)
 [![fugu maze review](/images/fugumaze/6-13-2011.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 
 
