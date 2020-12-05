@@ -22,6 +22,7 @@
 [![cinefex review](/images/cinefex/appstore/4-17-2018.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-15-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
+[![hyperbowl review](/images/hyperbowl/appstore/11-05-2017.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-8-11-2017.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 
 [![learnunity review](/images/learnunity/reviews/ivokunzler.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
@@ -38,7 +39,6 @@
 
 
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/3-23-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253) -->
-[![hyperbowl review](/images/hyperbowl/appstore/11-05-2017.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 <!-- [![hyperbowl review](/images/hyperbowl/appstore/1-20-2015.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/7-03-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl review](/images/hyperbowl/appstore/4-29-2014.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)  -->
