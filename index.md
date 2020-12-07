@@ -5,7 +5,7 @@
 ### app news
 * [HyperBowl](http://hyperbowl.fun/) is free on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253)
 * [Fugu Maze](https://technicat.itch.io/fugumaze) (my first app?) is back on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255) also free
-* [Talk Dim Sum](http://talkdimsum.com/) ([App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066)) is in use at the [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/)!
+* [Talk Dim Sum](http://talkdimsum.com/) ([App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066)) is used at the [Ottawa Chinese Language School](https://www.ocls-ottawa.ca/)!
 
 ### nice reviews
 
