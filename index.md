@@ -9,8 +9,8 @@
 
 ### nice reviews
 
-[![hyperbowl review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![hyperbowl review](/images/hyperbowl/steam/1-1-20201.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl app store review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl steam review](/images/hyperbowl/steam/1-1-2021.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![learnunity review](/images/learnunity/reviews/5-25-2014.png)](https://www.amazon.com/Learn-Unity-Development-Technology-Action/dp/1430248750)
