@@ -7,6 +7,12 @@
 * [Fugu Maze](https://technicat.itch.io/fugumaze) my first(?) app from 2008 is free on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255)
 * [Talk Dim Sum](http://talkdimsum.com/) ([App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066)) is in use at a [Chinese language school](https://www.ocls-ottawa.ca/)!
 
+### old news
+
+* Podcast interview with [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu)
+* See past and client projects on my [résumé](https://github.com/technicat/resume)
+* Biden won, he who shall not be named lost
+
 ### nice reviews
 
 [![hyperbowl app store review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
