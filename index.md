@@ -11,7 +11,7 @@
 
 * Podcast interview with [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu)
 * See past and client projects on my [résumé](https://github.com/technicat/resume)
-* Biden won, he who shall not be named lost
+* Biden won
 
 ### nice reviews
 
