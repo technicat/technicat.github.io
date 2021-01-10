@@ -10,7 +10,7 @@
 ### old news
 
 * Podcast interview with [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu)
-* See past and client projects on my [résumé](https://github.com/technicat/resume)
+* Past and client projects on my [résumé](https://github.com/technicat/resume)
 * Biden won
 
 ### nice reviews
