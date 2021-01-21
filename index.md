@@ -11,7 +11,7 @@
 
 * Podcast interview with [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu)
 * Past and client projects on my [résumé](https://github.com/technicat/resume)
-* Remnants of old [blogs](https://github.com/technicat/technicat-on-software)
+* Remnants of ancient [blogs](https://github.com/technicat/technicat-on-software)
 
 ### nice reviews
 
