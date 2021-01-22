@@ -1,51 +1,60 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <meta name="viewport" content="width=device-width">
+  <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        {% if site.logo %}
-          <a href="{{ site.github.owner_url }}"><img src="{{site.logo | relative_url}}" alt="Technicat on Github" /></a><br/>
-        {% endif %}
-        <a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img alt="App Store" src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
-<a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam" src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
-<a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg" height="40"></a>
-<a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
-<!-- a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast" src="/images/ionicons/svg/radio-sharp.svg" height="40"></a -->
-<a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg" height="40"></a>
-<a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg" height="40"></a>
-        
-      </header>
-      
-      <section>
-        
+</head>
+
+<body>
+  <div class="wrapper">
+    <header>
+      {% if site.logo %}
+      <a href="{{ site.github.owner_url }}"><img src="{{site.logo | relative_url}}"
+          alt="Technicat on Github" /></a><br />
+      {% endif %}
+      <a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img alt="App Store"
+          src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
+      <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam"
+          src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
+      <a href="https://technicat.itch.io/"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg"
+          height="40"></a>
+      <a href="https://vimeo.com/user127637069"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg"
+          height="40"></a>
+      <!-- a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast" src="/images/ionicons/svg/radio-sharp.svg" height="40"></a -->
+      <a href="https://www.pinterest.com/technicat/"><img alt="Pinterest" src="/images/ionicons/svg/logo-pinterest.svg"
+          height="40"></a>
+      <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-github.svg"
+          height="40"></a>
+
+    </header>
+
+    <section>
+
       {{ content }}
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>
-          Copyright &copy; 2017-2021 <a href="http://technicat.com/">Technicat LLC</a><br/>
-          <a href="https://www.pinterest.com/technicat/las-vegas/">Las Vegas, Nevada</a><br/>
-          Technicat logo by <a href="http://espressyourself.coffee">Dakota Snow</a><br/>
-          Icons from <a href="http://ionicons.com/">Ionicons</a><br/>
-          Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br/>
-          </small></p>
-      </footer>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    </section>
+    <footer>
+      {% if site.github.is_project_page %}
+      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <p><small>
+          Copyright &copy; 2017-2021 <a href="http://technicat.com/">Technicat LLC</a><br />
+          <a href="https://www.pinterest.com/technicat/las-vegas/">Las Vegas, Nevada</a><br />
+          Technicat logo by <a href="http://espressyourself.coffee">Dakota Snow</a><br />
+          Icons from <a href="http://ionicons.com/">Ionicons</a><br />
+          Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+        </small></p>
+    </footer>
+  </div>
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-  </body>
+</body>
+
 </html>
-
