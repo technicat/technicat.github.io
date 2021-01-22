@@ -7,10 +7,6 @@
 * [Fugu Maze](https://technicat.itch.io/fugumaze) my first app from way back is free on the [App Store](https://apps.apple.com/us/app/fugu-maze/id295808255)
 * [Talk Dim Sum](http://talkdimsum.com/) ([App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066)) is in use at a [Chinese language school](https://www.ocls-ottawa.ca/)!
 
-### odd news
-
-* Finished reading [Interior Chinatown](https://en.wikipedia.org/wiki/Interior_Chinatown). Funny, moving, slightly confusing.
-
 ### old news
 
 * Podcast interview with [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu)
