@@ -16,9 +16,9 @@
 
 ### nice reviews
 
+[![talkdimsum review](/images/talkdimsum/appstore/2-12-21.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![hyperbowl steam review](/images/hyperbowl/steam/1-1-2021.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl app store review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
 [![fugu maze review](/images/fugumaze/6-13-2011.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 
