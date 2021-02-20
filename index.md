@@ -21,7 +21,7 @@
 
 [![talkdimsum review](/images/talkdimsum/appstore/2-18-21.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![talkdimsum review](/images/talkdimsum/appstore/2-12-21.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![hyperbowl steam review](/images/hyperbowl/steam/2021-12-20.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl steam review](/images/hyperbowl/steam/2021-02-20.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl steam review](/images/hyperbowl/steam/1-1-2021.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl app store review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220)
