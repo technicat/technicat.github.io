@@ -25,6 +25,7 @@
 [![hyperbowl app store review](/images/hyperbowl/appstore/2-28-2012.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl app store review](/images/hyperbowl/appstore/5-13-2012.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl app store review](/images/hyperbowl/appstore/12-11-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
+[![hyperbowl app store review](/images/hyperbowl/appstore/6-10-2011.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl app store review](/images/hyperbowl/appstore/6-09-2010.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 [![hyperbowl app store review](/images/hyperbowl/appstore/6-04-2010.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
 
