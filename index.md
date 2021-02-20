@@ -3,7 +3,7 @@
 * <a href="https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s">National Public Radio</a>, <a href="https://coronavirus.jhu.edu/">Johns Hopkins University</a>
 
 ### new news
-* Blogging agin on [pc.cafe](https://pc.cafe/)
+* Blogging again on [pc.cafe](https://pc.cafe/)
 
 ### app news
 * Android, Linux, Mac, and Windows builds are on [Fugu Games](https://fugugames.com/)
