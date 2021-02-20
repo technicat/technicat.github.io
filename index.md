@@ -24,12 +24,11 @@
 [![hyperbowl steam review](/images/hyperbowl/steam/2021-02-20.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl steam review](/images/hyperbowl/steam/1-1-2021.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl app store review](/images/hyperbowl/appstore/12-18-2020.png)](https://apps.apple.com/us/app/hyperbowl/id344209253)
-[![talkdimsum review](/images/talkdimsum/appstore/4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-<!-- [![cinefex review](/images/cinefex/appstore/3-10-2020.png)](https://apps.apple.com/us/app/cinefex/id512379220) -->
-[![talkdimsum review](/images/talkdimsum/appstore/3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![talkdimsum review](/images/talkdimsum/appstore/8-11-2017.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-4-18-2020.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
+[![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-8-11-2017.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![fugu maze review](/images/fugumaze/6-13-2011.png)](https://apps.apple.com/us/app/fugu-maze/id295808255)
 
 
