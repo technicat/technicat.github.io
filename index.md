@@ -1,4 +1,5 @@
 [![hyperbowl steam review](/images/hyperbowl/steam/1-6-2022.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![talkdimsum review](/images/talkdimsum/appstore/1-3-2022.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![hyperbowl steam review](/images/hyperbowl/steam/12-13-2021.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl steam review](/images/hyperbowl/steam/2021-7-23.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![talkdimsum review](/images/talkdimsum/appstore/2-18-21.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
