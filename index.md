@@ -31,7 +31,7 @@
 [![hyperbowl steam review](/images/hyperbowl/steam/8-31-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![hyperbowl steam review](/images/hyperbowl/steam/7-5-2019.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-3-12-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
-[![hyperbowl steam review](/images/hyperbowl/steam/steam-2022-02-22.png)](https://store.steampowered.com/app/847530/HyperBowl/)
+[![hyperbowl steam review](/images/hyperbowl/steam/steam-2019-02-22.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-1-03-2019.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
 [![hyperbowl steam review](/images/hyperbowl/steam/8-12-2018.png)](https://store.steampowered.com/app/847530/HyperBowl/)
 [![talkdimsum review](/images/talkdimsum/appstore/talkdimsum-7-10-2018.png)](https://apps.apple.com/us/app/talk-dim-sum/id953929066)
