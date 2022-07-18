@@ -1,6 +1,4 @@
 
-Welcome to the [GitHub page](https://pages.github.com/) for [Technicat](https://technicat.github.io/)!
-
-Used to be the Technicat homepage, used with the [Minimal theme](https://github.com/orderedlist/minimal)
+The [Technicat](https://technicat.github.io/) github page based on the [Minimal theme](https://github.com/pages-themes/minimal) by [orderedlist](https://github.com/orderedlist/minimal)
 
 
