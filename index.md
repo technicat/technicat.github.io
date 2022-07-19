@@ -1,6 +1,13 @@
+# Apps and Games
 
-[![talk dim sum](/images/talkdimsum/icons/if_dim_sum_200.png)](talkdimsum)
-[![hyperbowl](/images/hyperbowl/icons/hyperbowl200.png)](hyperbowl)
-[![learn unity](/images/learnunity/cover.jpg)](learnunity)
-[![technicat on software](/images/technicatonsoftware/covers/bn200.jpg)](technicat-on-software)
+Self-publishing the [Talk Dim Sum](talkdimsum) app and the [HyperBowl](hyperbowl) viedogame. Old and new little [Fugu Games](http://fugugames.com/) published on [Itch.io](http://itch.io).
+
+# Books
+
+[Learn Unity 4 for iOS Game Development](learnunity4) published by Apress (obsolete but still in print), and [Technicat on Software](technicat-on-software) self-published (and self-unpublished).
+
+# Past Work
+
+Latest resume is in [JSON](resume), an old one in [XMl)(resumexml) is still hanging around, and for fun, an animated on in borrowed [WebGL](resumewgl).
+
 
