@@ -15,11 +15,16 @@
 <body>
   <div class="wrapper">
     <header>
+      <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
       {% if site.logo %}
       <a href="http://technicat.com/"><img src="{{site.logo | relative_url}}" alt="Technicat" /></a><br />
       {% endif %}
+
       <a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img alt="App Store"
           src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
+      <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam"
+          src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
       <a href="http://fugugames.com/"><img alt="Fugu Games" src="/images/ionicons/svg/game-controller-sharp.svg"
           height="40"></a>
       <a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast"
@@ -27,10 +32,8 @@
       <a href="https://vimeo.com/technicat"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
       <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
           height="40"></a>
-      <!-- a href="http://hyperbowl.fun/"><img alt="HyperBowl" src="/images/ionicons/svg/bowling-ball-sharp.svg"
-          height="40"></a -->
-      <!-- a href="http://pc.cafe/"><img alt="PC Cafe feed" src="/images/ionicons/svg/cafe-sharp.svg" height="40"></a -->
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+      <h1><a href="{{ " /" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
       <p>{{ site.description | default: site.github.project_tagline }}</p>
     </header>
 
@@ -49,7 +52,8 @@
           Owned and operated by <a href="http://philipchu.com/">Phil Chu</a><br />
           Technicat logo by <a href="http://espressyourself.coffee">Dakota Snow</a><br />
           Icons from <a href="http://ionicons.com/">Ionicons</a><br />
-          Hosted on GitHub Pages &mdash; Adapted from the <a href="https://github.com/pages-themes/minimal">Minimal</a> theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
+          Hosted on GitHub Pages &mdash; Adapted from the <a href="https://github.com/pages-themes/minimal">Minimal</a>
+          theme by <a href="https://github.com/orderedlist">orderedlist</a><br />
         </small></p>
     </footer>
   </div>
