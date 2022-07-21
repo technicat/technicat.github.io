@@ -6,11 +6,8 @@ Previous work is listed on my latest resume in [JSON](resume). An old one in [XM
 
 I've also written [Learn Unity 4 for iOS Game Development](learnunity) published by Apress (obsolete but still in print), and self-published [Technicat on Software](technicat-on-software).
 
-For fun: various little [Fugu Games](https://technicat.itch.io/) are also on Itch.io, and [processing pi](processing-pi).
+For fun: various little [Fugu Games](https://technicat.itch.io/) are also on Itch.io, and [processing pi](processing-pi), and these old [logos](logos), are on [Github](http://github.com/technicat).
 
-Some source (and these webpages) are on [Github](http://github.com/technicat).
-
-Also, check out all our old [logos](logos).
 
 
 
