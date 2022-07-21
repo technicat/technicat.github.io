@@ -10,7 +10,7 @@ I've written [Learn Unity 4 for iOS Game Development](learnunity), published by 
 
 For fun: various little [Fugu Games](https://technicat.itch.io/) (check out these old [logos](logos), and [processing pi](processing-pi).
 
-Many of these projects, and these webpages, or on [Github](http://github.com/technicat).
+Many of these projects, and these webpages, are on [Github](http://github.com/technicat).
 
 
 
