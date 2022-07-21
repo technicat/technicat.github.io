@@ -4,7 +4,7 @@ Current client projects include [Cinefex iPad Edition](https://apps.apple.com/us
 
 Previous work is listed on my latest resume in [JSON](resume). An old one in [XML](resumexml) is still hanging around, and for fun, an animated one in [WebGL](resumewgl), (borrowed from [Ben Gibbons](https://bgibbonsweb.github.io/webgl/resume.html)). I also have some [slides](gamedev-slides) presented at a talk for student game developers.
 
-I've also written [Learn Unity 4 for iOS Game Development](learnunity) published by Apress (obsolete but still in print), and self-published [Technicat on Software](technicat-on-software).
+I've written [Learn Unity 4 for iOS Game Development](learnunity), published by Apress (obsolete but still in print), and self-published (and un-published) [Technicat on Software](technicat-on-software).
 
 For fun: various little [Fugu Games](https://technicat.itch.io/) are also on Itch.io, and [processing pi](processing-pi), and these old [logos](logos), are on [Github](http://github.com/technicat).
 
