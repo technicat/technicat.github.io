@@ -8,7 +8,7 @@ Previous work is listed on my latest resume in [JSON](resume). An old one in [XM
 
 I've written [Learn Unity 4 for iOS Game Development](learnunity), published by Apress (obsolete but still in print), and self-published (and un-published) [Technicat on Software](technicat-on-software).
 
-For fun: various little [Fugu Games](https://technicat.itch.io/) (check out these old [logos](logos), and [processing pi](processing-pi).
+For fun: various little [Fugu Games](https://technicat.itch.io/) (check out these old [logos](logos)), and [processing pi](processing-pi).
 
 Many of these projects, and these webpages, are on [Github](http://github.com/technicat).
 
