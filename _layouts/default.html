@@ -25,8 +25,10 @@
       <a href="{{site.appstore}}"><img alt="App Store"
           src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
       {% endif %}
-      <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam"
+      {% if site.steam %}
+      <a href="{{site.steam}}"><img alt="Steam"
           src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
+      {% endif %}
       <a href="http://fugugames.com/"><img alt="Fugu Games" src="/images/ionicons/svg/game-controller-sharp.svg"
           height="40"></a>
       <a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast"
