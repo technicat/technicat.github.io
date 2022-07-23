@@ -21,8 +21,10 @@
       <a href="http://technicat.com/"><img src="{{site.logo | relative_url}}" alt="Technicat" /></a><br />
       {% endif %}
 
-      <a href="https://apps.apple.com/us/developer/technicat-llc/id295241742"><img alt="App Store"
+      {% if site.appstore %}
+      <a href="{{site.appstore}}"><img alt="App Store"
           src="/images/ionicons/svg/logo-apple-appstore.svg" height="40"></a>
+      {% endif %}
       <a href="https://store.steampowered.com/app/847530/HyperBowl/"><img alt="Steam"
           src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
       <a href="http://fugugames.com/"><img alt="Fugu Games" src="/images/ionicons/svg/game-controller-sharp.svg"
