@@ -28,9 +28,11 @@
       {% if site.steam %}
       <a href="{{site.steam}}"><img alt="Steam"
           src="/images/ionicons/svg/logo-steam.svg" height="40"></a>
-      {% endif %}
-      <a href="http://fugugames.com/"><img alt="Fugu Games" src="/images/ionicons/svg/game-controller-sharp.svg"
+      {% endif %}    
+      {% if site.itchio %}
+      <a href="{{site.itchio}}"><img alt="Itch.io" src="/images/ionicons/svg/game-controller-sharp.svg"
           height="40"></a>
+      {% endif %}  
       <a href="https://gamedevslikeyou.libsyn.com/phil-chu"><img alt="HomeTeam GameDev podcast"
           src="/images/ionicons/svg/radio-sharp.svg" height="40"></a>
       <a href="https://vimeo.com/technicat"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
