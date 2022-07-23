@@ -41,6 +41,10 @@
       <a href="{{site.github.owner_url}}"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
           height="40"></a>
       {% endif %}
+      {% if site.is_project_page %}
+      <a href="{{site.github.repository_url}}"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
+          height="40"></a>
+      {% endif %}
       <p />
       <p>{{ site.description | default: site.github.project_tagline }}</p>
     </header>
