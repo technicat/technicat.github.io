@@ -2,7 +2,7 @@
 
 Apps and games, principally [Talk Dim Sum](talkdimsum) on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066), and [HyperBowl](hyperbowl) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253?ign-mpt=uo%3D8), [Itch.io](https://technicat.itch.io/hyperbowl), and [Steam](https://store.steampowered.com/app/847530/HyperBowl/).
 
-Current client projects include [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220).
+Recent client projects include [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220).
 
 ## Previous Work
 
