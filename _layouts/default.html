@@ -38,11 +38,15 @@
       <a href="{{site.vimeo}}"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
       {% endif %}
       {% if site.is_user_page %}
-      <a href="{{site.github.owner_url}}"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
+      <a href="{{site.github.owner_url}}"><img alt="Github profile" src="/images/ionicons/svg/logo-octocat.svg"
           height="40"></a>
       {% endif %}
       {% if site.is_project_page %}
-      <a href="{{site.github.repository_url}}"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
+      <a href="{{site.github.repository_url}}"><img alt="Github project" src="/images/ionicons/svg/logo-octocat.svg"
+          height="40"></a>
+      {% endif %}
+      {% if site.show_downloads %}
+      <a href="{{site.github.releases_url}}"><img alt="Github releases" src="/images/ionicons/svg/download-outline.svg"
           height="40"></a>
       {% endif %}
       <p />
