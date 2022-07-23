@@ -37,7 +37,7 @@
       {% if site.vimeo %}
       <a href="{{site.vimeo}}"><img alt="Vimeo" src="/images/ionicons/svg/logo-vimeo.svg" height="40"></a>
       {% endif %}
-      <a href="https://github.com/technicat"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
+      <a href="{{site.github.owner_url}}"><img alt="Github" src="/images/ionicons/svg/logo-octocat.svg"
           height="40"></a>
       <p />
       <p>{{ site.description | default: site.github.project_tagline }}</p>
