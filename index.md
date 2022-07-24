@@ -4,7 +4,7 @@ Apps and games, principally [Talk Dim Sum](talkdimsum) on the [App Store](https:
 
 Recent client projects include [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220).
 
-## Previous Work
+## Past Projects
 
 My latest résumé in [JSON](resume). An old one in [XML](resumexml) is still hanging around, and for fun, an animated one in [WebGL](resumewgl), (borrowed from [Ben Gibbons](https://bgibbonsweb.github.io/webgl/resume.html)).
 
