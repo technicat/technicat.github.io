@@ -6,7 +6,7 @@ Recent client projects include [Cinefex iPad Edition](https://apps.apple.com/us/
 
 ## Past Projects
 
-My latest résumé in [JSON](resume). An old one in [XML](resumexml) is still hanging around, and for fun, an animated one in [WebGL](resumewgl), (borrowed from [Ben Gibbons](https://bgibbonsweb.github.io/webgl/resume.html)).
+My latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects. An old one in [XML](resumexml) is still hanging around, and for fun, an animated one in [WebGL](resumewgl), (borrowed from [Ben Gibbons](https://bgibbonsweb.github.io/webgl/resume.html)).
 
 [HomeTeam GameDev](https://hometeamgamedev.com/) interviewed me for their [podcast](https://gamedevslikeyou.libsyn.com/phil-chu). I also presented some [slides](gamedev-slides) to a game development class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/).
 
