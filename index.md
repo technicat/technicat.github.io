@@ -14,7 +14,7 @@ I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by Apres
 
 ## For Fun
 
-Various little [Fugu Games](https://technicat.itch.io/) (check out these old [logos](logos)) and [processing pi](processing-pi).
+Various little [Fugu Games](https://technicat.itch.io/) (check out these old [logos](logos)) and playing around with tools, like [processing pi](processing-pi) and [Ask an Asian American](aaaa).
 
 Many of these projects, and these webpages, are on [Github](http://github.com/technicat).
 
