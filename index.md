@@ -10,7 +10,7 @@ My latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projec
 
 [HomeTeam GameDev](https://hometeamgamedev.com/) interviewed me for their [podcast](https://gamedevslikeyou.libsyn.com/phil-chu). I also presented some [slides](gamedev-slides) to a game development class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/).
 
-I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by Apress (obsolete but still in print), and self-published (and un-published) [Technicat on Software](technicat-on-software).
+I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and self-published (and un-published) [Technicat on Software](technicat-on-software).
 
 ## For Fun
 
