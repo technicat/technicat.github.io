@@ -18,6 +18,7 @@ Various little [Fugu Games](https://technicat.itch.io/) (check out these old [lo
 
 Many of these projects, and these webpages, are on [Github](http://github.com/technicat).
 
+![babyoda](/images/babyyoda.jpg)
 
 
 
