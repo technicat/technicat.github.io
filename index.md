@@ -1,6 +1,6 @@
 ## Products
 
-[Talk Dim Sum](talkdimsum) on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) (actively maintained), and [HyperBowl](hyperbowl) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253?ign-mpt=uo%3D8) and [Steam](https://store.steampowered.com/app/847530/HyperBowl/) (not actively maintained).
+[Talk Dim Sum](talkdimsum) on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) (actively maintained), and [HyperBowl](hyperbowl) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253?ign-mpt=uo%3D8) and [Steam](https://store.steampowered.com/app/847530/HyperBowl/) (not maintained at all).
 
 Recent client projects include [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220).
 
