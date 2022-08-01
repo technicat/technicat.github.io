@@ -14,7 +14,7 @@ I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by [Apre
 
 ## For Fun
 
-Various little [Fugu Games](fugugames) (check out these old [logos](logos)) and playing around with tools, like calculating [pi](processing-pi) in [Processing](http://processing.org/) and writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), and [scripting](http://github.com/technicat/schemish) in Scheme.
+Various little [Fugu Games](fugugames) (check out these old [logos](logos)) and playing around with tools, like calculating [pi](processing-pi) in [Processing](http://processing.org/) and writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), and [scripting](http://github.com/technicat/schemish) in [Scheme](https://www.staging.scheme.org/).
 
 Many of these projects, and these webpages, are on [Github](http://github.com/technicat).
 
