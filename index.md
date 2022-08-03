@@ -8,7 +8,7 @@ Recent client projects include [Cinefex iPad Edition](https://apps.apple.com/us/
 
 My latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects, and an [old one](resumexml) in [XML](http://github.com/technicat/resumexml) is still hanging around.
 
-[HomeTeam GameDev](https://hometeamgamedev.com/) interviewed me for their [podcast](https://gamedevslikeyou.libsyn.com/phil-chu), and I presented some [career slides](gamedev-slides) to [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/)'s Ren'py class.
+[HomeTeam GameDev](https://hometeamgamedev.com/) interviewed me for their [podcast](https://gamedevslikeyou.libsyn.com/phil-chu), and I presented some [career slides](gamedev-slides) to the [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/).
 
 I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and self-published (and un-published) [Technicat on Software](technicat-on-software).
 
