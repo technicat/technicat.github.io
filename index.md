@@ -20,7 +20,8 @@ I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by [Apre
 
 Many of these projects are [open source](http://github.com/technicat/opensource) on [Github](http://github.com/technicat).
 
-![babyoda](/images/babyyoda.jpg)
+![catnap](/images/technicat/photo/halfcat.jpg)                                            
+
 
 
 
