@@ -16,7 +16,7 @@ I wrote [Learn Unity 4 for iOS Game Development](learnunity), published by [Apre
 
  Made little [Unity](http://unity3d.com/) games under the [Fugu Games](fugugames) label (check out the [logos](logos)).
  
- Now playing around with tools, like calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), [learning](http://github.com/technicat/learngodot) [Godot](http://godotengine.org/), and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
+Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), [learning](http://github.com/technicat/learngodot) [Godot](http://godotengine.org/), and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
 Many of these projects are partly or wholly [open source](http://github.com/technicat/opensource) on [Github](http://github.com/technicat).
 
