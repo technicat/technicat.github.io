@@ -6,4 +6,4 @@ show_downloads: false
 logo: /images/dakotasnow/CatGraphic300x300.jpg
 appstore: https://apps.apple.com/us/developer/technicat-llc/id295241742
 steam: https://store.steampowered.com/app/847530/HyperBowl/
-privacy: This site collects no data and leaves no cookies.
+privacy: This site collects no data (outside of Github analytics) and leaves no cookies.
