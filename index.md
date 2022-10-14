@@ -12,11 +12,11 @@ My latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projec
 
 ## Promotion
 
-I've been interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), presented some [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/) by my condo sales office.
+Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), presented some [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/) by my condo sales office.
 
 ## For Fun
 
- Made little [Unity](http://unity3d.com/) games under the [Fugu Games](fugugames) label (check out the [logos](logos)).
+ [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label (check out the [logos](logos)).
  
 Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), [learning](http://github.com/technicat/learngodot) [Godot](http://godotengine.org/), and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
