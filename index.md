@@ -4,7 +4,7 @@
 
 A client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220) is also on the App Store.
 
-Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects, and an [old one](resumexml) in [XML](http://github.com/technicat/resumexml) is still hanging around.
+Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)).
 
 ## Writing
 
