@@ -8,7 +8,7 @@ Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects 
 
 ## Writing
 
-[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published).
+[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published). Starting to [blog](http://technicat.cafe/) again.
 
 ## Promotion
 
