@@ -8,17 +8,17 @@ Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects 
 
 ## Writing
 
-[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published). Starting to [blog](http://technicat.cafe/) again.
+[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published).
 
 ## Promotion
 
-Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), presented some [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/) by my condo sales office.
+Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), presented [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
 
 ## For Fun
 
- [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label (check out the [logos](logos)).
+ [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label (check out the [logos](logos)), now [learning](http://github.com/technicat/learngodot) [Godot](http://godotengine.org/).
  
-Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/), [learning](http://github.com/technicat/learngodot) [Godot](http://godotengine.org/), and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
+Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
 Many of these projects are partly or wholly [open source](http://github.com/technicat/opensource) on [Github](http://github.com/technicat).
 
