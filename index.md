@@ -4,7 +4,7 @@
 
 A client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220) is also on the App Store.
 
-Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)).
+Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)), and presented [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/).
 
 ## Writing
 
@@ -12,7 +12,7 @@ Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects 
 
 ## Promotion
 
-Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), presented [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
+Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
 
 ## For Fun
 
