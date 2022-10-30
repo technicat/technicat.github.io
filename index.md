@@ -12,7 +12,7 @@ Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects 
 
 ## Promotion
 
-Interviewed by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), and called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
+Interviews by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
 
 ## For Fun
 
