@@ -10,9 +10,9 @@ Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects 
 
 [Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published).
 
-## Promotion
+## Interviews
 
-Interviews by [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
+By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
 
 ## For Fun
 
