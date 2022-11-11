@@ -18,7 +18,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label, now [learning Godot](http://github.com/technicat/learngodot).
 
-[SVG logos](http://github.com/technicat/learngodot) (see previous [logos](logos).
+Coding [logos](http://github.com/technicat/learngodot) in SVG (see previous [logos](logos).
  
 Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
