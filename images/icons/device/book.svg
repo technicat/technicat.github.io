@@ -6,9 +6,11 @@
     <g transform="translate(500 500)">
 
         <!-- case -->
-        <rect x="-350" y="-400" width="700" height="800" fill="black" />
+        <rect x="-350" y="-400" width="700" height="700" fill="black" />
         <!-- screen -->
-        <rect x="-300" y="-350" width="600" height="700" stroke="black" stroke-width="5" fill="white" />
+        <rect x="-300" y="-350" width="600" height="600" stroke="black" stroke-width="5" fill="white" />
+
+        <path d="M -350 -400 L 250 -300 L 250 400 L -350 300 z" fill="black" />
 
     </g>
 </svg>
