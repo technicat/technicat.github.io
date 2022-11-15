@@ -1,8 +1,7 @@
 ## Products and Projects
 
-[Talk Dim Sum](talkdimsum) on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) (actively maintained), and [HyperBowl](hyperbowl) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253?ign-mpt=uo%3D8) and [Steam](https://store.steampowered.com/app/847530/HyperBowl/) (not maintained at all).
-
-A client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220) is also on the App Store.
+[Talk Dim Sum](talkdimsum) on the [App Store](https://apps.apple.com/us/app/talk-dim-sum/id953929066) (actively maintained), and [HyperBowl](hyperbowl) on the [App Store](https://apps.apple.com/us/app/hyperbowl/id344209253?ign-mpt=uo%3D8) and [Steam](https://store.steampowered.com/app/847530/HyperBowl/) (not maintained at all), along with
+a client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220).
 
 Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)) plus some [gamedev career slides](gamedev-slides).
 
