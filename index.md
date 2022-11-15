@@ -23,7 +23,7 @@ Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/tec
 
 Many of these projects are partly or wholly [open source](http://github.com/technicat/opensource) on [Github](http://github.com/technicat).
 
-![catnap](/images/technicat/photo/halfcat.jpg)                                            
+[![catnap](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat)                                            
 
 
 
