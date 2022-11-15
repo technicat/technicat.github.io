@@ -4,7 +4,7 @@
 
 A client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id512379220) is also on the App Store.
 
-Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)) and presented [career slides](gamedev-slides) to a [Ren'py](https://www.renpy.org/) class taught by [Pam Lipson](https://www.technologyreview.com/innovator/pamela-lipson/).
+Latest [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)) plus some [gamedev career slides](gamedev-slides).
 
 ## Writing
 
