@@ -19,7 +19,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 [Icons](http://github.com/technicat/icons) are coded in SVG. Also check out previously commissioned Technicat and Fugu Games [logos](logos).
 
-## Odds and Emnds
+## Odds and Ends
 
 [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label, now [learning Godot](http://github.com/technicat/learngodot).
  
