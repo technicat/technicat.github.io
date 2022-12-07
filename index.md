@@ -15,11 +15,13 @@ My [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an 
 
 By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-and-unexpected-successes/) and [Hometeam Gamedev](https://gamedevslikeyou.libsyn.com/phil-chu), called a [software tycoon](https://juhllv.com/software-tycoon-plants-roots-at-juhl/).
 
-## For Fun
+## Graphics
+
+[Icons](http://github.com/technicat/icons) are coded in SVG. Also check out previously commissioned Technicat and Fugu Games [logos](logos).
+
+## Odds and Emnds
 
 [Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label, now [learning Godot](http://github.com/technicat/learngodot).
-
-Coding [icons](http://github.com/technicat/icons) in SVG (also check out [logos](logos)  commissioned).
  
 Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
