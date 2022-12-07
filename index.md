@@ -25,7 +25,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
  
 Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
-Many of these projects are partly or wholly [open source](http://github.com/technicat/opensource) on [Github](http://github.com/technicat).
+Many of these projects are on [Github](http://github.com/technicat).
 
 [![catnap](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat)                                            
 
