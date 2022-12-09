@@ -21,7 +21,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 ## Odds and Ends
 
-[Unity](http://unity3d.com/) mini games under the [Fugu Games](fugugames) label, now [learning Godot](http://github.com/technicat/learngodot). Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and scripting [tools](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
+Some old [Fugu Games](fugugames), now [learning Godot](http://github.com/technicat/learngodot). Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and [Scheme scripts](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html).
 
 Many of these projects are on [Github](http://github.com/technicat).
 
