@@ -17,7 +17,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 ## Graphics
 
-[Icons](http://github.com/technicat/icons) are coded in SVG. Also check out [logos](logos).
+Hand-coded SVG [icons](http://github.com/technicat/icons) and some commissioned [logos](logos).
 
 ## Odds and Ends
 
