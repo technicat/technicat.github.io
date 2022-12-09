@@ -9,7 +9,7 @@ My [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an 
 
 ## Writing
 
-[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) (obsolete but still in print), and [Technicat on Software](technicat-on-software) (self-published).
+[Learn Unity 4 for iOS Game Development](learnunity), published by [Apress](https://link.springer.com/book/10.1007/978-1-4302-4876-7) [Technicat on Software](technicat-on-software).
 
 ## Interviews
 
@@ -17,7 +17,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 ## Graphics
 
-[Icons](http://github.com/technicat/icons) are coded in SVG. Also check out previously commissioned Technicat and Fugu Games [logos](logos).
+[Icons](http://github.com/technicat/icons) are coded in SVG. Also check out [logos](logos).
 
 ## Odds and Ends
 
