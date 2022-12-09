@@ -5,7 +5,7 @@ a client project [Cinefex iPad Edition](https://apps.apple.com/us/app/cinefex/id
 
 ## Projects
 
-My [résumé](resume) in [JSON](http://jsonresume.org/) lists past projects (an [old one](resumexml) is in [XML](http://github.com/technicat/resumexml)) plus some [gamedev career slides](gamedev-slides).
+My [résumé](resume) and [gamedev career slides](gamedev-slides).
 
 ## Writing
 
