@@ -17,7 +17,7 @@ By [AppCraver](https://www.appcraver.com/phil-chu-talks-about-developing-apps-an
 
 ## Graphics
 
-Hand-coded SVG [icons](http://github.com/technicat/icons) and some commissioned [logos](logos).
+Hand-coded SVG [icons](http://github.com/technicat/icons) and commissioned [logos](logos).
 
 ## Odds and Ends
 
