@@ -49,11 +49,16 @@
 
       {{ content }}
 
-    </section>
+    </section><
     <footer>
       <small>
         <p>
-          Copyright &copy; 2017-2022 <a href="http://technicat.com/">Technicat LLC</a><br />
+          {% if site.copyright %}
+          Copyright &copy; {{site.copyright}}<br />
+          {% endif %}
+          {% if site.domain %}
+          <a href="https://{{site.domain}}/">{{site.domain}}</a>
+          {% endif %}
           On <a href="https://pages.github.com/">GitHub Pages</a> with a modified <a
             href="https://github.com/pages-themes/minimal">Minimal</a>
           theme
@@ -62,9 +67,6 @@
         <p>
           {{site.privacy}}
         </p>
-        {% endif %}
-        {% if site.domain %}
-        <a href="https://{{site.domain}}/">{{site.domain}}</a>
         {% endif %}
       </small>
     </footer>
