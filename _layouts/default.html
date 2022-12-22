@@ -53,6 +53,9 @@
     <footer>
       <small>
         <p>
+          {% if site.domain %}
+          <a href="https://{{site.domain}}/">{{site.domain}}</a><br />
+          {% endif %}
           {% if site.copyright %}
           Copyright &copy; {{site.copyright}}<br />
           {% endif %}
