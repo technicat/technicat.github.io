@@ -23,6 +23,10 @@ Hand-coded SVG [icons](http://github.com/technicat/icons) and commissioned [logo
 
 Some old [Fugu Games](fugugames), now [learning Godot](http://github.com/technicat/learngodot). Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and [Scheme scripts](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html). Open source on [Github](http://github.com/technicat).
 
+## Social
+
+On [Hive Social](https://hive.social) as technicat and on [Mastodon](https://technicat.cafe/@pc)
+
 [![catnap](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat)                                            
 
 
