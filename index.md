@@ -25,7 +25,7 @@ Some old [Fugu Games](fugugames), now [learning Godot](http://github.com/technic
 
 ## Social
 
-On [Hive Social](https://hivesocial.app) as technicat and on [Mastodon](https://technicat.cafe/@pc)
+Only on [Mastodon](https://universeodon.com/@technicat)
 
 [![catnap](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat)                                            
 
