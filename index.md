@@ -23,9 +23,9 @@ Hand-coded SVG [icons](http://github.com/technicat/icons) and commissioned [logo
 
 Some old [Fugu Games](fugugames), now [learning Godot](http://github.com/technicat/learngodot). Calculating pi in [Processing](processing-pi) and [Scheme](http://github.com/technicat/schemish), writing [Ask an Asian American](aaaa) in [Ink](https://www.inklestudios.com/ink/) and [Scheme scripts](http://github.com/technicat/schematic) in [Gauche](https://practical-scheme.net/gauche/index.html). Open source on [Github](http://github.com/technicat).
 
-## Social
+## Fediverse
 
-Only on [Mastodon](https://universeodon.com/@technicat)
+On [Mastodon](https://universeodon.com/@technicat)
 
 [![catnap](/images/technicat/photo/halfcat.jpg)](https://github.com/technicat)                                            
 
